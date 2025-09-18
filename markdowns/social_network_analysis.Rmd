@@ -1,0 +1,16 @@
+---
+title: "Social Network Analysis"
+author: "Sara Sokolinski"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+## Load the Libraries and Raw Data
+
+```{r}
+
+library(here)
+library(dplyr)
+
+```
+
