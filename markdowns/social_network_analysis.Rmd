@@ -11,6 +11,53 @@ output: html_document
 
 library(here)
 library(dplyr)
+library(readxl)
 
+fpath <- here("data", "Earth_MRI_Parent_Child_Publications_Citations_wAuthors.xlsx")
+shts <- excel_sheets(fpath)
+
+for(sh in shts){
+  x <- read_xlsx(fpath, sheet = sh)
+  assign(gsub('\\(|\\)', "", gsub(" ","_", tolower(sh))),x)
+}
+rm(sh,x,shts,fpath)
+
+source(here("scripts","clean_authors.r")) # creates authors.csv
+source(here("scripts","clean_publications.r")) # creates authors.csv
+
+# hold off on cleaning child pubs until I have a table example for the parent publications
 ```
+
+
+# Create Co-authorship Table
+
+```{r}
+# create a function to count the number of publiations in common when given two author_ids
+count_coauthors <- function(x, y){
+  df <- parent_pub_authors %>% filter(!is.na(Author_IDs))
+  x_pubs <- df$pub_id[df$Author_IDs==x]
+  y_pubs <- df$pub_id[df$Author_IDs==y]
+  return(length(intersect(x_pubs,y_pubs)))
+}
+
+co_authorship <- expand_grid(authors_parent$author_id, authors_parent$author_id) 
+colnames(co_authorship) <- c("author_id", "author_1")
+
+
+co_authorship <- co_authorship %>% rowwise %>%
+  mutate("pub_count" = count_coauthors(author_id, author_1))
+
+
+co_authorship <- co_authorship %>% pivot_wider(names_from = author_1,
+                                               values_from = pub_count)
+  
+co_authorship <- co_authorship %>% left_join(authors_parent %>% select(author_name, author_id)) %>%
+  select(author_name, author_id, everything())
+
+write.csv(co_authorship, here("data", "tables", "parent_pub_co_authorship.csv"))
+```
+
+
+
+
 

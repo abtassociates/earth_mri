@@ -1,0 +1,200 @@
+"","Notes","author_id","author_name","canonical_key","extra","last_name","first_name","middle_name","replacement"
+"1","",6,"Acosta, M.","acosta|m",NA,"Acosta","M",NA,NA
+"2","",12,"Ahrendt, Gabriel C.","ahrendt|gc",NA,"Ahrendt","Gabriel","C",NA
+"3","",19,"Albinati, A.","albinati|a",NA,"Albinati","A",NA,NA
+"4","",31,"Amaral, Chelsea Morgan","amaral|cm",NA,"Amaral","Chelsea","Morgan",NA
+"5","",40,"Andersen, A.","anders|a",NA,"Andersen","A",NA,NA
+"6","",35,"Anderson, E.","anderson|e",NA,"Anderson","E",NA,NA
+"7","Fixed author_name to have the right order (Last, First Middle Jr). This will replace ID=43 which only has the first initial",596,"Andrews, William M. Jr","jr|wma","Jr","Andrews","William","M",NA
+"8","",56,"Asiala, Carol","asiala|c",NA,"Asiala","Carol",NA,NA
+"9","",58,"Athey, Jennifer E.","athey|je",NA,"Athey","Jennifer","E",NA
+"10","",59,"Attia, S.","attia|s",NA,"Attia","S",NA,NA
+"11","",60,"Aumen, N G","aumen|n",NA,"Aumen","N","G",NA
+"12","",61,"Avirett, Dylan F.","avirett|df",NA,"Avirett","Dylan","F",NA
+"13","",64,"Azain, Jaime S.","azain|js",NA,"Azain","Jaime","S",NA
+"14","",1348,"Ball, L. B.",NA,NA,"Ball","L","B",NA
+"15","",83,"Barrera, Michael L.","barrera|ml",NA,"Barrera","Michael","L",NA
+"16","",93,"Bedrosian, Paul A.","bedrosian|pa",NA,"Bedrosian","Paul","A",NA
+"17","",98,"Benjamin J Drenth, Ph.D","benjaminjdrenth|p","Ph.D","Drenth","Benjamin","J",NA
+"18","",101,"Benowitz, J.","benowitz|j",NA,"Benowitz","J",NA,NA
+"19","",106,"Bernard, Curtis M.","bernard|cm",NA,"Bernard","Curtis","M",NA
+"20","",117,"Biegel, J.","biegel|j",NA,"Biegel","J",NA,NA
+"21","",120,"Bird, Philip H.","bird|ph",NA,"Bird","Philip","H",NA
+"22","",122,"Blackwell, Noel J S","blackwell|nj",NA,"Blackwell","Noel","J S",NA
+"23","",1346,"Blakely, Richard J",NA,NA,"Blakely","Richard","J",NA
+"24","",125,"Blasch, K W","blasch|k",NA,"Blasch","K","W",NA
+"25","",1351,"Block, Amy Radakovich",NA,NA,"Block","Amy","Radakovich",NA
+"26","",144,"Bradford, J.","bradford|j",NA,"Bradford","J",NA,NA
+"27","",153,"Brennan, S.","brennan|s",NA,"Brennan","S",NA,NA
+"28","",163,"Brown, D S","brown|d",NA,"Brown","D","S",NA
+"29","",165,"Brown, P J","brown|p",NA,"Brown","P","J",NA
+"30","",166,"Brown, S E","brown|s",NA,"Brown","S","E",NA
+"31","",170,"Buchanan, J W","buchanan|j",NA,"Buchanan","J","W",NA
+"32","",180,"Campbell, Kate M.","campbell|km",NA,"Campbell","Kate","M",NA
+"33","",185,"Cannon, W F","cannon|w",NA,"Cannon","W","F",NA
+"34","",191,"Case, George N. D.","case|gnd",NA,"Case","George","N D",NA
+"35","",207,"Choate, L M","choate|l",NA,"Choate","L","M",NA
+"36","",1336,"Connell, Dylan M",NA,NA,"Connell","Dylan","M",NA
+"37","",243,"Cox, E M","cox|e",NA,"Cox","E","M",NA
+"38","",254,"Curl, Douglas C.","curl|dc",NA,"Curl","Douglas","C",NA
+"39","",259,"Dahm, K.","dahm|k",NA,"Dahm","K",NA,NA
+"40","",261,"Darin, Michael H.","darin|mh",NA,"Darin","Michael","H",NA
+"41","",270,"Day, Warren C.","day|wc",NA,"Day","Warren","C",NA
+"42","",275,"Dean, D.","dean|d",NA,"Dean","D",NA,NA
+"43","",279,"Dee, Seth","dee|s",NA,"Dee","Seth",NA,NA
+"44","",278,"Deering, Chad D.","deering|cd",NA,"Deering","Chad","D",NA
+"45","",280,"DeGraff, James M.","degraff|jm",NA,"DeGraff","James","M",NA
+"46","",284,"Denham, Andrew T.","denham|at",NA,"Denham","Andrew","T",NA
+"47","",292,"Dicken, C.","dicken|c",NA,"Dicken","C",NA,NA
+"48","",294,"Dietsch, Craig","dietsch|c",NA,"Dietsch","Craig",NA,NA
+"49","",1333,"Doar,William",NA,NA,"Doar,William",NA,NA,NA
+"50","",305,"Drenth, Benjamin J.","drenth|bj",NA,"Drenth","Benjamin","J",NA
+"51","",315,"Earney, Tait E.","earney|te",NA,"Earney","Tait","E",NA
+"52","",316,"Eastman, K A","eastman|k",NA,"Eastman","K","A",NA
+"53","",318,"Eble, Cortland","eble|c",NA,"Eble","Cortland",NA,NA
+"54","",327,"Emond, A.","emond|a",NA,"Emond","A",NA,NA
+"55","",328,"Emsbo, Poul","emsbo|p",NA,"Emsbo","Poul",NA,NA
+"56","",331,"Erber, Nathan","erber|n",NA,"Erber","Nathan",NA,NA
+"57","",340,"Essig, Espree E.","essig|ee",NA,"Essig","Espree","E",NA
+"58","",359,"Fessenden, Serena N.","fessenden|sn",NA,"Fessenden","Serena","N",NA
+"59","",362,"Fikru, M G","fikru|m",NA,"Fikru","M","G",NA
+"60","",1339,"Fitzpatrick, W. A.",NA,NA,"Fitzpatrick","W","A",NA
+"61","",372,"Foley, N.","foley|n",NA,"Foley","N",NA,NA
+"62","",375,"Fortier, Steven M.","fortier|sm",NA,"Fortier","Steven","M",NA
+"63","",383,"Frost, T.","frost|t",NA,"Frost","T",NA,NA
+"64","",384,"Frus, R.","frus|r",NA,"Frus","R",NA,NA
+"65","",385,"Funk, J A","funk|j",NA,"Funk","J","A",NA
+"66","",386,"Fusso, L A","fusso|l",NA,"Fusso","L","A",NA
+"67","",391,"Gannon, Ian M.","gannon|im",NA,"Gannon","Ian","M",NA
+"68","",402,"Gavel, Michelle M.","gavel|mm",NA,"Gavel","Michelle","M",NA
+"69","",421,"Glen, Jonathan M G","glen|jm",NA,"Glen","Jonathan","M G",NA
+"70","",1342,"Gnesda, William R",NA,NA,"Gnesda","William","R",NA
+"71","",432,"Graham, Garth E.","graham|ge",NA,"Graham","Garth","E",NA
+"72","",434,"Grauch, V. J. S.","grauch|vjs",NA,"Grauch","V","J S",NA
+"73","",445,"Guzman, M A","guzman|m",NA,"Guzman","M","A",NA
+"74","",454,"Hall, S.","hall|s",NA,"Hall","S",NA,NA
+"75","",458,"Hammarstrom, Jane M.","hammarstrom|jm",NA,"Hammarstrom","Jane","M",NA
+"76","",462,"Hanna, Heather","hanna|h",NA,"Hanna","Heather",NA,NA
+"77","",1332,"Harris, M. Scott",NA,NA,"Harris","M","Scott",NA
+"78","",474,"Harvey, David A.","harvey|da",NA,"Harvey","David","A",NA
+"79","",476,"Hawbaker, T.","hawbaker|t",NA,"Hawbaker","T",NA,NA
+"80","",478,"Hayes, S.","hayes|s",NA,"Hayes","S",NA,NA
+"81","",489,"Heizler, Matthew T.","heizler|mt",NA,"Heizler","Matthew","T",NA
+"82","",496,"Hickman, John B.","hickman|jb",NA,"Hickman","John","B",NA
+"83","",503,"Hoefen, T M","hoefen|t",NA,"Hoefen","T","M",NA
+"84","",505,"Hofstra, A H","hofstra|a",NA,"Hofstra","A","H",NA
+"85","",507,"Holland, M. S P","holland|ms",NA,"Holland","M","S P",NA
+"86","",508,"Holm-Denoma, C S","holmdenoma|c",NA,"Holm-Denoma","C","S",NA
+"87","Fixed author_name to have the right order (Last, First Middle Jr). This will replace ID=516 which only has the first initial",595,"Horton, J. W. Jr","jr|jwh","Jr","Horton","J","W",NA
+"88","",517,"Horton, R J","horton|r",NA,"Horton","R","J",NA
+"89","",527,"Hubbard, Angie K.","hubbard|ak",NA,"Hubbard","Angie","K",NA
+"90","",531,"Hudak, G J","hudak|g",NA,"Hudak","G","J",NA
+"91","",537,"Hunt, R J","hunt|r",NA,"Hunt","R","J",NA
+"92","",558,"Iverson, Nels","iverson|n",NA,"Iverson","Nels",NA,NA
+"93","",570,"Jenni, K E","jenni|k",NA,"Jenni","K","E",NA
+"94","",580,"Johnsen, Racheal L.","johnsen|rl",NA,"Johnsen","Racheal","L",NA
+"95","",1337,"Johnson, Michaela R",NA,NA,"Johnson","Michaela","R",NA
+"96","Fixed author_name to have the right order (Last, First Middle III). This will replace ID=599 which only has the first initial & ID=588 which only has the first initial",550,"Jones, James V. III","iii|jvj","III","Jones","James","V",NA
+"97","",591,"Jr, Gary Daft","jr|gd",NA,"Jr","Gary","Daft",NA
+"98","",1344,"Karl, Nick A",NA,NA,"Karl","Nick","A",NA
+"99","",614,"Kelley, K.","kelley|k",NA,"Kelley","K",NA,NA
+"100","",615,"Kelley, Richard","kelley|r",NA,"Kelley","Richard",NA,NA
+"101","",616,"Kelley, Shari","kelley|s",NA,"Kelley","Shari",NA,NA
+"102","",621,"Ketcham, R.","ketcham|r",NA,"Ketcham","R",NA,NA
+"103","",1343,"Knudsen, Liam D",NA,NA,"Knudsen","Liam","D",NA
+"104","",643,"Kokaly, R F","kokaly|r",NA,"Kokaly","R","F",NA
+"105","",655,"Kreiner, Douglas C.","kreiner|dc",NA,"Kreiner","Douglas","C",NA
+"106","",657,"Kuiper, Y D","kuiper|y",NA,"Kuiper","Y","D",NA
+"107","",663,"Kylander-Clark, A R C","kylanderclark|a",NA,"Kylander-Clark","A","R C",NA
+"108","",667,"Langhans, A D Allen","langhans|aa","Allen","Langhans","A","D",NA
+"109","",678,"Lederer, Graham W.","lederer|gw",NA,"Lederer","Graham","W",NA
+"110","",1328,"Lentz, David R.",NA,NA,"Lentz","David","R",NA
+"111","",697,"Lizzadro-McPherson, Daniel","lizzadromcpherson|d",NA,"Lizzadro-McPherson","Daniel",NA,NA
+"112","",705,"Loferski, Patricia","loferski|p",NA,"Loferski","Patricia",NA,NA
+"113","",707,"Lopez, Julian A.","lopez|ja",NA,"Lopez","Julian","A",NA
+"114","",713,"Lukoczki, Georgina","lukoczki|g",NA,"Lukoczki","Georgina",NA,NA
+"115","",728,"Macqueen, Patricia G.","macqueen|pg",NA,"Macqueen","Patricia","G",NA
+"116","",731,"Magnin, B P","magnin|b",NA,"Magnin","B","P",NA
+"117","",748,"Marvinney, R G","marvinney|r",NA,"Marvinney","R","G",NA
+"118","",753,"Masterman, Steve S.","masterman|ss",NA,"Masterman","Steve","S",NA
+"119","",761,"Mauk, Jeffrey L.","mauk|jl",NA,"Mauk","Jeffrey","L",NA
+"120","fixed author_name to be in proper case",1335,"Maune, David F.",NA,NA,"MAUNE","DAVID","F",NA
+"121","",770,"McCafferty, Anne E.","mccafferty|ae",NA,"McCafferty","Anne","E",NA
+"122","",776,"McLemore, Virginia T.","mclemore|vt",NA,"McLemore","Virginia","T",NA
+"123","",780,"McPhee, Darcy","mcphee|d",NA,"McPhee","Darcy",NA,NA
+"124","",791,"Meyer, J M","meyer|j",NA,"Meyer","J","M",NA
+"125","",1345,"Mitchell, Ryan J.",NA,NA,"Mitchell","Ryan","J",NA
+"126","",817,"Monroe, A.","monroe|a",NA,"Monroe","A",NA,NA
+"127","",820,"Moore, Jessica","moore|j",NA,"Moore","Jessica",NA,NA
+"128","",829,"Morris, Emily","morris|e",NA,"Morris","Emily",NA,NA
+"129","",1330,"Morrow, Robert",NA,NA,"Morrow","Robert",NA,NA
+"130","",833,"Moshrefzadeh, J.","moshrefzadeh|j",NA,"Moshrefzadeh","J",NA,NA
+"131","",840,"Mroz, Thomas","mroz|t",NA,"Mroz","Thomas",NA,NA
+"132","",845,"Muller, Izzy P.","muller|ip",NA,"Muller","Izzy","P",NA
+"133","",846,"Murchek, Jacob T.","murchek|jt",NA,"Murchek","Jacob","T",NA
+"134","",848,"Murdoch, P S","murdoch|p",NA,"Murdoch","P","S",NA
+"135","",859,"Naibert, Travis J.","naibert|tj",NA,"Naibert","Travis","J",NA
+"136","",1327,"Nassar, Nedal T.",NA,NA,"Nassar","Nedal","T",NA
+"137","",864,"Newberry, Rainer J.","newberry|rj",NA,"Newberry","Rainer","J",NA
+"138","",879,"Nolan, V P","nolan|v",NA,"Nolan","V","P",NA
+"139","",880,"Norwood, L.","norwood|l",NA,"Norwood","L",NA,NA
+"140","",897,"O'Sullivan, P B","osullivan|p",NA,"O'Sullivan","P","B",NA
+"141","",899,"Owen, Evan J.","owen|ej",NA,"Owen","Evan","J",NA
+"142","",1331,"Pace, Michael",NA,NA,"Pace","Michael",NA,NA
+"143","",918,"Pearson, Anna","pearson|a",NA,"Pearson","Anna",NA,NA
+"144","",926,"Petersen, E I","petersen|e",NA,"Petersen","E","I",NA
+"145","",936,"Phelps, Geoffrey","phelps|g",NA,"Phelps","Geoffrey",NA,NA
+"146","",939,"Piatak, N.","piatak|n",NA,"Piatak","N",NA,NA
+"147","",941,"Pineault, David George","pineault|dg",NA,"Pineault","David","George",NA
+"148","",947,"Ponce, D.","ponce|d",NA,"Ponce","D",NA,NA
+"149","",954,"Pratt, T. L.","pratt|tl",NA,"Pratt","T","L",NA
+"150","",959,"Pulliam, Carrie","pulliam|c",NA,"Pulliam","Carrie",NA,NA
+"151","",965,"Qi, S.","qi|s",NA,"Qi","S",NA,NA
+"152","",986,"Regan, Sean P.","regan|sp",NA,"Regan","Sean","P",NA
+"153","",998,"Robinson, Devan M.","robinson|dm",NA,"Robinson","Devan","M",NA
+"154","",1008,"Rosera, Joshua M.","rosera|jm",NA,"Rosera","Joshua","M",NA
+"155","",1011,"Royce, Bethany","royce|b",NA,"Royce","Bethany",NA,NA
+"156","",1021,"Ryker, S J","ryker|s",NA,"Ryker","S","J",NA
+"157","",1352,"Saari, Stacy",NA,NA,"Saari","Stacy",NA,NA
+"158","",1326,"San Juan, C. A.",NA,"San","Juan","C","A",NA
+"159","",1033,"Scheirer, Dan","scheirer|d",NA,"Scheirer","Dan",NA,NA
+"160","",1341,"Schmeda, German",NA,NA,"Schmeda","German",NA,NA
+"161","",1349,"Schweitzer, P. N.",NA,NA,"Schweitzer","P","N",NA
+"162","Fixed author_name to have the right order (Last, First Middle III). This will replace ID=1013 which only has the first initial & ID=1046 which only has the first & last name",996,"Seal, Robert R. II","robertrseal|i","II","Seal","Robert","R",NA
+"163","",1052,"Shah, A. K.","shah|ak",NA,"Shah","A","K",NA
+"164","",1071,"Sicard, Karri R.","sicard|kr",NA,"Sicard","Karri","R",NA
+"165","",1083,"Slack, J F","slack|j",NA,"Slack","J","F",NA
+"166","",1085,"Smirnov, Aleksey V.","smirnov|av",NA,"Smirnov","Aleksey","V",NA
+"167","",1350,"Smith, B. D.",NA,NA,"Smith","B","D",NA
+"168","",1091,"Solano, Federico","solano|f",NA,"Solano","Federico",NA,NA
+"169","",1096,"Souders","souders|",NA,"Souders",NA,NA,NA
+"170","",1347,"Staisch, Lydia M",NA,NA,"Staisch","Lydia","M",NA
+"171","",1340,"Stewart, E. D.",NA,NA,"Stewart","E","D",NA
+"172","",1114,"Stillings, L.","stillings|l",NA,"Stillings","L",NA,NA
+"173","",1115,"Stoeser, D.","stoeser|d",NA,"Stoeser","D",NA,NA
+"174","",1132,"Swayze, G A","swayze|g",NA,"Swayze","G","A",NA
+"175","",1135,"Szumigala, David J.","szumigala|dj",NA,"Szumigala","David","J",NA
+"176","",1163,"Todd, Erin","todd|e",NA,"Todd","Erin",NA,NA
+"177","",1334,"Torregrosa, A.",NA,NA,"Torregrosa","A",NA,NA
+"178","",1176,"Truskowski, Conner M.","truskowski|cm",NA,"Truskowski","Conner","M",NA
+"179","",1338,"Turner, M. M.",NA,NA,"Turner","M","M",NA
+"180","",1178,"Twelker, Evan","twelker|e",NA,"Twelker","Evan",NA,NA
+"181","Fixed author_name (& last name/extra) to use be 'Van Gosen' This will replace ID=1188 which only has first initial and last name",429,"Van Gosen, B S","gosen|bv",NA,"Van Gosen","B","S",NA
+"182","",1193,"Verplanck, P.","verplanck|p",NA,"Verplanck","P",NA,NA
+"183","",1194,"Vicroy, Stephanie","vicroy|s",NA,"Vicroy","Stephanie",NA,NA
+"184","",1200,"Voosen, Paul","voosen|p",NA,"Voosen","Paul",NA,NA
+"185","",1211,"Wang, C.","wang|c",NA,"Wang","C",NA,NA
+"186","",1230,"Werdon, Melanie B.","werdon|mb",NA,"Werdon","Melanie","B",NA
+"187","",1239,"White, S J","white|s",NA,"White","S","J",NA
+"188","",1329,"Whittaker, Amber T. H.",NA,NA,"Whittaker","Amber","T H",NA
+"189","",1241,"Wildland, Alec D.","wildland|ad",NA,"Wildland","Alec","D",NA
+"190","",1243,"Williams, D M","williams|d",NA,"Williams","D","M",NA
+"191","",1247,"Willis, B T M","willis|b",NA,"Willis","B","T M",NA
+"192","",1251,"Wilson, T S","wilson|t",NA,"Wilson","T","S",NA
+"193","",1252,"Wiltermuth, M T","wiltermuth|m",NA,"Wiltermuth","M","T",NA
+"194","",1256,"Woodruff, L.","woodruff|l",NA,"Woodruff","L",NA,NA
+"195","",1266,"Wyatt, W. Chris","wyatt|wc",NA,"Wyatt","W","Chris",NA
+"196","",1267,"Wypych, Alicja","wypych|a",NA,"Wypych","Alicja",NA,NA
+"197","",1285,"Yates, M G","yates|m",NA,"Yates","M","G",NA
+"198","",1320,"Zimmerer, Mathew","zimmerer|m",NA,"Zimmerer","Mathew",NA,NA
+"199","",1323,"Zuza, Andrew V.","zuza|av",NA,"Zuza","Andrew","V",NA
