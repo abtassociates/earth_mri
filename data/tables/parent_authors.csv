@@ -95,7 +95,7 @@
 "94","",580,"Johnsen, Racheal L.","johnsen|rl",NA,"Johnsen","Racheal","L",NA
 "95","",1337,"Johnson, Michaela R",NA,NA,"Johnson","Michaela","R",NA
 "96","Fixed author_name to have the right order (Last, First Middle III). This will replace ID=599 which only has the first initial & ID=588 which only has the first initial",550,"Jones, James V. III","iii|jvj","III","Jones","James","V",NA
-"97","",591,"Jr, Gary Daft","jr|gd",NA,"Jr","Gary","Daft",NA
+"97","Fixed author_name to have the right order (Last, First Jr)",591,"Daft, Gary Jr","jr|gd","Jr","Daft","Gary",NA,NA
 "98","",1344,"Karl, Nick A",NA,NA,"Karl","Nick","A",NA
 "99","",614,"Kelley, K.","kelley|k",NA,"Kelley","K",NA,NA
 "100","",615,"Kelley, Richard","kelley|r",NA,"Kelley","Richard",NA,NA
@@ -156,7 +156,7 @@
 "155","",1011,"Royce, Bethany","royce|b",NA,"Royce","Bethany",NA,NA
 "156","",1021,"Ryker, S J","ryker|s",NA,"Ryker","S","J",NA
 "157","",1352,"Saari, Stacy",NA,NA,"Saari","Stacy",NA,NA
-"158","",1326,"San Juan, C. A.",NA,"San","Juan","C","A",NA
+"158","Fixed to have San in last name",1326,"San Juan, C. A.",NA,NA,"San Juan","C","A",NA
 "159","",1033,"Scheirer, Dan","scheirer|d",NA,"Scheirer","Dan",NA,NA
 "160","",1341,"Schmeda, German",NA,NA,"Schmeda","German",NA,NA
 "161","",1349,"Schweitzer, P. N.",NA,NA,"Schweitzer","P","N",NA
