@@ -1,22 +1,5 @@
-# clean raw input file into csv tables 
 
-# Publications
-## Parent and Children Concat ------------------------------------
-
-### split parent and child publications --------------------------
-parent_pubs <- parent_and_children_concat %>% filter(Type=="Parent") %>% select(-Type, -Record_Type)
-child_pubs <- parent_and_children_concat %>% filter(Type=="Child") %>% select(-Type, -Record_Type)
-
-# remove columns only relevant to children from parents
-keep_cols <- apply(parent_pubs, 2, FUN = function(x){!all(is.na(x))})
-parent_pubs <- parent_pubs %>% select(names(keep_cols[keep_cols]))
-
-# remove columns only relevant to parents from children
-keep_cols <- apply(child_pubs, 2, FUN = function(x){!all(is.na(x))})
-child_pubs <- child_pubs %>% select(names(keep_cols[keep_cols]))
-
-rm(keep_cols, parent_and_children_concat)
-### clean parents ------------------------------------------------
+### clean parent publications 
 
 # clean the publishers -----------------------
 parent_pubs <- parent_pubs %>% 
@@ -103,48 +86,14 @@ rm(author_id_counts)
 parent_manual <- read.csv(here("data","tables","manual_review", "parent_pubs_author_ids.csv")) %>% 
   select(pub_id, X_LLM_Authors_IDs, X_LLM_Authors_Parsed, NEW_AUTHORS )
 
-# add new authors to author.csv table
-new_authors <- unique(strsplit(as.character(parent_manual$NEW_AUTHORS), split= ";") %>% unlist)
-new_authors <- trimws( new_authors[!is.na(new_authors)])
-new_authors <- data.frame(author_name = new_authors)
+source(here("scripts","add_new_authors.r"))
 
-# replicate the cleaning we did in 'clean_authors.r'
-names <- stringr::str_split(new_authors$author_name, ' |, ')
-new_authors$last_name <- unlist(lapply(names, FUN=function(x){x[[1]]}))
+parent_manual <- add_new_authors(review_df = parent_manual, 
+                                 authors_df = authors)
+parent_manual[["new_authors"]]
+authors <- parent_manual[["authors"]]
+parent_manual <- parent_manual[["review_df"]]
 
-new_authors$first_name <- unlist(lapply(names, FUN=function(x){
-  if(length(x)>1){ return(gsub("\\.","", x[[2]]))
-  }else{ return(NA)
-  }}))
-
-new_authors$middle_name <- unlist(lapply(names, FUN=function(x){
-  if(length(x)>2){ return(gsub("\\.","", paste(x[3:length(x)], collapse = " ")))
-  }else{ return(NA)
-  }}))
-rm(names)
-new_authors <- new_authors %>% # fix san juan, c. a. 
-  mutate( first_name = ifelse(last_name=="San", "C", first_name),
-          middle_name = ifelse(last_name=="San", "A", middle_name),
-          extra = ifelse(last_name=="San", "San", NA),
-          last_name = ifelse(last_name=="San", "Juan", last_name)
-          )
-new_authors$author_id <- max(authors$author_id) + 1:nrow(new_authors)
-authors <- authors %>% full_join(new_authors)
-
-write.csv(authors, here("data","tables","authors.csv"), row.names = FALSE)
-
-# Add these new authors and author_ids to columns X_LLM_Authors_IDs & X_LLM_Authors_Parsed
-for(i in 1:nrow(new_authors)){
-  parent_manual <- parent_manual %>% 
-    mutate(X_LLM_Authors_IDs = ifelse(grepl(new_authors$author_name[i], NEW_AUTHORS),
-                            paste(X_LLM_Authors_IDs, new_authors$author_id[i], sep = "; "),
-                            X_LLM_Authors_IDs),
-           X_LLM_Authors_Parsed = ifelse(grepl(new_authors$author_name[i], NEW_AUTHORS),
-                                      paste(X_LLM_Authors_Parsed, new_authors$author_name[i], sep = "; "),
-                                      X_LLM_Authors_Parsed),
-    )
-}
-rm(new_authors,i)
 # fix '; 1335' and '; MAUNE, DAVID F.'
 parent_manual <- parent_manual %>% 
   mutate(X_LLM_Authors_IDs = ifelse(X_LLM_Authors_IDs == "; 1335", "1335", X_LLM_Authors_IDs),
@@ -156,7 +105,7 @@ parent_pubs <- parent_pubs %>% left_join(parent_manual, by = "pub_id") %>%
          X_LLM_Authors_Parsed = ifelse(is.na(X_LLM_Authors_Parsed.y), X_LLM_Authors_Parsed.x, X_LLM_Authors_Parsed.y)) %>%
   select(-X_LLM_Authors_IDs.x, -X_LLM_Authors_IDs.y, 
          -X_LLM_Authors_Parsed.x, -X_LLM_Authors_Parsed.y,
-         -count_authors,-count_author_ids,  -NEW_AUTHORS, -X_LLM_Authors, - X_LLM_Authors_Clean)
+         -count_authors,-count_author_ids,  -X_LLM_Authors, - X_LLM_Authors_Clean)
 
 rm(parent_manual)
 
@@ -184,44 +133,12 @@ colnames(parent_pubs) <- gsub(" ", "_", colnames(parent_pubs))
 
 parent_manual <- read.csv(here("data","tables","manual_review", "parent_pubs_no_date.csv")) %>%
   select(pub_id, Authors, Author_IDs, NEW_AUTHORS, X_LLM_Date, X_LLM_Year, Alt_Links )
-# add new authors to author.csv table
-new_authors <- unique(strsplit(as.character(parent_manual$NEW_AUTHORS), split= ";") %>% unlist)
-new_authors <- trimws( new_authors[!is.na(new_authors)])
-new_authors <- data.frame(author_name = new_authors)
 
-# replicate the cleaning we did in 'clean_authors.r'
-names <- stringr::str_split(new_authors$author_name, ' |, ')
-new_authors$last_name <- unlist(lapply(names, FUN=function(x){x[[1]]}))
-
-new_authors$first_name <- unlist(lapply(names, FUN=function(x){
-  if(length(x)>1){ return(gsub("\\.","", x[[2]]))
-  }else{ return(NA)
-  }}))
-
-new_authors$middle_name <- unlist(lapply(names, FUN=function(x){
-  if(length(x)>2){ return(gsub("\\.","", paste(x[3:length(x)], collapse = " ")))
-  }else{ return(NA)
-  }}))
-rm(names)
-
-new_authors$author_id <- max(authors$author_id) + 1:nrow(new_authors)
-authors <- authors %>% full_join(new_authors)
-
-write.csv(authors, here("data","tables","authors.csv"), row.names = FALSE)
-
-# Add these new authors and author_ids to columns Authors & Author_IDs
-for(i in 1:nrow(new_authors)){
-  parent_manual <- parent_manual %>% rowwise %>%
-    mutate(Author_IDs = ifelse(grepl(new_authors$author_name[i], NEW_AUTHORS),
-                            paste(Author_IDs, new_authors$author_id[i], sep = "; "),
-                            Author_IDs),
-           Authors = ifelse(grepl(new_authors$author_name[i], NEW_AUTHORS),
-                               paste(Authors, new_authors$author_name[i], sep = "; "),
-                               Authors),
-    ) 
-}
-rm(new_authors,i)
-
+parent_manual <- add_new_authors(review_df = parent_manual, 
+                                 authors_df = authors, llm_colnames=FALSE)
+parent_manual[["new_authors"]]
+authors <- parent_manual[["authors"]]
+parent_manual <- parent_manual[["review_df"]]
 
 parent_pubs <- parent_pubs %>% left_join(parent_manual, by = "pub_id") %>%
   mutate(Date = ifelse(is.na(X_LLM_Date.y), X_LLM_Date.x, X_LLM_Date.y),
@@ -233,8 +150,7 @@ parent_pubs <- parent_pubs %>% left_join(parent_manual, by = "pub_id") %>%
          -X_LLM_Year.x, - X_LLM_Year.y,
          -Authors.x, - Authors.y,
          -Author_IDs.x, - Author_IDs.y,
-         -Alt_Links.x, -Alt_Links.y,
-         -NEW_AUTHORS) 
+         -Alt_Links.x, -Alt_Links.y) 
 
 rm(parent_manual)
 # Also I added 'Notes' to 'authors_v2.csv' that either provided the author_id to replace it with
@@ -250,6 +166,7 @@ parent_pub_authors <- parent_pubs %>% select(pub_id, Authors, Author_IDs) %>%
 
 
 authors_parent <- authors %>% filter(author_id %in% parent_pub_authors$Author_IDs)
+
 # review all authors that appear in parent publications
 #write.csv(authors_parent, here("data","tables","manual_review","authors_parent.csv"))
 
@@ -263,10 +180,10 @@ for(i in 1:nrow(replacements)){ # replace the author_id in the parent_pubs_autho
     mutate(Author_IDs = ifelse(Author_IDs==replacements$author_id[i],
                             replacements$replacement[i], Author_IDs))
 } 
-rm(replacements)
+parent_replacements <- replacements
+rm(replacements,i)
 authors_parent <- authors_parent %>% filter(is.na(replacement)) # drop from authors_parent
 write.csv(authors_parent, here("data","tables","parent_authors.csv"))
-
 
 # now for all rows of parent_pub_authors, replace author_name
 
@@ -293,6 +210,5 @@ rm(parent_pub_authors1)
 parent_pubs <- parent_pubs %>% select(pub_id, Year, Publisher, Title, Authors, Author_IDs, Date,
                                       Publication_Link, Publication_DOI, Alt_Links, everything())
 write.csv(parent_pubs, here("data","tables","parent_publications.csv"), row.names = FALSE)
-
 
 
