@@ -3,3 +3,4 @@
 data/tables/manual_review/archive/
 data/tables/archive/child_pubs_raw.csv
 data/tables/archive/
+*.RData

@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 output: html_document
 ---
 
-## Load the Libraries and Raw Data
+## Load the Libraries & Raw Data
 
 ```{r}
 
@@ -22,41 +22,101 @@ for(sh in shts){
 }
 rm(sh,x,shts,fpath)
 
-source(here("scripts","clean_authors.r")) # creates authors.csv
-source(here("scripts","clean_publications.r")) # creates authors.csv
+```
 
-# hold off on cleaning child pubs until I have a table example for the parent publications
+## Source the Cleaning Scripts
+
+```{r}
+source(here("scripts","clean_authors.r")) # creates authors.csv
+# creates authors & removed author_directory & author_merge_audit
+
+### split parent and child publications
+parent_pubs <- parent_and_children_concat %>% filter(Type=="Parent") %>% select(-Type, -Record_Type)
+child_pubs <- parent_and_children_concat %>% filter(Type=="Child") %>% select(-Type, -Record_Type)
+
+# remove columns only relevant to children from parents
+keep_cols <- apply(parent_pubs, 2, FUN = function(x){!all(is.na(x))})
+parent_pubs <- parent_pubs %>% select(names(keep_cols[keep_cols])) %>% unique
+
+# remove columns only relevant to parents from children
+keep_cols <- apply(child_pubs, 2, FUN = function(x){!all(is.na(x))})
+child_pubs <- child_pubs %>% select(names(keep_cols[keep_cols])) %>% unique
+
+rm(keep_cols, parent_and_children_concat)
+write.csv(child_pubs, here("data","tables", "child_pubs_raw.csv"))
+
+source(here("scripts","clean_parent_publications.r")) # creates parent_authors.csv, parent_pub_authors.csv, & parent_publications.csv
+# creates authors_parent, parent_pub_authors, & parent_replacements 
+
+source(here("scripts","clean_child_publications.r")) # creates child_authors.csv, child_pub_authors.csv, & child_publications.csv
+# creates authors_child, child_pub_authors and removed parent_replacements
+
+
+```
+
+# Now that the parent and child publications are clean, join the cleaned author lists
+
+```{r}
+# join authors
+authors <- authors_parent %>% select(-Notes) %>% full_join(authors_child) %>% select(-Notes)
+# dup_auth_id <- authors$author_id[which(duplicated(authors$author_id))]
+write.csv(authors, here("data", "tables", "authors.csv"))
+# join pub_authors
+parent_pub_authors <- parent_pub_authors %>% filter(!is.na(Author_IDs)) %>% 
+  rename(author_id = Author_IDs)
+pub_authors <- parent_pub_authors %>% full_join(child_pub_authors)
+write.csv(pub_authors, here("data", "tables", "pub_authors.csv"))
+# join publications
+pubs <- parent_pubs %>% full_join(child_pubs)
+write.csv(pubs, here("data", "tables", "publications.csv"))
 ```
 
 
-# Create Co-authorship Table
+## Create Parent Co-authorship Table
 
 ```{r}
-# create a function to count the number of publiations in common when given two author_ids
-count_coauthors <- function(x, y){
-  df <- parent_pub_authors %>% filter(!is.na(Author_IDs))
-  x_pubs <- df$pub_id[df$Author_IDs==x]
-  y_pubs <- df$pub_id[df$Author_IDs==y]
+# create a function to count the number of publications in common when given two author_ids
+count_coauthors <- function(x, y, df = pub_authors){
+  x_pubs <- df$pub_id[df$author_id==x]
+  y_pubs <- df$pub_id[df$author_id==y]
   return(length(intersect(x_pubs,y_pubs)))
 }
 
-co_authorship <- expand_grid(authors_parent$author_id, authors_parent$author_id) 
-colnames(co_authorship) <- c("author_id", "author_1")
+parent_co_authorship <- expand_grid(authors_parent$author_id, authors_parent$author_id) 
+colnames(parent_co_authorship) <- c("author_id", "author_1")
 
+
+parent_co_authorship <- parent_co_authorship %>% rowwise %>%
+  mutate("pub_count" = count_coauthors(author_id, author_1, df = parent_pub_authors))
+
+parent_co_authorship <- parent_co_authorship %>% left_join(authors %>% select(author_name, author_id)) %>% 
+  arrange(author_name)
+
+parent_co_authorship <- parent_co_authorship %>% pivot_wider(names_from = author_1,
+                                               values_from = pub_count) %>%
+  select(author_name, author_id, everything())
+
+write.csv(parent_co_authorship, here("data", "tables", "parent_pub_co_authorship.csv"))
+```
+
+## Create Co-authorship Table
+
+```{r}
+co_authorship <- expand_grid(authors$author_id, authors$author_id) 
+colnames(co_authorship) <- c("author_id", "author_1")
 
 co_authorship <- co_authorship %>% rowwise %>%
   mutate("pub_count" = count_coauthors(author_id, author_1))
 
+co_authorship <- co_authorship %>% left_join(authors %>% select(author_name, author_id)) %>% 
+  arrange(author_name)
 
 co_authorship <- co_authorship %>% pivot_wider(names_from = author_1,
-                                               values_from = pub_count)
-  
-co_authorship <- co_authorship %>% left_join(authors_parent %>% select(author_name, author_id)) %>%
+                                               values_from = pub_count) %>%
   select(author_name, author_id, everything())
 
-write.csv(co_authorship, here("data", "tables", "parent_pub_co_authorship.csv"))
+write.csv(co_authorship, here("data", "tables", "co_authorship.csv"))
 ```
-
 
 
 
