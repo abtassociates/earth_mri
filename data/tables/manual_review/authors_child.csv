@@ -1,0 +1,1531 @@
+check accents,Notes,replacement,author_id,author_name,canonical_key,extra,last_name,first_name,middle_name
+,,,1,"Abbas, S.",abbas|s,NA,Abbas,S,NA
+,,,4,"Abd-Elssamd, A.",abdelssamd|a,NA,Abd-Elssamd,A,NA
+,,,1397,"Abeysinghe, A. M. K. B.",NA,NA,Abeysinghe,A,M K B
+,,,5,"Abreu, P M",abreu|p,NA,Abreu,P,M
+,,,7,"Acosta, Natalie",acosta|n,NA,Acosta,Natalie,NA
+,,,8,"Adeboboye, Oluwaseyifunmi E.",adeboboye|oe,NA,Adeboboye,Oluwaseyifunmi,E
+,,,1427,"Adelmann, Christoph",NA,NA,Adelmann,Christoph,NA
+,,,1507,"Adhikari, Lok Bijaya",NA,NA,Adhikari,Lok,Bijaya
+1,"This is an accented u. Would like to get out of uppercase, but not sure if I can edit it since it has an accent. No seeming duplicates",,9,"ADIGÜZEL, Duygu",adigzel|d,NA,ADIGÜZEL,Duygu,NA
+,,,10,"Adiwokor, S.",adiwokor|s,NA,Adiwokor,S,NA
+,,,1665,"Ahmadi, Zahra",NA,NA,Ahmadi,Zahra,NA
+,,,11,"Ahmed, Shabbir",ahmed|s,NA,Ahmed,Shabbir,NA
+,,,13,"Aizaki, H.",aizaki|h,NA,Aizaki,H,NA
+,,,14,"Ajaz, A.",ajaz|a,NA,Ajaz,A,NA
+,,,15,"Ak, Hakan",ak|h,NA,Ak,Hakan,NA
+,,,16,"Alam, M S",alam|m,NA,Alam,M,S
+,,,17,"Albanwan, H.",albanwan|h,NA,Albanwan,H,NA
+,,,18,"Albaugh, Timothy J.",albaugh|tj,NA,Albaugh,Timothy,J
+,,,20,"Alderman, P D",alderman|p,NA,Alderman,P,D
+,,,21,"Alenazey, F.",alenazey|f,NA,Alenazey,F,NA
+,,,22,"Alexander, J.",alexander|j,NA,Alexander,J,NA
+,"Fixed to be last, first",,1479,"Alfantazi, Akram",NA,NA,Alfantazi,Akram,NA
+,,,23,"Alhseinat, E.",alhseinat|e,NA,Alhseinat,E,NA
+,,,24,"Ali, S H",ali|s,NA,Ali,S,H
+,,,25,"Allen, H. Lee",allen|hl,NA,Allen,H,Lee
+,,,26,"Allison, S.",allison|s,NA,Allison,S,NA
+,,,1738,"Allmendinger, Rick",NA,NA,Allmendinger,Rick,NA
+,,,27,"Allport, H A",allport|h,NA,Allport,H,A
+,,,28,"Allsburg, Kurt M. Van",allsburg|kmv,Van,Allsburg,Kurt,M
+,,,29,"Almahawis, M K",almahawis|m,NA,Almahawis,M,K
+,,,30,"Alonso, E.",alonso|e,NA,Alonso,E,NA
+,,,31,"Amaral, Chelsea Morgan",amaral|cm,NA,Amaral,Chelsea,Morgan
+,,,32,"Amine, Khalil",amine|k,NA,Amine,Khalil,NA
+1,replace special characters with a dash,,33,"Amiotte-Suchet, Philippe",amiottesuchet|p,NA,Amiotte‐Suchet,Philippe,NA
+,,,1671,"Amjad-Iranagh, Sepideh",NA,NA,Amjad-Iranagh,Sepideh,NA
+,,,1384,"An, Haizhong",NA,NA,An,Haizhong,NA
+,,,48,"An, Q.",an|q,NA,An,Q,NA
+,,,34,"Anda, Martin",anda|m,NA,Anda,Martin,NA
+,,,40,"Andersen, A.",anders|a,NA,Andersen,A,NA
+,,,35,"Anderson, E.",anderson|e,NA,Anderson,E,NA
+,,,36,"Anderson, Jacob",anderson|j,NA,Anderson,Jacob,NA
+,,,37,"Anderson, M G",anderson|m,NA,Anderson,M,G
+,,,38,"Anderson, P J",anderson|p,NA,Anderson,P,J
+,,,41,"Andrews, A J",andrews|a,NA,Andrews,A,J
+,Fixed out of upper case and removed extra spaces,,42,"Andrews, James V.",andrews|jv,NA,ANDREWS,JAMES,V
+,,,43,"Andrews, W.",andrews|w,NA,Andrews,W,NA
+,,,44,"Anenburg, Michael",anenburg|m,NA,Anenburg,Michael,NA
+,,,45,"Angerer, Gerhard",angerer|g,NA,Angerer,Gerhard,NA
+,,,1620,"Antoninka, Anita J.",NA,NA,Antoninka,Anita,J
+,,,46,"Anugrah, Donni Fajar",anugrah|df,NA,Anugrah,Donni,Fajar
+,,,47,"Anwar, M P",anwar|m,NA,Anwar,M,P
+1,"This is an accented C, added full name from record without accent and replaced that record with this author_id",,334,"Čerkasova, Natalja",erkasova|n,NA,Čerkasova,Natalja,NA
+,,,49,"Araujo, I P",araujo|i,NA,Araujo,I,P
+1,"This is an accented C, no seeming duplicates",,50,"Arčon, Iztok",arcon|i,NA,Arčon,Iztok,NA
+,,,1690,"Arienzo, Monica M.",NA,NA,Arienzo,Monica,M
+,,,1559,"Armstrong, Adam",NA,NA,Armstrong,Adam,NA
+,,,52,"Arnold, J G",arnold|j,NA,Arnold,J,G
+,,,54,"Aryani, Ade Dwi",aryani|ad,NA,Aryani,Ade,Dwi
+,,,1447,"Asfaw, Habtom Desta",NA,NA,Asfaw,Habtom,Desta
+,,,55,"Ashland, F X",ashland|f,NA,Ashland,F,X
+,,,1677,"Ashworth, Peta",NA,NA,Ashworth,Peta,NA
+,,,1736,"Aswad, Jood Al",NA,NA,Aswad,Jood,Al
+,,,1663,"Aswar, Muhammad",NA,NA,Aswar,Muhammad,NA
+,,,57,"Athar, M F",athar|m,NA,Athar,M,F
+,,,58,"Athey, Jennifer E.",athey|je,NA,Athey,Jennifer,E
+,,,1519,"Aune, Ragnhild",NA,NA,Aune,Ragnhild,NA
+,,,61,"Avirett, Dylan F.",avirett|df,NA,Avirett,Dylan,F
+,,,62,"Awuah-Offei, K.",awuahoffei|k,NA,Awuah-Offei,K,NA
+,,,63,"Ayuso, R A",ayuso|r,NA,Ayuso,R,A
+,,,65,"Azifa, A.",azifa|a,NA,Azifa,A,NA
+,,,66,"Azmi, Ulul",azmi|u,NA,Azmi,Ulul,NA
+,,,67,"Babaei, F.",babaei|f,NA,Babaei,F,NA
+,,,68,"Babaie, H A",babaie|h,NA,Babaie,H,A
+,,,69,"Babel, H R",babel|h,NA,Babel,H,R
+,,,71,"Bai, Y.",bai|y,NA,Bai,Y,NA
+,,,70,"Bailey, R T",bailey|r,NA,Bailey,R,T
+,,,72,"Bajnai, D.",bajnai|d,NA,Bajnai,D,NA
+,,,73,"Bajo-Walker, B.",bajowalker|b,NA,Bajo-Walker,B,NA
+,,,74,"Bak, Seong-Min",bak|s,NA,Bak,Seong-Min,NA
+,,,1679,"Bang, Minkyu",NA,NA,Bang,Minkyu,NA
+,,1679,1682,"Bang, Min-kyu",NA,NA,Bang,Min-kyu,NA
+,,,76,"Banta, Joshua A.",banta|ja,NA,Banta,Joshua,A
+,,,77,"Barker, I R",barker|i,NA,Barker,I,R
+,,,79,"Barnes, A M",barnes|a,NA,Barnes,A,M
+,,,1487,"Barnet, James S.K.",NA,NA,Barnet,James,SK
+,,,80,"Barnett, A R",barnett|a,NA,Barnett,A,R
+,,,81,"Baron, J.",baron|j,NA,Baron,J,NA
+,,,82,"Baron, Thierry",baron|t,NA,Baron,Thierry,NA
+,,,83,"Barrera, Michael L.",barrera|ml,NA,Barrera,Michael,L
+,,,84,"Barriga, F J A S",barriga|f,NA,Barriga,F,J A S
+,,,1673,"Barton, Isabel",NA,NA,Barton,Isabel,NA
+,,,85,"Barton, M D",barton|m,NA,Barton,M,D
+,,,86,"Bartsch, W.",bartsch|w,NA,Bartsch,W,NA
+,,,1353,"Bassan, Lucas",NA,NA,Bassan,Lucas,NA
+,,,87,"Bastrakov, E.",bastrakov|e,NA,Bastrakov,E,NA
+,,,1399,"Batapola, N. M.",NA,NA,Batapola,N,M
+,,,1639,"Batchu, Rakesh",NA,NA,Batchu,Rakesh,NA
+,,,88,"Bazilian, M D",bazilian|m,NA,Bazilian,M,D
+,,,1453,"Bean, A.",NA,NA,Bean,A,NA
+,,,91,"Beck, F M",beck|f,NA,Beck,F,M
+,,,89,"Becker, Naomi Ann",becker|na,NA,Becker,Naomi,Ann
+,,,1737,"Beckers, Koenraad F.",NA,NA,Beckers,Koenraad,F
+,,,90,Beckwith,beckwith|,NA,Beckwith,NA,NA
+,,,92,"Bednar, A J",bednar|a,NA,Bednar,A,J
+,,,93,"Bedrosian, Paul A.",bedrosian|pa,NA,Bedrosian,Paul,A
+,,,94,"Belcher, B R",belcher|b,NA,Belcher,B,R
+,,,1433,"Belharouak, Ilias",NA,NA,Belharouak,Ilias,NA
+,,,95,"Belitz, K.",belitz|k,NA,Belitz,K,NA
+,,,1720,"Bellefeuille, Nathan A.",NA,NA,Bellefeuille,Nathan,A
+,,,97,"Benavides, E.",benavides|e,NA,Benavides,E,NA
+,,,99,"Bennett, Michael",bennett|m,NA,Bennett,Michael,NA
+,,,100,"Bennett, S E K",bennett|s,NA,Bennett,S,E K
+,,,102,"Bentley, Matthew J.",bentley|mj,NA,Bentley,Matthew,J
+,,,103,"Benton, J R",benton|j,NA,Benton,J,R
+,,,104,"Berg, R C",berg|r,NA,Berg,R,C
+,,,105,"Berhe, A A",berhe|a,NA,Berhe,A,A
+,,,107,"Bern, C R",bern|c,NA,Bern,C,R
+,,,106,"Bernard, Curtis M.",bernard|cm,NA,Bernard,Curtis,M
+,,,108,"Berry, M E",berry|m,NA,Berry,M,E
+,,,109,"Beunk, Frank F.",beunk|ff,NA,Beunk,Frank,F
+,,,1462,"Beutler, Curtis",NA,NA,Beutler,Curtis,NA
+,,,110,"Beyene, M T",beyene|m,NA,Beyene,M,T
+,,,112,"Beyer, Rebecca",beyer|r,NA,Beyer,Rebecca,NA
+,,,111,"Beyers, S.",beyers|s,NA,Beyers,S,NA
+,,,1678,"Bharadwaj, Bishal",NA,NA,Bharadwaj,Bishal,NA
+,,,113,"Bhaskar, A S",bhaskar|a,NA,Bhaskar,A,S
+,,,114,"Bhattacharjee, Shubhadeep",bhattacharjee|s,NA,Bhattacharjee,Shubhadeep,NA
+,,,115,"Bhuwalka, K.",bhuwalka|k,NA,Bhuwalka,K,NA
+,,,118,"Bilham, R.",bilham|r,NA,Bilham,R,NA
+,,,119,"Binnemans, Koen",binnemans|k,NA,Binnemans,Koen,NA
+,,,1411,"Birke, Kai Peter",NA,NA,Birke,Kai,Peter
+,"NT, Delay is the author of works cited, and the only use of this ID is missing author Bixby, so I just substituted it here",,881,"Bixby, Rebecca J.",nt|d,NA,Bixby,Rebecca,J
+,,,121,"Bjarke, N R",bjarke|n,NA,Bjarke,N,R
+,,,122,"Blackwell, Noel J S",blackwell|nj,NA,Blackwell,Noel,J S
+,,578,123,"Blake, J M",blake|j,NA,Blake,J,M
+,"Fixed to be last,first (completed first name)",,578,"Blake, Johanna M.",jm|b,NA,Blake,Johanna,M
+,,,124,"Blankenship, L N",blankenship|l,NA,Blankenship,L,N
+,,,126,"Bleeker, W.",bleeker|w,NA,Bleeker,W,NA
+,,,127,"Blome, C D",blome|c,NA,Blome,C,D
+,,,128,"Blondes, M S",blondes|m,NA,Blondes,M,S
+,,,129,"Bloss, B R",bloss|b,NA,Bloss,B,R
+,,,1419,"Boakes, Lizzie",NA,NA,Boakes,Lizzie,NA
+,,,130,"Board, D I",board|d,NA,Board,D,I
+,,,131,"Bode, A.",bode|a,NA,Bode,A,NA
+,,,132,"Bodnar, R J",bodnar|r,NA,Bodnar,R,J
+,,,133,"Boozarjomehry, R B",boozarjomehry|r,NA,Boozarjomehry,R,B
+,,,134,"Borchardt, J S",borchardt|j,NA,Borchardt,J,S
+,,,135,"Bourdeau, J E",bourdeau|j,NA,Bourdeau,J,E
+,,,136,"Bouton, Anthony",bouton|a,NA,Bouton,Anthony,NA
+,,,137,"Boutt, D F",boutt|d,NA,Boutt,D,F
+,,,1616,"Bowker, Matthew A.",NA,NA,Bowker,Matthew,A
+,,,139,"Bowman, R L",bowman|r,NA,Bowman,R,L
+,,,141,"Box, S E",box|s,NA,Box,S,E
+,,,140,"Boxleiter, A.",boxleiter|a,NA,Boxleiter,A,NA
+,,,142,"Boyce, A J",boyce|a,NA,Boyce,A,J
+,,,143,"Boyd, O S",boyd|o,NA,Boyd,O,S
+,,,145,"Bradley, D C",bradley|d,NA,Bradley,D,C
+,,,146,"Brahney, J.",brahney|j,NA,Brahney,J,NA
+,,,147,"Brake, S S",brake|s,NA,Brake,S,S
+,,150,149,Brantley,brantley|,NA,Brantley,NA,NA
+,,,150,"Brantley, S L",brantley|s,NA,Brantley,S,L
+,,,1615,"Brayard, Arnaud",NA,NA,Brayard,Arnaud,NA
+,,,151,"Breasley, C M",breasley|c,NA,Breasley,C,M
+,,,152,"Brennan, D T",brennan|d,NA,Brennan,D,T
+,,,153,"Brennan, S.",brennan|s,NA,Brennan,S,NA
+,,,154,"Brewer, S K",brewer|s,NA,Brewer,S,K
+,,,155,"Brickey, T A",brickey|t,NA,Brickey,T,A
+,,,156,"Briggs, M A",briggs|m,NA,Briggs,M,A
+,,,157,"Briscoe, Seattle",briscoe|s,NA,Briscoe,Seattle,NA
+,,,158,"Britt, A F",britt|a,NA,Britt,A,F
+,,,159,"Broadbent, Ashley",broadbent|a,NA,Broadbent,Ashley,NA
+,,,1355,"Broadhead, Ron",NA,NA,Broadhead,Ron,NA
+,,,1600,"Brolly, Connor",NA,NA,Brolly,Connor,NA
+,,,160,"Brouillon, J.",brouillon|j,NA,Brouillon,J,NA
+,,,162,"Brown, C J",brown|c,NA,Brown,C,J
+,"Fixed to be last,first (completed first name)",,572,"Brown, Jeb E.",je|b,NA,Brown,Jeb,E
+,,,164,"Brown, Jessica",brown|j,NA,Brown,Jessica,NA
+,,,1739,"Brown, Larry",NA,NA,Brown,Larry,NA
+,,,166,"Brown, S E",brown|s,NA,Brown,S,E
+,,,1461,"Brown, Wendy",NA,NA,Brown,Wendy,NA
+,,,167,"Bruckard, W.",bruckard|w,NA,Bruckard,W,NA
+,,,1474,"Brugger, Joel",NA,NA,Brugger,Joel,NA
+,,,1659,"Brunner, Benjamin",NA,NA,Brunner,Benjamin,NA
+,,,168,"Brzozowski, M J",brzozowski|m,NA,Brzozowski,M,J
+,,,1567,"Buarque-Andrade, Laura",NA,NA,Buarque-Andrade,Laura,NA
+,,,1526,"Bucci, Francesco",NA,NA,Bucci,Francesco,NA
+,,,171,"Buck, B J",buck|b,NA,Buck,B,J
+,,,172,"Buddington, A.",buddington|a,NA,Buddington,A,NA
+,"Moved organizational title to 'extra' and out of last, first, & middle",,1585,Buffalo Bayou Hurricane Hike,NA,Buffalo Bayou Hurricane Hike,NA,NA,NA
+,,,173,"Burheim, O S",burheim|o,NA,Burheim,O,S
+,,,174,"Burnett, M.",burnett|m,NA,Burnett,M,NA
+,,,175,"Burpee, B T",burpee|b,NA,Burpee,B,T
+,Moved Van Den to extra,,1499,"Bussche, Ronald A. Van Den",NA,Van Den,Bussche,Ronald,A
+,,,1609,"Bylund, Kevin G.",NA,NA,Bylund,Kevin,G
+,,,1601,"Byrne, Robert H.",NA,NA,Byrne,Robert,H
+,,,1377,"Caine, Jonathan Saul",NA,NA,Caine,Jonathan,Saul
+,,,1430,"Calder, W. John",NA,NA,Calder,W,John
+,,,178,"Calvo, J A M",calvo|j,NA,Calvo,J,A M
+1,This is an accented a. No seeming duplicates,,179,"Campanaro, João Felipe",campanaro|jf,NA,Campanaro,João,Felipe
+,,,180,"Campbell, Kate M.",campbell|km,NA,Campbell,Kate,M
+1,This is an accented a. No seeming duplicates,,181,"Campoe, Otávio C.",campoe|oc,NA,Campoe,Otávio,C
+,,,182,"Campos, D S De",campos|dd,De,Campos,D,S
+,,,183,"Canfield, D E",canfield|d,NA,Canfield,D,E
+,,,184,"Canham, H A",canham|h,NA,Canham,H,A
+,,,185,"Cannon, W F",cannon|w,NA,Cannon,W,F
+,,,186,"Carey, Nathan J.",carey|nj,NA,Carey,Nathan,J
+,,,187,"Carlson, S M",carlson|s,NA,Carlson,S,M
+,,,188,"Carroll, R W H",carroll|r,NA,Carroll,R,W H
+,,,189,"Carter, David R.",carter|dr,NA,Carter,David,R
+,,,191,"Case, George N. D.",case|gnd,NA,Case,George,N D
+,,,190,"Casey, C P",casey|c,NA,Casey,C,P
+,,,1717,"Celebi, Hasan F.",NA,NA,Celebi,Hasan,F
+,,334,1406,"Cerkasova, Natalja",NA,NA,Cerkasova,Natalja,NA
+,,,192,"Champion, D.",champion|d,NA,Champion,D,NA
+,,,1401,"Chan, Andy",NA,NA,Chan,Andy,NA
+,,,1599,"Chandler, Val W.",NA,NA,Chandler,Val,W
+,,,1387,"Chang, Hao",NA,NA,Chang,Hao,NA
+,,,193,"Chapman, M C",chapman|m,NA,Chapman,M,C
+,,,194,"Chappell, W T",chappell|w,NA,Chappell,W,T
+,,,1613,"Charbonnier, Sylvain",NA,NA,Charbonnier,Sylvain,NA
+,Moved Werner from middle name to 'extra',,195,"Chase, Brandon Franklin Werner",chase|bfw,Werner,Chase,Brandon,Franklin
+,,,196,"Chatterjee, S.",chatterjee|s,NA,Chatterjee,S,NA
+,,,197,"Chellam, Shankararaman",chellam|s,NA,Chellam,Shankararaman,NA
+,,,198,"Chellman, K.",chellman|k,NA,Chellman,K,NA
+,Fixed out of uppecase,,1546,"Chen, Lihua",NA,NA,Chen,Lihua,NA
+,Fixed out of uppecase,,1541,"Chen, Liyang",NA,NA,Chen,Liyang,NA
+,Fixed out of uppecase,,1547,"Chen, Weiqiang",NA,NA,Chen,Weiqiang,NA
+,,,200,"Chen, Y L",chen|y,NA,Chen,Y,L
+,,,199,"Cheng, Y.",cheng|y,NA,Cheng,Y,NA
+,,,201,"Cherrat, A.",cherrat|a,NA,Cherrat,A,NA
+,,,202,"Chiang, W P",chiang|w,NA,Chiang,W,P
+,,,203,"Chiarenzelli, J R",chiarenzelli|j,NA,Chiarenzelli,J,R
+,,,204,"Chileen, B V",chileen|b,NA,Chileen,B,V
+,,,205,"Chilton, K D",chilton|k,NA,Chilton,K,D
+,,,206,"Chipangamate, N.",chipangamate|n,NA,Chipangamate,N,NA
+,,,1635,"Cho, Seong-Jun",NA,NA,Cho,Seong-Jun,NA
+,,1635,1683,"Cho, Seong-jun",NA,NA,Cho,Seong-jun,NA
+,,,208,"Choat, B.",choat|b,NA,Choat,B,NA
+,,,209,"Choi, S K",choi|s,NA,Choi,S,K
+,,,1696,"Choma, Nicole",NA,NA,Choma,Nicole,NA
+,,,210,"Chormann, F H",chormann|f,NA,Chormann,F,H
+,,,211,"Christensen, J N",christensen|j,NA,Christensen,J,N
+,,,1434,"Christianson, Kyle R.",NA,NA,Christianson,Kyle,R
+,,,212,"Christofferson, K.",christofferson|k,NA,Christofferson,K,NA
+,,,215,"Chu, P.",chu|p,NA,Chu,P,NA
+,,,213,"Chuah, Stephanie",chuah|s,NA,Chuah,Stephanie,NA
+,,,1359,"Chuang, Lindsay Y.",NA,NA,Chuang,Lindsay,Y
+,,,214,"Churchwell, D.",churchwell|d,NA,Churchwell,D,NA
+,,,216,"Ciampaglio, C.",ciampaglio|c,NA,Ciampaglio,C,NA
+,,,217,"Cicek, Z.",cicek|z,NA,Cicek,Z,NA
+,,,218,"Clark, M.",clark|m,NA,Clark,M,NA
+,,,219,"Clary, R M",clary|r,NA,Clary,R,M
+,,,220,"Cleveland, K. Michael",cleveland|km,NA,Cleveland,K,Michael
+,,,221,"Clifford, M J",clifford|m,NA,Clifford,M,J
+,,,222,"Clune, J W",clune|j,NA,Clune,J,W
+,,,224,"Cohen, B S",cohen|b,NA,Cohen,B,S
+,,,225,"Coleman, Drew S.",coleman|ds,NA,Coleman,Drew,S
+,,,226,"Colgan, J.",colgan|j,NA,Colgan,J,NA
+,,,227,"Collar, Natalie M.",collar|nm,NA,Collar,Natalie,M
+,,,228,"Comans, C M",comans|c,NA,Comans,C,M
+,,,231,"Cook, Rachel L.",cook|rl,NA,Cook,Rachel,L
+,,,1539,"Cool, Vincent",NA,NA,Cool,Vincent,NA
+,Added First name & initials since it was just the last name,,232,"Coons, Aaron L.",coons|,NA,Coons,Aaron,L
+,,,233,"Coplen, T B",coplen|t,NA,Coplen,T,B
+,,,234,"Copler, C.",copler|c,NA,Copler,C,NA
+,,,236,"Corchado-Albelo, J L",corchadoalbelo|j,NA,Corchado-Albelo,J,L
+,,,237,"Corral, F J G",corral|f,NA,Corral,F,J G
+,,,238,"Corriveau, L.",corriveau|l,NA,Corriveau,L,NA
+,,,239,"Cothren, H R",cothren|h,NA,Cothren,H,R
+1,This is an accented e. No seeming duplicates,,242,"Couëslan, C G",couslan|c,NA,Couëslan,C,G
+,,,240,"Coube-Sisqueille, S.",coubesisqueille|s,NA,Coube-Sisqueille,S,NA
+,,,241,"Counts, J W",counts|j,NA,Counts,J,W
+,,,1405,"Cousens, B. L.",NA,NA,Cousens,B,L
+,,,244,"Cox, I A",cox|i,NA,Cox,I,A
+,,,245,"Cox, Jordan T.",cox|jt,NA,Cox,Jordan,T
+,,,246,"Coyan, J A",coyan|j,NA,Coyan,J,A
+,,,247,"Craddock, W H",craddock|w,NA,Craddock,W,H
+,,,248,"Crafford, T.",crafford|t,NA,Crafford,T,NA
+,"Fixed to be last, first III",,548,"Cravotta, C A  III",iii|cc,III,Cravotta,C,A
+,,,249,"Crawford, J K",crawford|j,NA,Crawford,J,K
+,,,250,"Creason, C G",creason|c,NA,Creason,C,G
+,,,1497,"Creighton, Jerre L.",NA,NA,Creighton,Jerre,L
+,,,1422,"Croes, Kristof",NA,NA,Croes,Kristof,NA
+,,,252,"Crowley, C W",crowley|c,NA,Crowley,C,W
+,,,251,"Crowley-Ornelas, E.",crowleyornelas|e,NA,Crowley-Ornelas,E,NA
+,,,1699,"Csank, Adam",NA,NA,Csank,Adam,NA
+,,,1704,"Cui, Yifei",NA,NA,Cui,Yifei,NA
+,,,1590,"Cumming, William B",NA,NA,Cumming,William,B
+,,,254,"Curl, Douglas C.",curl|dc,NA,Curl,Douglas,C
+,,,255,"Currie, D.",currie|d,NA,Currie,D,NA
+,,,1649,"Cushing, Paula E.",NA,NA,Cushing,Paula,E
+,,,256,"Cushway, K C",cushway|k,NA,Cushway,K,C
+,,,257,"Czarnota, K.",czarnota|k,NA,Czarnota,K,NA
+1,"This is an accented i. Updated with completed first and middle names from name without accent, and updated that row to be replaced with this author_id",,272,"Díaz, Xiomara Cazanas",daz|x,NA,Díaz,Xiomara,Cazanas
+1,"This is an accented i and an accented e, no seeming duplicates",,271,"Díaz-Gutiérrez, E.",dazgutirrez|e,NA,Díaz-Gutiérrez,E,NA
+,,,1674,"Dae-yong, Kim",NA,NA,Dae-yong,Kim,NA
+,"Fixed to be last, first jr",,591,"Daft, Gary Jr",jr|gd,Jr,Daft,Gary,NA
+,,,258,"Dahlin, K M",dahlin|k,NA,Dahlin,K,M
+,,,259,"Dahm, K.",dahm|k,NA,Dahm,K,NA
+,,,260,"Dai, Q.",dai|q,NA,Dai,Q,NA
+,Moved 'Lal' to extra,,1728,"Das, Aman Kumar Lal",NA,Lal,Das,Aman,Kumar
+,,,262,"Das, S.",das|s,NA,Das,S,NA
+,,,1565,"Daspan, Raymond Ishaya",NA,NA,Daspan,Raymond,Ishaya
+,,,263,"Dattilo, J.",dattilo|j,NA,Dattilo,J,NA
+,,,264,"Davarpanah, A.",davarpanah|a,NA,Davarpanah,A,NA
+,,,265,"Davey, S C",davey|s,NA,Davey,S,C
+,,,267,"Davies, N S",davies|n,NA,Davies,N,S
+,,,268,"Davies, R S",davies|r,NA,Davies,R,S
+,,,270,"Day, Warren C.",day|wc,NA,Day,Warren,C
+,,,273,"Deacon, B.",deacon|b,NA,Deacon,B,NA
+,,,274,"DeAngelo, J.",deangelo|j,NA,DeAngelo,J,NA
+,,,1505,"Debret, Baptiste",NA,NA,Debret,Baptiste,NA
+,,,276,"Dechesne, M.",dechesne|m,NA,Dechesne,M,NA
+,,,277,"Decree, Sophie",decree|s,NA,Decree,Sophie,NA
+,,,1661,"Deemer, Eva",NA,NA,Deemer,Eva,NA
+,,,1672,"Dehghani, Kamran",NA,NA,Dehghani,Kamran,NA
+,,,281,"Deldicque, D.",deldicque|d,NA,Deldicque,D,NA
+,,,1417,"Delie, Gilles",NA,NA,Delie,Gilles,NA
+,,,282,"Demircan, Huriye",demircan|h,NA,Demircan,Huriye,NA
+,,,283,"DeMott, L M",demott|l,NA,DeMott,L,M
+,,,286,"Denton, K M",denton|k,NA,Denton,K,M
+,,,287,"Deutch, J.",deutch|j,NA,Deutch,J,NA
+,,,288,"DeVries, D R",devries|d,NA,DeVries,D,R
+,,,289,"DeWitt, J D",dewitt|j,NA,DeWitt,J,D
+,,,1398,"Dharmaratne, P. G. R.",NA,NA,Dharmaratne,P,G R
+,,,290,"Diallo, M C",diallo|m,NA,Diallo,M,C
+,,272,1356,"Diaz, Xiomara Cazanas",NA,NA,Diaz,Xiomara,Cazanas
+,,,292,"Dicken, C.",dicken|c,NA,Dicken,C,NA
+,,,293,"Dietrich, V E",dietrich|v,NA,Dietrich,V,E
+,,,295,"Dilts, T E",dilts|t,NA,Dilts,T,E
+,,,296,"Ding, S.",ding|s,NA,Ding,S,NA
+,,,1395,"Dissanayake, D. M. D. O. K.",NA,NA,Dissanayake,D,M D O K
+,,,1554,"Dodson, Erich Kyle",NA,NA,Dodson,Erich,Kyle
+,,,1618,"Doherty, Kyle D.",NA,NA,Doherty,Kyle,D
+,,,297,"Dong, D T",dong|d,NA,Dong,D,T
+,,,298,"Dong, J.",dong|j,NA,Dong,J,NA
+,,,299,"Dong, Y.",dong|y,NA,Dong,Y,NA
+,,,300,"Dortch, J M",dortch|j,NA,Dortch,J,M
+,,,1594,"Dou, Shiquan",NA,NA,Dou,Shiquan,NA
+,,,301,"Doublier, M.",doublier|m,NA,Doublier,M,NA
+,,,303,"Downs, C.",downs|c,NA,Downs,C,NA
+,,,304,"Dozier, H J",dozier|h,NA,Dozier,H,J
+,,,305,"Drenth, Benjamin J.",drenth|bj,NA,Drenth,Benjamin,J
+,,,306,"Driscoll, J.",driscoll|j,NA,Driscoll,J,NA
+,,,307,"Driscoll, K P",driscoll|k,NA,Driscoll,K,P
+,,,1630,"Du, Debin",NA,NA,Du,Debin,NA
+,,,1643,"Dufek, Eric J.",NA,NA,Dufek,Eric,J
+,,,309,"Dumond, G.",dumond|g,NA,Dumond,G,NA
+,,,310,"Duncan, Jonathan M.",duncan|jm,NA,Duncan,Jonathan,M
+,,,1697,"Dunham-Cheatham, Sarrah M.",NA,NA,Dunham-Cheatham,Sarrah,M
+,,,311,"Dunn, J B",dunn|j,NA,Dunn,J,B
+,,,312,"Dusel-Bacon, C.",duselbacon|c,NA,Dusel-Bacon,C,NA
+,,,313,"Dushyantha, N P",dushyantha|n,NA,Dushyantha,N,P
+,,,314,"Duuring, P.",duuring|p,NA,Duuring,P,NA
+,,,315,"Earney, Tait E.",earney|te,NA,Earney,Tait,E
+,,,316,"Eastman, K A",eastman|k,NA,Eastman,K,A
+,,,317,"Ebel, B A",ebel|b,NA,Ebel,B,A
+,,,318,"Eble, Cortland",eble|c,NA,Eble,Cortland,NA
+,,,1391,"Edirisinghe, P. M.",NA,NA,Edirisinghe,P,M
+,,,320,"Eggert, R.",eggert|r,NA,Eggert,R,NA
+,,,1408,"Ehrenberger, Simone",NA,NA,Ehrenberger,Simone,NA
+,,,321,"Elaloui, E.",elaloui|e,NA,Elaloui,E,NA
+,,,322,"Eleish, A.",eleish|a,NA,Eleish,A,NA
+,,,323,"Elicki, Olaf",elicki|o,NA,Elicki,Olaf,NA
+,,,324,"Elliott, W C",elliott|w,NA,Elliott,W,C
+,,,325,"Ellis, G S",ellis|g,NA,Ellis,G,S
+,"Fixed to be last, first jr",,593,"Ellis, J O Jr",jr|je,Jr,Ellis,J,O
+,,,1376,"Ellison, Eric T.",NA,NA,Ellison,Eric,T
+,,,328,"Emsbo, Poul",emsbo|p,NA,Emsbo,Poul,NA
+,,,329,"Enkelmann, E.",enkelmann|e,NA,Enkelmann,E,NA
+,,,330,"Ennaciri, Y.",ennaciri|y,NA,Ennaciri,Y,NA
+1,"This is an accented a and an accented o, updated name without accents to be replaced by this author_id",,332,"Erdey, László",erdey|l,NA,Erdey,László,NA
+,,332,1581,"Erdey, Laszlo",NA,NA,Erdey,Laszlo,NA
+,,,333,"Erickson, M L",erickson|m,NA,Erickson,M,L
+,,,335,"Ernst, R E",ernst|r,NA,Ernst,R,E
+,,,336,"Erradi, E M",erradi|e,NA,Erradi,E,M
+,,,337,"Ertons, Melanie L.",ertons|ml,NA,Ertons,Melanie,L
+,,,1606,"Escarguel, Gilles",NA,NA,Escarguel,Gilles,NA
+,,,338,"Espinoza, Luis A. Tercero",espinoza|lat,Tercero ,Espinoza,Luis,A
+,,,339,"Essehli, R.",essehli|r,NA,Essehli,R,NA
+,,,341,"Etschmann, B.",etschmann|b,NA,Etschmann,B,NA
+,,,342,"Ettensohn, F R",ettensohn|f,NA,Ettensohn,F,R
+,,,343,"Eurich, A.",eurich|a,NA,Eurich,A,NA
+,,,344,"Evans, Anna",evans|a,NA,Evans,Anna,NA
+,,,345,"Evans, B R",evans|b,NA,Evans,B,R
+,,,346,"Ewing, R.",ewing|r,NA,Ewing,R,NA
+,,,347,"Eyster, A.",eyster|a,NA,Eyster,A,NA
+,,,349,"Fame, M L",fame|m,NA,Fame,M,L
+,,,1707,"Fanelli, Rosemary M.",NA,NA,Fanelli,Rosemary,M
+,,,1688,"Fang, Daren",NA,NA,Fang,Daren,NA
+,,,1641,"Fang, Zongtang",NA,NA,Fang,Zongtang,NA
+,,,1605,"Fara, Emmanuel",NA,NA,Fara,Emmanuel,NA
+,,,1624,"Farmer, G. Lang",NA,NA,Farmer,G,Lang
+,,,350,"Farrar, A.",farrar|a,NA,Farrar,A,NA
+,,,351,"Faruk, M U",faruk|m,NA,Faruk,M,U
+,,,1580,"Faulkner, Mindy",NA,NA,Faulkner,Mindy,NA
+,,,352,"Favaro, F.",favaro|f,NA,Favaro,F,NA
+,,,353,"Favero, A.",favero|a,NA,Favero,A,NA
+,,,354,"Felch, M M",felch|m,NA,Felch,M,M
+,,,355,"Feng, L.",feng|l,NA,Feng,L,NA
+,,,356,"Fenyves, Veronika",fenyves|v,NA,Fenyves,Veronika,NA
+,,223,357,"Ferguson, C L",ferguson|c,NA,Ferguson,C,L
+,"Fixed to be last, first (completed first name)",,223,"Ferguson, Christina L.",cl|f,NA,Ferguson,Christina,L
+,,,358,"Ferrer, Mateus Meneghetti",ferrer|mm,NA,Ferrer,Mateus,Meneghetti
+,,,359,"Fessenden, Serena N.",fessenden|sn,NA,Fessenden,Serena,N
+,,,360,"Fewell, J S",fewell|j,NA,Fewell,J,S
+,Fixed out of uppercase,,361,"Figueroa, Rodrigo T.",figueroa|rt,NA,FIGUEROA,RODRIGO,T
+,,,362,"Fikru, M G",fikru|m,NA,Fikru,M,G
+,,,363,"Finn, C A",finn|c,NA,Finn,C,A
+,,,364,"Fisher, B N",fisher|b,NA,Fisher,B,N
+,,,365,"Fisher, R N",fisher|r,NA,Fisher,R,N
+,,,366,"Fisher, S R",fisher|s,NA,Fisher,S,R
+,,,367,"Fitzgerald, Paul G.",fitzgerald|pg,NA,Fitzgerald,Paul,G
+,,,368,"Fleischer, N A",fleischer|n,NA,Fleischer,N,A
+,,,1418,"Fleischmann, Claudia",NA,NA,Fleischmann,Claudia,NA
+,,,1709,"Fleming, Brandon J.",NA,NA,Fleming,Brandon,J
+,,,369,"Fleming, S.",fleming|s,NA,Fleming,S,NA
+,,,370,"Flores, P.",flores|p,NA,Flores,P,NA
+,,,371,"Flowers, R M",flowers|r,NA,Flowers,R,M
+,,,372,"Foley, N.",foley|n,NA,Foley,N,NA
+,,,373,"Folsom, M.",folsom|m,NA,Folsom,M,NA
+,,,1364,"Ford, Arianne",NA,NA,Ford,Arianne,NA
+,,,374,"Forte, A M",forte|a,NA,Forte,A,M
+,,,375,"Fortier, Steven M.",fortier|sm,NA,Fortier,Steven,M
+,,,377,"Fox, Katherine",fox|k,NA,Fox,Katherine,NA
+,,,378,"Fox, S J",fox|s,NA,Fox,S,J
+,,,379,"Fox, Thomas R.",fox|tr,NA,Fox,Thomas,R
+,,,1500,"France-Lanord, Christian",NA,NA,France-Lanord,Christian,NA
+,,,1621,"Frazer, Ryan E.",NA,NA,Frazer,Ryan,E
+,,,380,"Freed, D E",freed|d,NA,Freed,D,E
+,,,381,"Freeman, P.",freeman|p,NA,Freeman,P,NA
+,,,1568,"Frenzel, Max",NA,NA,Frenzel,Max,NA
+,,,382,"Frost, Dan",frost|d,NA,Frost,Dan,NA
+,,,384,"Frus, R.",frus|r,NA,Frus,R,NA
+,,,1560,"Fuelling, Lauren J.",NA,NA,Fuelling,Lauren,J
+,,,1617,"Fule, Peter Z.",NA,NA,Fule,Peter,Z
+,,,1733,"Fulton, Patrick M.",NA,NA,Fulton,Patrick,M
+,,,1644,"Fushimi, Rebecca R.",NA,NA,Fushimi,Rebecca,R
+1,"This is an accented u and an accented s, no seeming duplicates",,442,"Gürsoy, Yaşar Hakan",grsoy|yh,NA,Gürsoy,Yaşar,Hakan
+1,"This is an accented u, no seeming duplicates",,443,"Gürsu, Semih",grsu|s,NA,Gürsu,Semih,NA
+,,,388,"Gadd, M G",gadd|m,NA,Gadd,M,G
+,,,1451,"Gadikota, Greeshma",NA,NA,Gadikota,Greeshma,NA
+,,,389,"Gale, M H",gale|m,NA,Gale,M,H
+,,,1490,"Galfetti, Thomas",NA,NA,Galfetti,Thomas,NA
+,,,1549,"Gallardo, J.M.",NA,NA,Gallardo,JM,NA
+,,,390,"Gallen, S F",gallen|s,NA,Gallen,S,F
+,,,392,"Gantait, A.",gantait|a,NA,Gantait,A,NA
+,,,1435,"Ganz, Taylor",NA,NA,Ganz,Taylor,NA
+,Completed first name to clarify it isn't a duplicate,,393,"Gao, Jinghan",gao|j,NA,Gao,Jinghan,NA
+,,,1407,"Gao, Jungang",NA,NA,Gao,Jungang,NA
+,,,1385,"Gao, Xiangyun",NA,NA,Gao,Xiangyun,NA
+,,,1646,"Garcia, Erika L.",NA,NA,Garcia,Erika,L
+,,,1540,"Garcia, Jordan Sleyter Santa Cruz",NA,NA,Garcia,Jordan,Sleyter Santa Cruz
+,,,394,"Garcia, Juan",garcia|j,NA,Garcia,Juan,NA
+,,,395,"Gardner, James E.",gardner|je,NA,Gardner,James,E
+,,,396,"Gardner, W P",gardner|w,NA,Gardner,W,P
+,,,397,"Garg, R D",garg|r,NA,Garg,R,D
+,,,398,"Garg, S.",garg|s,NA,Garg,S,NA
+,,,399,"Gaschnig, R.",gaschnig|r,NA,Gaschnig,R,NA
+,,,400,"Gaucher, Eric C.",gaucher|ec,NA,Gaucher,Eric,C
+,,,401,"Gautham, B. P.",gautham|bp,NA,Gautham,B,P
+,,,402,"Gavel, Michelle M.",gavel|mm,NA,Gavel,Michelle,M
+,,,403,"Gaydardzhiev, Stoyan",gaydardzhiev|s,NA,Gaydardzhiev,Stoyan,NA
+,,,404,"Gaynor, Sean P.",gaynor|sp,NA,Gaynor,Sean,P
+,,,1625,"Ge, Jianping",NA,NA,Ge,Jianping,NA
+,,,405,"Gelman, S E",gelman|s,NA,Gelman,S,E
+,,,406,"Gentilcore, D M",gentilcore|d,NA,Gentilcore,D,M
+,,,407,"Georgi, J.",georgi|j,NA,Georgi,J,NA
+,,,408,"Gerven, Tom Van",gerven|tv,NA,Gerven,Tom,Van
+,,,409,"Getch, J.",getch|j,NA,Getch,J,NA
+,,,410,"Geyin, M.",geyin|m,NA,Geyin,M,NA
+,,,411,"Ghere, C.",ghere|c,NA,Ghere,C,NA
+1,"This is an accented c, no seeming duplicates",,412,"Ghienne, Jean-François",ghienne|j,NA,Ghienne,Jean-François,NA
+,,,413,"Ghorbani, Y.",ghorbani|y,NA,Ghorbani,Y,NA
+,,,414,"Ghosh, S.",ghosh|s,NA,Ghosh,S,NA
+,,,415,"Giarrusso, A.",giarrusso|a,NA,Giarrusso,A,NA
+,,,416,"Gibson, C.",gibson|c,NA,Gibson,C,NA
+,,,417,"Gilmer, A K",gilmer|a,NA,Gilmer,A,K
+,,,418,"Gim, Jihyeon",gim|j,NA,Gim,Jihyeon,NA
+,,,419,"Girault, F.",girault|f,NA,Girault,F,NA
+,,,420,"Gity, Farzan",gity|f,NA,Gity,Farzan,NA
+,,,1691,"Gleason, Kelly E.",NA,NA,Gleason,Kelly,E
+,,,421,"Glen, Jonathan M G",glen|jm,NA,Glen,Jonathan,M G
+,,,422,"Gnann, S J",gnann|s,NA,Gnann,S,J
+,,,1552,"Goeking, Sara A",NA,NA,Goeking,Sara,A
+,,,423,"Gohlke, Julia M.",gohlke|jm,NA,Gohlke,Julia,M
+,,,424,"Goldberg, S L",goldberg|s,NA,Goldberg,S,L
+,Moved 'Costa' from middle name to 'extra',,1564,"Gomes, Diego Guilherme Costa",NA,Costa,Gomes,Diego,Guilherme
+,Moved 'De Sousa' from middle name to 'extra',,1536,"Gomes, Jailane De Sousa",,De Sousa,Gomes,Jailane,NA
+1,"This is an accented c, no seeming duplicates",,425,"Gonçalves, A N",gonalves|a,NA,Gonçalves,A,N
+,,,426,"Gond, R.",gond|r,NA,Gond,R,NA
+,,,1412,"Gonzalez, Susana Garcia",NA,NA,Gonzalez,Susana,Garcia
+,,,427,"Gonzalez-Alvarez, I.",gonzalezalvarez|i,NA,Gonzalez-Alvarez,I,NA
+,,,1713,"Goodling, Phillip J.",NA,NA,Goodling,Phillip,J
+,,,428,"Gootman, K S",gootman|k,NA,Gootman,K,S
+,,,1608,"Goudemand, Nicolas",NA,NA,Goudemand,Nicolas,NA
+,,,1521,"Gowda, Prasanna H.",NA,NA,Gowda,Prasanna,H
+,,,430,"Graedel, T.",graedel|t,NA,Graedel,T,NA
+,,,431,"Graf, Roberta",graf|r,NA,Graf,Roberta,NA
+,,,432,"Graham, Garth E.",graham|ge,NA,Graham,Garth,E
+,,,1645,"Graham, Matthew R.",NA,NA,Graham,Matthew,R
+,,,433,"Granitto, M.",granitto|m,NA,Granitto,M,NA
+,,,434,"Grauch, V. J. S.",grauch|vjs,NA,Grauch,V,J S
+,,,435,"Graybeal, F.",graybeal|f,NA,Graybeal,F,NA
+,,,436,"Graymer, R.",graymer|r,NA,Graymer,R,NA
+,,,437,"Grazioli, S.",grazioli|s,NA,Grazioli,S,NA
+,,,439,"Grigg, J.",grigg|j,NA,Grigg,J,NA
+,,,1501,"Groppo, Chiara",NA,NA,Groppo,Chiara,NA
+,,,1362,"Gross, Juliane",NA,NA,Gross,Juliane,NA
+,,,440,"Grover, Henry",grover|h,NA,Grover,Henry,NA
+,,,441,"Groves, D I",groves|d,NA,Groves,D,I
+,,,1730,"Guo, Qing",NA,NA,Guo,Qing,NA
+,Fixed out of upper case,,1544,"Guo, Yongmei",NA,NA,GUO,Yongmei,NA
+,,,1496,"Gupta, Tushar",NA,NA,Gupta,Tushar,NA
+,,,444,"Gustafson, J O",gustafson|j,NA,Gustafson,J,O
+,,,1693,"Gustin, Mae Sexauer",NA,NA,Gustin,Mae,Sexauer
+,,,446,"Guzmics, Tibor",guzmics|t,NA,Guzmics,Tibor,NA
+,,,447,"Gyawu, E.",gyawu|e,NA,Gyawu,E,NA
+,,,448,"Gysi, Alexander P.",gysi|ap,NA,Gysi,Alexander,P
+,,,449,"Habib, K.",habib|k,NA,Habib,K,NA
+,,,450,"Haeussler, P J",haeussler|p,NA,Haeussler,P,J
+,,,451,"Hakim, A Y A",hakim|a,NA,Hakim,A,Y A
+,,,452,"Hale, K E",hale|k,NA,Hale,K,E
+,,,453,"Hale, T N",hale|t,NA,Hale,T,N
+,,,454,"Hall, S.",hall|s,NA,Hall,S,NA
+,,,1602,"Hallock, Pamela",NA,NA,Hallock,Pamela,NA
+,,,455,"Hamed, Y.",hamed|y,NA,Hamed,Y,NA
+,,,1670,"Hamedani, Saleheh A. Nabavi",NA,NA,Hamedani,Saleheh,A Nabavi
+,,,456,"Hamisi, J.",hamisi|j,NA,Hamisi,J,NA
+,,,458,"Hammarstrom, Jane M.",hammarstrom|jm,NA,Hammarstrom,Jane,M
+,,,459,"Hammond, J C",hammond|j,NA,Hammond,J,C
+,,,464,"Han, Jinhyup",han|j,NA,Han,Jinhyup,NA
+,,,465,"Han, T.",han|t,NA,Han,T,NA
+,,,460,"Haneberg, W C",haneberg|w,NA,Haneberg,W,C
+1,"This is an accented o, no seeming duplicates",,461,"Hanghøj, K.",hanghj|k,NA,Hanghøj,K,NA
+,,,462,"Hanna, Heather",hanna|h,NA,Hanna,Heather,NA
+,,,463,"Hannington, Mark D.",hannington|md,NA,Hannington,Mark,D
+,,,1483,"Haque, Nawshad",NA,NA,Haque,Nawshad,NA
+,,,1711,"Hardesty, Deanna",NA,NA,Hardesty,Deanna,NA
+,,,467,"Hardman, Alice",hardman|a,NA,Hardman,Alice,NA
+,,,468,"Harpold, A.",harpold|a,NA,Harpold,A,NA
+,,,469,"Harrison, H N",harrison|h,NA,Harrison,H,N
+,,,470,"Harrison, J.",harrison|j,NA,Harrison,J,NA
+,,,471,"Hartings, M R",hartings|m,NA,Hartings,M,R
+,,,473,"Hartzell, S.",hartzell|s,NA,Hartzell,S,NA
+,,,474,"Harvey, David A.",harvey|da,NA,Harvey,David,A
+,"Fixed to be last,first",,1478,"Hassan-Beck, Haitem",NA,NA,Hassan-Beck,Haitem,NA
+,,,475,"Hauchecorne, Pauline",hauchecorne|p,NA,Hauchecorne,Pauline,NA
+,,,1612,"Hautmann, Michael",NA,NA,Hautmann,Michael,NA
+,,,1734,"Hawkins, Adam J.",NA,NA,Hawkins,Adam,J
+,,,1354,"Hawkins, Steph",NA,NA,Hawkins,Steph,NA
+,,,477,"Hawksley, C.",hawksley|c,NA,Hawksley,C,NA
+,,,479,"Hazen, R M",hazen|r,NA,Hazen,R,M
+,,,1726,"Hazra, Biplab",NA,NA,Hazra,Biplab,NA
+,,,1436,"Heard, Andi",NA,NA,Heard,Andi,NA
+,,,481,"Hearon, J S",hearon|j,NA,Hearon,J,S
+,,,482,"Heck, Richard J.",heck|rj,NA,Heck,Richard,J
+,,,484,"Hede, A N H",hede|a,NA,Hede,A,N H
+,,,485,"Hedrick, G.",hedrick|g,NA,Hedrick,G,NA
+,,,486,"Hegeman, P.",hegeman|p,NA,Hegeman,P,NA
+,,,488,"Heitmuller, F T",heitmuller|f,NA,Heitmuller,F,T
+,,,489,"Heizler, Matthew T.",heizler|mt,NA,Heizler,Matthew,T
+,,,1647,"Hendrixson, Brent E.",NA,NA,Hendrixson,Brent,E
+,,,490,"Hennessy, E.",hennessy|e,NA,Hennessy,E,NA
+,,,491,"Heptinstall, E A",heptinstall|e,NA,Heptinstall,E,A
+,,,1548,"Hernandez-Saz, J.",NA,NA,Hernandez-Saz,J,NA
+,,,492,"Hertweck, Kate L.",hertweck|kl,NA,Hertweck,Kate,L
+,,,493,"Hettler, J F",hettler|j,NA,Hettler,J,F
+,,,1491,"Heuberger, Stefan",NA,NA,Heuberger,Stefan,NA
+,,,494,"Hevesi, J.",hevesi|j,NA,Hevesi,J,NA
+,,,495,"Hickin, A S",hickin|a,NA,Hickin,A,S
+,,,1432,"Higuera, Philip E.",NA,NA,Higuera,Philip,E
+,,,497,"Hillman, A.",hillman|a,NA,Hillman,A,NA
+,,,498,"Hine, A.",hine|a,NA,Hine,A,NA
+,,,1587,"Hinz, Nick",NA,NA,Hinz,Nick,NA
+,,,1598,"Hinze, William J.",NA,NA,Hinze,William,J
+,,,500,"Hirsh, H.",hirsh|h,NA,Hirsh,H,NA
+,,,501,"Hnatyshin, D.",hnatyshin|d,NA,Hnatyshin,D,NA
+,,,502,"Hocquard, C.",hocquard|c,NA,Hocquard,C,NA
+,,,504,"Hofer, R.",hofer|r,NA,Hofer,R,NA
+,,,505,"Hofstra, A H",hofstra|a,NA,Hofstra,A,H
+,,,1724,"Hogan, Christopher J.",NA,NA,Hogan,Christopher,J
+,,,506,"Hogan, D E",hogan|d,NA,Hogan,D,E
+,,,1534,"Holguin, Sarah",NA,NA,Holguin,Sarah,NA
+,,,507,"Holland, M. S P",holland|ms,NA,Holland,M,S P
+,,,508,"Holm-Denoma, C S",holmdenoma|c,NA,Holm-Denoma,C,S
+,,,509,"Holsopple, A R",holsopple|a,NA,Holsopple,A,R
+,,,510,"Holtkamp, C.",holtkamp|c,NA,Holtkamp,C,NA
+,,,511,"Homan, D M",homan|d,NA,Homan,D,M
+,,,512,"Honsberger, I.",honsberger|i,NA,Honsberger,I,NA
+,,,513,"Hool, A.",hool|a,NA,Hool,A,NA
+,,,514,"Hoos, A.",hoos|a,NA,Hoos,A,NA
+,,,515,"Hornuf, L.",hornuf|l,NA,Hornuf,L,NA
+,,,1740,"Horowitz, Frank",NA,NA,Horowitz,Frank,NA
+,"Fixed to be last, first jr",,594,"Horton, J W Jr",jr|jh,Jr,Horton,J,W
+,Looked up and completed name to check it's not a duplicate,,516,"Horton, John D.",horton|j,NA,Horton,John,D
+,,,518,"Hotchkiss, E.",hotchkiss|e,NA,Hotchkiss,E,NA
+,,,521,"Hou, C Y",hou|c,NA,Hou,C,Y
+,,,522,"Hou, H.",hou|h,NA,Hou,H,NA
+,,,523,"Hou, T.",hou|t,NA,Hou,T,NA
+,,,1652,"Hou, Zengqian",NA,NA,Hou,Zengqian,NA
+,,,519,"Hough, S E",hough|s,NA,Hough,S,E
+1,"This is an accented e, no seeming duplicates",,520,"Houlé, M.",houl|m,NA,Houlé,M,NA
+,,,524,"Hsieh, P Y",hsieh|p,NA,Hsieh,P,Y
+,,,1702,"Hu, Xie",NA,NA,Hu,Xie,NA
+,,,1689,"Hu, Xinqi",NA,NA,Hu,Xinqi,NA
+,,,525,"Huang, J.",huang|j,NA,Huang,J,NA
+,,,526,"Huang, Q.",huang|q,NA,Huang,Q,NA
+,,,1533,"Hubbard, Aaron",NA,NA,Hubbard,Aaron,NA
+,,,527,"Hubbard, Angie K.",hubbard|ak,NA,Hubbard,Angie,K
+,,,528,"Hubbart, J A",hubbart|j,NA,Hubbart,J,A
+,,,531,"Hudak, G J",hudak|g,NA,Hudak,G,J
+,,,532,"Hudson, A M",hudson|a,NA,Hudson,A,M
+,,,533,"Hudson, M R",hudson|m,NA,Hudson,M,R
+,,,535,"Hui, J.",hui|j,NA,Hui,J,NA
+,,,1437,"Hundey, Beth",NA,NA,Hundey,Beth,NA
+,,,536,"Hung, Rita Elena Fereira",hung|ref,Fereira,Hung,Rita,Elena
+,,,538,"Hurley, Paul K.",hurley|pk,NA,Hurley,Paul,K
+,,,539,"Hurley, W.",hurley|w,NA,Hurley,W,NA
+,,,540,"Hurtig, Nicole C.",hurtig|nc,NA,Hurtig,Nicole,C
+,,,541,"Husic, A.",husic|a,NA,Husic,A,NA
+,,,542,"Husson, J M",husson|j,NA,Husson,J,M
+,,,543,"Huston, D L",huston|d,NA,Huston,D,L
+1,"This is two accented e, no seeming duplicates",,544,"Hyot, Bérangère",hyot|b,NA,Hyot,Bérangère,NA
+,,,1518,"Ibrahim, Mohammad",NA,NA,Ibrahim,Mohammad,NA
+,,,545,"Iddir, Hakim",iddir|h,NA,Iddir,Hakim,NA
+,,,546,"Idzikowski, C R",idzikowski|c,NA,Idzikowski,C,R
+,,,551,"Ikejiri, T.",ikejiri|t,NA,Ikejiri,T,NA
+,,,552,"Ilankoon, I.",ilankoon|i,NA,Ilankoon,I,NA
+,,,553,"Im, H.",im|h,NA,Im,H,NA
+,,,554,"Ingebritsen, S E",ingebritsen|s,NA,Ingebritsen,S,E
+,,,556,"Ireland, Robert",ireland|r,NA,Ireland,Robert,NA
+,,,557,"Ivanov, A.",ivanov|a,NA,Ivanov,A,NA
+,,,1358,"Ivanova, Natalia",NA,NA,Ivanova,Natalia,NA
+,,,558,"Iverson, Nels",iverson|n,NA,Iverson,Nels,NA
+,,,1623,"Jacob, Kristin",NA,NA,Jacob,Kristin,NA
+,,,559,"Jacobs, J E",jacobs|j,NA,Jacobs,J,E
+,,,1561,"Jacquemin, Stephen J.",NA,NA,Jacquemin,Stephen,J
+,,,560,"Jafta, C J",jafta|c,NA,Jafta,C,J
+,,,1400,"Jaganathan, Jayaprakash",NA,NA,Jaganathan,Jayaprakash,NA
+,,,561,"Jallouli, H.",jallouli|h,NA,Jallouli,H,NA
+,,,563,"Jaroenchai, N.",jaroenchai|n,NA,Jaroenchai,N,NA
+1,"This is an accented e, no seeming duplicates",,564,"Jaumé, Steven C.",jaum|sc,NA,Jaumé,Steven,C
+,,,565,"Jayasekera, K S",jayasekera|k,NA,Jayasekera,K,S
+1,"This is an accented c, no seeming duplicates",,566,"Jean-François, M.",jeanfranois|m,NA,Jean-François,M,NA
+,,,567,"Jebrak, M.",jebrak|m,NA,Jebrak,M,NA
+,,,569,"Jenkins, J A",jenkins|j,NA,Jenkins,J,A
+,,,1610,"Jenks, James F.",NA,NA,Jenks,James,F
+,,,571,"Jess, S.",jess|s,NA,Jess,S,NA
+,,,1383,"Jia, Nanfei",NA,NA,Jia,Nanfei,NA
+,,,574,"Jia, Y.",jia|y,NA,Jia,Y,NA
+,,,573,"Jiang, R.",jiang|r,NA,Jiang,R,NA
+,,,1680,"Jin, Taeyoung",NA,NA,Jin,Taeyoung,NA
+,,1680,1684,"Jin, Tae-young",NA,NA,Jin,Tae-young,NA
+,,,575,"Jin, Y.",jin|y,NA,Jin,Y,NA
+,,,579,"Joeckel, R M",joeckel|r,NA,Joeckel,R,M
+,,,584,"John S. Placyk, Jr",johnsplacyk|j,Jr,Placyk,John,S
+,,,586,"John, D A",john|d,NA,John,D,A
+,,,581,"Johnson, Christopher",johnson|c,NA,Johnson,Christopher,NA
+,,,1375,"Johnson, Craig A.",NA,NA,Johnson,Craig,A
+,,,582,"Johnson, K.",johnson|k,NA,Johnson,K,NA
+,,,583,"Johnson, T D",johnson|t,NA,Johnson,T,D
+,,,585,"Johnstone, S.",johnstone|s,NA,Johnstone,S,NA
+,,,587,"Jones, D.",jones|d,NA,Jones,D,NA
+,"Fixed to be last, first III",550,549,"Jones, J V III",iii|jj,III,Jones,J,V
+,,550,588,"Jones, J.V., I I I",jones|ji,NA,Jones,JV,I I I
+,"Fixed to be last, first III",,550,"Jones, James V. III",iii|jvj,III,Jones,James,V
+,,,1449,"Jonsson, Par G.",NA,NA,Jonsson,Par,G
+,,,589,"Jordan, J S",jordan|j,NA,Jordan,J,S
+,,,1732,"Jordan, Teresa E.",NA,NA,Jordan,Teresa,E
+,,,590,"Jowitt, Simon M.",jowitt|sm,,Jowitt,Simon,M
+,,,597,"Jung, Youngjae",jung|y,NA,Jung,Youngjae,NA
+,,,598,"Justman, D M",justman|d,NA,Justman,D,M
+,,,601,"Kablan, O A B K",kablan|o,NA,Kablan,O,A B K
+,,,604,"Kamo, S L",kamo|s,NA,Kamo,S,L
+,,,603,"Kamoske, A G",kamoske|a,NA,Kamoske,A,G
+,,,605,"Kampf, S.",kampf|s,NA,Kampf,S,NA
+,,,606,"Kane, T J",kane|t,NA,Kane,T,J
+,,,607,"Kangas, K W",kangas|k,NA,Kangas,K,W
+,,,1466,"Kantiranis, Nikolaos",NA,NA,Kantiranis,Nikolaos,NA
+,,,608,"Kappel, W M",kappel|w,NA,Kappel,W,M
+,,,609,"Karabelli, D.",karabelli|d,NA,Karabelli,D,NA
+1,"This is an accented o, no seeming duplicates",,610,"Karacan, CÖ",karacan|c,NA,Karacan,CÖ,NA
+,,,1389,"Karaman, Muhittin",NA,NA,Karaman,Muhittin,NA
+,,,1374,"Karl, Susan M.",NA,NA,Karl,Susan,M
+,"Fixed to be last,first",,1477,"Karuppasamy, K.",NA,NA,Karuppasamy,K,NA
+,,,611,"Katz, Lynn E.",katz|le,NA,Katz,Lynn,E
+,,,612,"Keck, B P",keck|b,NA,Keck,B,P
+,,,1597,"Keenan, Rodney",NA,NA,Keenan,Rodney,NA
+,,,613,"Kelbert, A.",kelbert|a,NA,Kelbert,A,NA
+,,,614,"Kelley, K.",kelley|k,NA,Kelley,K,NA
+,,,616,"Kelley, Shari",kelley|s,NA,Kelley,Shari,NA
+,,,617,"Kellner, E.",kellner|e,NA,Kellner,E,NA
+,,,618,"Kemper, J T",kemper|j,NA,Kemper,J,T
+,,,619,"Kendall, Jerome J.",kendall|jj,NA,Kendall,Jerome,J
+,,,620,"Kendall, Katharine P.",kendall|kp,NA,Kendall,Katharine,P
+,,,622,"Keto, D S",keto|d,NA,Keto,D,S
+,,,1742,"Khan, Tasnuva Ming",NA,NA,Khan,Tasnuva,Ming
+,,,1660,"Kharitonova, Natalya",NA,NA,Kharitonova,Natalya,NA
+,,,624,"Khoury, R M",khoury|r,NA,Khoury,R,M
+,,,625,"Kiemel, S.",kiemel|s,NA,Kiemel,S,NA
+,,,626,"Kienzle, Benjamin A.",kienzle|ba,NA,Kienzle,Benjamin,A
+,,,628,"Kim, D.",kim|d,NA,Kim,D,NA
+,,,629,"Kim, H.",kim|h,NA,Kim,H,NA
+,,,630,"Kim, J.",kim|j,NA,Kim,J,NA
+,,,1637,"Kim, Rina",NA,NA,Kim,Rina,NA
+,,,631,"Kim, Youngsik",kim|y,NA,Kim,Youngsik,NA
+,,,1516,"Kincare, Kevin A.",NA,NA,Kincare,Kevin,A
+,,,1514,"Kindratenko, Volodymyr",NA,NA,Kindratenko,Volodymyr,NA
+,,,1653,"Kinska, Katarzyna",NA,NA,Kinska,Katarzyna,NA
+,,,633,"Kintner, J A",kintner|j,NA,Kintner,J,A
+,,,634,"Kirby, Cindie",kirby|c,NA,Kirby,Cindie,NA
+,,,635,"Kitlasten, W.",kitlasten|w,NA,Kitlasten,W,NA
+,,,636,"Klerner, J.",klerner|j,NA,Klerner,J,NA
+,,,637,"Klimko, J.",klimko|j,NA,Klimko,J,NA
+,,,638,"Knapp, M A",knapp|m,NA,Knapp,M,A
+,,,639,"Knierim, K J",knierim|k,NA,Knierim,K,J
+,,,640,"Knight, A C",knight|a,NA,Knight,A,C
+,,,641,"Knoblock, Craig A.",knoblock|ca,NA,Knoblock,Craig,A
+,,,642,"Knox, R.",knox|r,NA,Knox,R,NA
+,,,1438,"Koinig, Karin A.",NA,NA,Koinig,Karin,A
+,,,644,"Kolker, A.",kolker|a,NA,Kolker,A,NA
+,,,645,"Koller, J.",koller|j,NA,Koller,J,NA
+,,,646,"Konuk, Adnan",konuk|a,NA,Konuk,Adnan,NA
+,,,1510,"Kooper, Rob",NA,NA,Kooper,Rob,NA
+,,,1439,"Kopacek, Jiri",NA,NA,Kopacek,Jiri,NA
+,,,647,"Korus, J T",korus|j,NA,Korus,J,T
+,,,648,"Koutz, F.",koutz|f,NA,Koutz,F,NA
+,,,649,"Kovach-Hammons, A M",kovachhammons|a,NA,Kovach-Hammons,A,M
+,,,650,"Koyamparambath, A.",koyamparambath|a,NA,Koyamparambath,A,NA
+,,,652,"Kozlowski, A.",kozlowski|a,NA,Kozlowski,A,NA
+,,,653,"Kraal, K.",kraal|k,NA,Kraal,K,NA
+,,,654,"Krall, L.",krall|l,NA,Krall,L,NA
+,,,1513,"Kramer, William",NA,NA,Kramer,William,NA
+,,,1657,"Krasnodebska-Ostrega, Beata",NA,NA,Krasnodebska-Ostrega,Beata,NA
+,,,655,"Kreiner, Douglas C.",kreiner|dc,NA,Kreiner,Douglas,C
+1,"This is an accented i and an accented c, no seeming duplicates",,656,"Krmíček, L.",krmek|l,NA,Krmíček,L,NA
+,,,1614,"Krumenacker, L. J.",NA,NA,Krumenacker,L,J
+,,,662,"Ku, A Y",ku|a,NA,Ku,A,Y
+,,,657,"Kuiper, Y D",kuiper|y,NA,Kuiper,Y,D
+,,,658,"Kumar, A.",kumar|a,NA,Kumar,A,NA
+,,,659,"Kumar, J.",kumar|j,NA,Kumar,J,NA
+,,,660,"Kunath, M.",kunath|m,NA,Kunath,M,NA
+,,,661,"Kurup, Parthiv",kurup|p,NA,Kurup,Parthiv,NA
+,,,1512,"Kwark, Dou Hoon",NA,NA,Kwark,Dou,Hoon
+,,,664,"Lai, J.",lai|j,NA,Lai,J,NA
+,,,665,"Lamb, A P",lamb|a,NA,Lamb,A,P
+,,,1628,"Lan, Tingting",NA,NA,Lan,Tingting,NA
+,,,666,"Langenheim, V.",langenheim|v,NA,Langenheim,V,NA
+,,,668,"Larison, Caleb",larison|c,NA,Larison,Caleb,NA
+,,,669,"Larsen, I J",larsen|i,NA,Larsen,I,J
+,,,671,"Laszlo, Ava",laszlo|a,NA,Laszlo,Ava,NA
+1,"This is an accented a, no seeming duplicates",,672,"Laubertová, M.",laubertov|m,NA,Laubertová,M,NA
+,,,1722,"Laurence, Stuart J.",NA,NA,Laurence,Stuart,J
+1,"This is an accented e, no seeming duplicates",,673,"Lauzière, K.",lauzire|k,NA,Lauzière,K,NA
+,,,1604,"Laville, Thomas",NA,NA,Laville,Thomas,NA
+,,,1553,"Lavin, Matt",NA,NA,Lavin,Matt,NA
+,,,674,"Lawley, C J M",lawley|c,NA,Lawley,C,J M
+,,,676,"Leak, Alan",leak|a,NA,Leak,Alan,NA
+,,,677,"Lebedeva, M I",lebedeva|m,NA,Lebedeva,M,I
+,,,1579,"Lebel, Daniel",NA,NA,Lebel,Daniel,NA
+,,,1658,"Lebit, Hermann",NA,NA,Lebit,Hermann,NA
+,,,678,"Lederer, Graham W.",lederer|gw,NA,Lederer,Graham,W
+,,,680,"Lee, Eungje",lee|e,NA,Lee,Eungje,NA
+,,,681,"Leibowitz, S G",leibowitz|s,NA,Leibowitz,S,G
+,,,1414,"Lesniewska, Alicja",NA,NA,Lesniewska,Alicja,NA
+,,,682,"Lewis, R S",lewis|r,NA,Lewis,R,S
+,,,698,"Li, Kuo",li|k,NA,Li,Kuo,NA
+,,,1372,"Li, Li",NA,NA,Li,Li,NA
+,,,699,"Li, M.",li|m,NA,Li,M,NA
+,,,700,"Li, N.",li|n,NA,Li,N,NA
+,,,701,"Li, Q.",li|q,NA,Li,Q,NA
+,,,702,"Li, S.",li|s,NA,Li,S,NA
+,,,1651,"Li, Xin",NA,NA,Li,Xin,NA
+,,,1632,"Li, Xiya",NA,NA,Li,Xiya,NA
+,,,703,"Li, Y.",li|y,NA,Li,Y,NA
+,,,683,"Liang, C.",liang|c,NA,Liang,C,NA
+,,,684,"Liimatainen, T.",liimatainen|t,NA,Liimatainen,T,NA
+,,,688,"Lin, Fandel",lin|f,NA,Lin,Fandel,NA
+,,,1731,"Lin, Kunqi",NA,NA,Lin,Kunqi,NA
+,,,685,"Linden, Karl G.",linden|kg,NA,Linden,Karl,G
+,,,1390,"Lindsey, Bruce D.",NA,NA,Lindsey,Bruce,D
+,,,686,"Ling, X.",ling|x,NA,Ling,X,NA
+,,,687,"Linnen, R L",linnen|r,NA,Linnen,R,L
+,,,689,"Liquet, B.",liquet|b,NA,Liquet,B,NA
+,,,690,"Lisitsin, V.",lisitsin|v,NA,Lisitsin,V,NA
+,,,691,"Liu, B.",liu|b,NA,Liu,B,NA
+,,,1386,"Liu, Donghui",NA,NA,Liu,Donghui,NA
+,,,1368,"Liu, Dongna",NA,NA,Liu,Dongna,NA
+,,,1626,"Liu, Jiaqi",NA,NA,Liu,Jiaqi,NA
+,,,693,"Liu, Q.",liu|q,NA,Liu,Q,NA
+,,,694,"Liu, W.",liu|w,NA,Liu,W,NA
+,,,1371,"Liu, Xile",NA,NA,Liu,Xile,NA
+,,,1366,"Liu, Xuefei",NA,NA,Liu,Xuefei,NA
+,,,695,"Liu, Y.",liu|y,NA,Liu,Y,NA
+,,,696,"Liu, Z.",liu|z,NA,Liu,Z,NA
+,,,704,"Locmelis, M.",locmelis|m,NA,Locmelis,M,NA
+,,,705,"Loferski, Patricia",loferski|p,NA,Loferski,Patricia,NA
+,,,706,"Lollato, R.",lollato|r,NA,Lollato,R,NA
+,,,1593,"Lopeman, Janice",NA,NA,Lopeman,Janice,NA
+,,,707,"Lopez, Julian A.",lopez|ja,NA,Lopez,Julian,A
+,,,708,"Losno, R.",losno|r,NA,Losno,R,NA
+,,,709,"Lowers, H A",lowers|h,NA,Lowers,H,A
+,,,710,"Lozano, Cristian David Gomez",lozano|cdg,Gomez,Lozano,Cristian,David
+,,,719,"Lu, Y H",lu|y,NA,Lu,Y,H
+,,,720,"Lu, Z.",lu|z,NA,Lu,Z,NA
+,,,711,"Lucas, M.",lucas|m,NA,Lucas,M,NA
+,,,712,"Luckie, T W",luckie|t,NA,Luckie,T,W
+,,,714,"Lundine, M.",lundine|m,NA,Lundine,M,NA
+,,,715,"Lundstrom, S C",lundstrom|s,NA,Lundstrom,S,C
+,,,716,"Luo, D.",luo|d,NA,Luo,D,NA
+,,,1515,"Luo, Shirui",NA,NA,Luo,Shirui,NA
+,,,717,"Lupulescu, M V",lupulescu|m,NA,Lupulescu,M,V
+,,,718,"Lutz, B M",lutz|b,NA,Lutz,B,M
+,,,722,"Lynggaard, Josefine Reimer",lynggaard|jr,NA,Lynggaard,Josefine,Reimer
+,,,767,"Ma, P J",ma|p,NA,Ma,P,J
+,,,768,"Ma, Z J",ma|z,NA,Ma,Z,J
+1,"This is three accented a, updated row without accents to replace with this author_id",,838,"Márkus, Ádám",mrkus|,NA,Márkus,Ádám,NA
+1,"This is an accented u, no seeming duplicates",,805,"Müller, D.",mller|d,NA,Müller,D,NA
+,,,723,"Mabee, S B",mabee|s,NA,Mabee,S,B
+,,,724,"Macdonald, F A",macdonald|f,NA,Macdonald,F,A
+,,,725,"Macfarlane, A.",macfarlane|a,NA,Macfarlane,A,NA
+,,,726,"Macias, S G",macias|s,NA,Macias,S,G
+,,,727,"Macknick, Jordan E.",macknick|je,NA,Macknick,Jordan,E
+,,,728,"Macqueen, Patricia G.",macqueen|pg,NA,Macqueen,Patricia,G
+,,,729,"MacRae, C M",macrae|c,NA,MacRae,C,M
+,,,730,"Madronich, L.",madronich|l,NA,Madronich,L,NA
+,,,731,"Magnin, B P",magnin|b,NA,Magnin,B,P
+,,,1725,"Maity, Joydeep",NA,NA,Maity,Joydeep,NA
+,,,1557,"Majumdar, Sayantan",NA,NA,Majumdar,Sayantan,NA
+,Added space between A. M. and split it into first_name & middle_name,,1523,"Maksimova, A. M.",NA,NA,Maksimova,A,M
+,,,732,"Malhotra, Mini",malhotra|m,NA,Malhotra,Mini,NA
+,Added space between A. M. and split it into first_name & middle_name,,1522,"Malikova, O. I.",NA,NA,Malikova,O,I
+,,,1524,"Malinconico, MaryAnn Love",NA,NA,Malinconico,MaryAnn,Love
+,,,1727,"Mallick, Mousumi",NA,NA,Mallick,Mousumi,NA
+,,,733,"Mamula, N.",mamula|n,NA,Mamula,N,NA
+,,,734,"Mancheri, N.",mancheri|n,NA,Mancheri,N,NA
+,,,735,"Manjong, N B",manjong|n,NA,Manjong,N,B
+,,,1531,"Marchesini, Ivan",NA,NA,Marchesini,Ivan,NA
+,,,737,"Marcinov, V.",marcinov|v,NA,Marcinov,V,NA
+,,,738,"Margenot, A J",margenot|a,NA,Margenot,A,J
+,,,1454,"Mark-Moser, M.",NA,NA,Mark-Moser,M,NA
+,,838,1582,"Markus, Adam",NA,NA,Markus,Adam,NA
+,,,1535,"Marmagas, Susan W.",NA,NA,Marmagas,Susan,W
+,,,1578,"Marquis, Genevieve",NA,NA,Marquis,Genevieve,NA
+,,,739,"Marscheider-Weidemann, Frank",marscheiderweidemann|f,NA,Marscheider-Weidemann,Frank,NA
+,,,1379,"Marsh, Jeffrey H.",NA,NA,Marsh,Jeffrey,H
+,,,740,"Marshak, S.",marshak|s,NA,Marshak,S,NA
+,,,741,"Marshall, J M",marshall|j,NA,Marshall,J,M
+,,,745,"Martin, L.",martin|l,NA,Martin,L,NA
+,,,746,"Martin, Mickael",martin|m,NA,Martin,Mickael,NA
+,,,747,"Martin, S L",martin|s,NA,Martin,S,L
+,,,742,"Martinetti, L B",martinetti|l,NA,Martinetti,L,B
+,,,743,"Martinez, D.",martinez|d,NA,Martinez,D,NA
+,,,748,"Marvinney, R G",marvinney|r,NA,Marvinney,R,G
+,,,749,"Masri, Ahmad",masri|a,NA,Masri,Ahmad,NA
+,,,750,"Massawe, F A",massawe|f,NA,Massawe,F,A
+,,,751,"Massey, M A",massey|m,NA,Massey,M,A
+,,,752,"Mastalerz, M.",mastalerz|m,NA,Mastalerz,M,NA
+,,,753,"Masterman, Steve S.",masterman|ss,NA,Masterman,Steve,S
+,,,754,"Masterson, A.",masterson|a,NA,Masterson,A,NA
+,,,756,"Mathew, J J",mathew|j,NA,Mathew,J,J
+,,,755,"Mathews, J P",mathews|j,NA,Mathews,J,P
+,,,758,"Mato, K.",mato|k,NA,Mato,K,NA
+,,,757,"Matos, D R",matos|d,NA,Matos,D,R
+,,,1530,"Matteo, Lucio Di",NA,NA,Matteo,Lucio,Di
+,,,759,"Mattheus, C R",mattheus|c,NA,Mattheus,C,R
+,,,760,"Matthews, W A",matthews|w,NA,Matthews,W,A
+,,,761,"Mauk, Jeffrey L.",mauk|jl,NA,Mauk,Jeffrey,L
+,,,763,"Maurer, B W",maurer|b,NA,Maurer,B,W
+,,,1741,"May, Daniel",NA,NA,May,Daniel,NA
+,,,766,"May, P.",may|p,NA,May,P,NA
+,,,764,"Mayes, R.",mayes|r,NA,Mayes,R,NA
+,,,765,"Mayyas, A.",mayyas|a,NA,Mayyas,A,NA
+,,,770,"McCafferty, Anne E.",mccafferty|ae,NA,McCafferty,Anne,E
+,,,771,"McCall, James",mccall|j,NA,McCall,James,NA
+,,,772,"McCartin, T.",mccartin|t,NA,McCartin,T,NA
+,,,1698,"McConnell, Joseph R.",NA,NA,McConnell,Joseph,R
+,,,773,"McLauchlan, K K",mclauchlan|k,NA,McLauchlan,K,K
+,,,774,"McLaughlin, P I",mclaughlin|p,NA,McLaughlin,P,I
+,,,775,"McLaurin, B.",mclaurin|b,NA,McLaurin,B,NA
+,,,776,"McLemore, Virginia T.",mclemore|vt,NA,McLemore,Virginia,T
+,,,777,"McMahon, P B",mcmahon|p,NA,McMahon,P,B
+,,,778,"McMillan, H K",mcmillan|h,NA,McMillan,H,K
+,,,779,"McNew, E.",mcnew|e,NA,McNew,E,NA
+,,,780,"McPhee, Darcy",mcphee|d,NA,McPhee,Darcy,NA
+,,,782,"Meischner, Tim",meischner|t,NA,Meischner,Tim,NA
+,,,784,"Melfos, V.",melfos|v,NA,Melfos,V,NA
+,"Meant to be Schwan, Melissa R. Updated author_id 1690 and added code to drop this author_id",,1695,Melissa R.,NA,NA,Melissa,R,NA
+,,1572,1404,"Meng, Shirley",NA,NA,Meng,Shirley,NA
+,,,1572,"Meng, Ying Shirley",NA,NA,Meng,Ying,Shirley
+,,,1571,"Mercer, Cameron M.",NA,NA,Mercer,Cameron,M
+,Completed first name to check not a duplicate,,785,"Mercer, Celestine N",mercer|c,NA,Mercer,Celestine,N
+,,,1382,"Merida, Walter",NA,NA,Merida,Walter,NA
+,,,786,"Merriman, C W",merriman|c,NA,Merriman,C,W
+,,,788,"Meszaros, Nicholas F.",meszaros|nf,NA,Meszaros,Nicholas,F
+,,,789,"Meter, K J Van",meter|kv,Van,Meter,K,J
+,,,790,"Methner, K.",methner|k,NA,Methner,K,NA
+,,,1527,"Mevoli, Federica Angela",NA,NA,Mevoli,Federica,Angela
+,,,792,"Meyer, S.",meyer|s,NA,Meyer,S,NA
+,,,793,"Miara, Ariel",miara|a,NA,Miara,Ariel,NA
+,,,1471,"Micklethwaite, Steven",NA,NA,Micklethwaite,Steven,NA
+,,,1409,"Miehe, Robert",NA,NA,Miehe,Robert,NA
+,,,795,"Milinovic, J.",milinovic|j,NA,Milinovic,J,NA
+,,,796,"Miller, F W",miller|f,NA,Miller,F,W
+,,,797,"Miller, Kaleisha D.",miller|kd,NA,Miller,Kaleisha,D
+,,,798,"Miller, Mathew",miller|m,NA,Miller,Mathew,NA
+,,,799,"Miller, Q R S",miller|q,NA,Miller,Q,R S
+,,,1622,"Mills, Ryan D.",NA,NA,Mills,Ryan,D
+,,,1473,"Mills, Stuart",NA,NA,Mills,Stuart,NA
+,,,1591,"Milton, Alex",NA,NA,Milton,Alex,NA
+,,,1520,"Mirchi, Ali",NA,NA,Mirchi,Ali,NA
+,,,801,"Mitchell, C J",mitchell|c,NA,Mitchell,C,J
+,,,802,"Mixon, R.",mixon|r,NA,Mixon,R,NA
+,,,804,"Mlinar, M A",mlinar|m,NA,Mlinar,M,A
+,,,807,"Moecher, D P",moecher|d,NA,Moecher,D,P
+1,"This is two accented e, no seeming duplicates",,808,"Moeyaert, Jérémy",moeyaert|j,NA,Moeyaert,Jérémy,NA
+,,,1402,"Mohamed, Abdullahi Ali",NA,NA,Mohamed,Abdullahi,Ali
+,,,809,"Mohamed, G A",mohamed|g,NA,Mohamed,G,A
+,,,811,"Mohr, M.",mohr|m,NA,Mohr,M,NA
+,,,810,"Mohriak, W.",mohriak|w,NA,Mohriak,W,NA
+,,,812,"Moidu, H.",moidu|h,NA,Moidu,H,NA
+,,,813,"Mollenhauer, R.",mollenhauer|r,NA,Mollenhauer,R,NA
+,,,814,"Molloy, J.",molloy|j,NA,Molloy,J,NA
+1,"This is an accented a, no seeming duplicates",,815,"Molnár, F.",molnr|f,NA,Molnár,F,NA
+,,,816,"Monecke, Thomas",monecke|t,NA,Monecke,Thomas,NA
+,,,817,"Monroe, A.",monroe|a,NA,Monroe,A,NA
+,,,1525,"Monte, Nunzia",NA,NA,Monte,Nunzia,NA
+,,,818,"Monteiro, H S",monteiro|h,NA,Monteiro,H,S
+,,,819,"Montross, S N",montross|s,NA,Montross,S,N
+,,,820,"Moore, Jessica",moore|j,NA,Moore,Jessica,NA
+,,,1710,"Moore, Joel",NA,NA,Moore,Joel,NA
+,,,821,"Morbeck, Benjamin",morbeck|b,NA,Morbeck,Benjamin,NA
+,,,822,"Moreland, K C",moreland|k,NA,Moreland,K,C
+,,,823,"Morelli, L.",morelli|l,NA,Morelli,L,NA
+,,,1708,"Morency, Michelle",NA,NA,Morency,Michelle,NA
+,,,824,"Morgenthaler, J.",morgenthaler|j,NA,Morgenthaler,J,NA
+,,,825,"Morin-Ka, S.",morinka|s,NA,Morin-Ka,S,NA
+,,,828,"Morris, A B",morris|a,NA,Morris,A,B
+,,,826,"Morrison, R R",morrison|r,NA,Morrison,R,R
+,,,827,"Morrison, S M",morrison|s,NA,Morrison,S,M
+,,,1470,"Morrissey, Laura",NA,NA,Morrissey,Laura,NA
+,,,830,"Morrone, J.",morrone|j,NA,Morrone,J,NA
+,,,831,"Mortensen, J K",mortensen|j,NA,Mortensen,J,K
+,,,832,"Moschetti, M P",moschetti|m,NA,Moschetti,M,P
+,,,1440,"Moser, Katrina",NA,NA,Moser,Katrina,NA
+,,,833,"Moshrefzadeh, J.",moshrefzadeh|j,NA,Moshrefzadeh,J,NA
+,,,834,"Moumani, Khaled Ali",moumani|ka,NA,Moumani,Khaled,Ali
+,,,835,"Mouser, J B",mouser|j,NA,Mouser,J,B
+,,,837,"Moye, C D",moye|c,NA,Moye,C,D
+,,,836,"Moyer, B A",moyer|b,NA,Moyer,B,A
+,,,841,"Mudd, D.",mudd|d,NA,Mudd,D,NA
+,,,842,"Mudd, G M",mudd|g,NA,Mudd,G,M
+,,,843,"Muhanga, M I",muhanga|m,NA,Muhanga,M,I
+,,,844,"Mukherjee, A.",mukherjee|a,NA,Mukherjee,A,NA
+,,,845,"Muller, Izzy P.",muller|ip,NA,Muller,Izzy,P
+,,,1573,"Munk, L. A.",NA,NA,Munk,L,A
+,,,847,"Murchland, M A",murchland|m,NA,Murchland,M,A
+,,,849,"Murphy, S F",murphy|s,NA,Murphy,S,F
+,,,850,"Murtiana, Sri",murtiana|s,NA,Murtiana,Sri,NA
+,,,851,"Murton, B J",murton|b,NA,Murton,B,J
+,,,852,"Musho, T.",musho|t,NA,Musho,T,NA
+,,,853,"Musoma, B M",musoma|b,NA,Musoma,B,M
+,,,854,"Musselman, K N",musselman|k,NA,Musselman,K,N
+,,,855,"Muthoosamy, K.",muthoosamy|k,NA,Muthoosamy,K,NA
+,,,856,"Myles, C C",myles|c,NA,Myles,C,C
+,,,857,"Naemi, A.",naemi|a,NA,Naemi,A,NA
+,,,859,"Naibert, Travis J.",naibert|tj,NA,Naibert,Travis,J
+,,,860,"Nanus, L.",nanus|l,NA,Nanus,L,NA
+,,,1327,"Nassar, Nedal T.",NA,NA,Nassar,Nedal,T
+,,,861,"Natkaniec-Nowak, L.",natkaniecnowak|l,NA,Natkaniec-Nowak,L,NA
+,,,1392,"Neethling, S. J.",NA,NA,Neethling,S,J
+,,,863,"Neves, Miguel",neves|m,NA,Neves,Miguel,NA
+,,,864,"Newberry, Rainer J.",newberry|rj,NA,Newberry,Rainer,J
+,,,1463,"Newman, Alexander",NA,NA,Newman,Alexander,NA
+,,,865,"Newman, C.",newman|c,NA,Newman,C,NA
+,,,866,"Nguyen, L H B",nguyen|l,NA,Nguyen,L,H B
+,,,867,"Nguyen, N.",nguyen|n,NA,Nguyen,N,NA
+,,,868,"Nibourel, L.",nibourel|l,NA,Nibourel,L,NA
+,,,869,"Nicholas, Joseph R.",nicholas|jr,NA,Nicholas,Joseph,R
+,,,870,"Nielsen, M G",nielsen|m,NA,Nielsen,M,G
+,,,871,"Nielsen, Scott E.",nielsen|se,NA,Nielsen,Scott,E
+,,,872,"Nielson, D.",nielson|d,NA,Nielson,D,NA
+,,,874,"Niemiller, M L",niemiller|m,NA,Niemiller,M,L
+,,,1584,"Ningen, Sara Van",NA,NA,Ningen,Sara,Van
+,,,876,"Niri, A. Jannesar",niri|aj,NA,Niri,A,Jannesar
+,,,877,"Nixon, K.",nixon|k,NA,Nixon,K,NA
+,,,878,"Noble, A.",noble|a,NA,Noble,A,NA
+,,,883,"Nwaila, G T",nwaila|g,NA,Nwaila,G,T
+,,,884,"Nyanda, S S",nyanda|s,NA,Nyanda,S,S
+,,,1441,"Nydick, Koren",NA,NA,Nydick,Koren,NA
+,,,885,"Nygaard, A.",nygaard|a,NA,Nygaard,A,NA
+,,,886,"Obedzinski, M.",obedzinski|m,NA,Obedzinski,M,NA
+,,,887,"Ochonma, P.",ochonma|p,NA,Ochonma,P,NA
+,,,888,"Okonkwo, Emenike George",okonkwo|eg,NA,Okonkwo,Emenike,George
+,,,1662,"Oktavianus, Ignasius Dwi",NA,NA,Oktavianus,Ignasius,Dwi
+,,,889,"Okuno, Hanako",okuno|h,NA,Okuno,Hanako,NA
+,,,1442,"Oleksy, Isabella",NA,NA,Oleksy,Isabella,NA
+,,,890,"Olivero, A P",olivero|a,NA,Olivero,A,P
+,,,891,"Olivetti, E.",olivetti|e,NA,Olivetti,E,NA
+,,,1607,"Olivier, Nicolas",NA,NA,Olivier,Nicolas,NA
+,,,1721,"Olson, Bernard A.",NA,NA,Olson,Bernard,A
+,,,1668,"Olson, Julie B.",NA,NA,Olson,Julie,B
+,,,894,"Ootes, L.",ootes|l,NA,Ootes,L,NA
+,,,1416,"Oprins, Herman",NA,NA,Oprins,Herman,NA
+1,"This is an accented a and an accented c, no seeming duplicates",,896,"Oráč, D.",or|d,NA,Oráč,D,NA
+,,,895,"Orovan, E A",orovan|e,NA,Orovan,E,A
+,,,899,"Owen, Evan J.",owen|ej,NA,Owen,Evan,J
+,,,1563,"Palosaari, Jenny",NA,NA,Palosaari,Jenny,NA
+,,,903,"Pan, F.",pan|f,NA,Pan,F,NA
+,,,904,"Pan, X.",pan|x,NA,Pan,X,NA
+,,,905,"Pan, Y.",pan|y,NA,Pan,Y,NA
+,,,901,"Pandey, A.",pandey|a,NA,Pandey,A,NA
+,,,902,"Pandey, R.",pandey|r,NA,Pandey,R,NA
+,,,906,"Papadopoulou, L.",papadopoulou|l,NA,Papadopoulou,L,NA
+,,,907,"Pape, Y. Le",pape|yl,NA,Pape,Y,Le
+,,,908,"Parab, S.",parab|s,NA,Parab,S,NA
+,,,909,"Paradis, S.",paradis|s,NA,Paradis,S,NA
+,,,1574,"Paranthaman, M. Parans",NA,NA,Paranthaman,M,Parans
+,,,913,"Park, Jehee",park|j,NA,Park,Jehee,NA
+,This is just a different anglicized spelling of the same Korean name Junhyeok,1634,1685,"Park, Joon-hyuk",NA,NA,Park,Joon-hyuk,NA
+,,,1634,"Park, Junhyeok",NA,NA,Park,Junhyeok,NA
+,,1634,1681,"Park, Junhyeok",NA,NA,Park,Junhyeok,NA
+,,,1423,"Park, Seongho",NA,NA,Park,Seongho,NA
+,Completed first name to check not a duplicate,,914,"Park, Sulgiye",park|s,NA,Park,Sulgiye,NA
+,,,910,"Parker, S S",parker|s,NA,Parker,S,S
+,,,911,"Parkhurst, Laura",parkhurst|l,NA,Parkhurst,Laura,NA
+,,,912,"Parks, H.",parks|h,NA,Parks,H,NA
+,,,915,"Parnell, J.",parnell|j,NA,Parnell,J,NA
+,,,1363,"Parsa, Mohammad",NA,NA,Parsa,Mohammad,NA
+,,,1388,"Pashin, Jack C.",NA,NA,Pashin,Jack,C
+,,,1380,"Patlolla, Shashank Reddy",NA,NA,Patlolla,Shashank,Reddy
+,,,1506,"Paudyal, Kabi Raj",NA,NA,Paudyal,Kabi,Raj
+,,,916,"Paukert, C.",paukert|c,NA,Paukert,C,NA
+,,,1550,"Paul, A.",NA,NA,Paul,A,NA
+,,,917,"Pearce, M A",pearce|m,NA,Pearce,M,A
+,,,919,"Pecha, M E",pecha|m,NA,Pecha,M,E
+,,,1415,"Pedreira, Olalla Varela",NA,NA,Pedreira,Olalla,Varela
+,,,920,"Peduzzi, Pascal",peduzzi|p,NA,Peduzzi,Pascal,NA
+,,,921,"Penaloza, I.",penaloza|i,NA,Penaloza,I,NA
+,,,922,"Peng, Zhigang",peng|z,NA,Peng,Zhigang,NA
+,,,923,"Pensky, J.",pensky|j,NA,Pensky,J,NA
+,,,924,"Perdikou, S.",perdikou|s,NA,Perdikou,S,NA
+,,,1508,"Perrier, Frederic",NA,NA,Perrier,Frederic,NA
+,,,930,"Peter, J.",peter|j,NA,Peter,J,NA
+,,,925,"Peterman, D.",peterman|d,NA,Peterman,D,NA
+,,,929,"Peters, S E",peters|s,NA,Peters,S,E
+,,,927,"Petersen, Sven",petersen|s,NA,Petersen,Sven,NA
+,,,928,"Peterson, Dean M.",peterson|dm,NA,Peterson,Dean,M
+,,,931,"Pettersson, M.",pettersson|m,NA,Pettersson,M,NA
+,,,932,"Pfaff, K.",pfaff|k,NA,Pfaff,K,NA
+,,,933,"Pfau, J C",pfau|j,NA,Pfau,J,C
+,,,934,"Pfennig, Andreas",pfennig|a,NA,Pfennig,Andreas,NA
+,Nothing to replace it with so added script to filter it out,,935,PhD,phd|,NA,PhD,NA,NA
+,,,937,"Phillips, G.",phillips|g,NA,Phillips,G,NA
+,,,938,"Phillips, Jan-Claire",phillips|j,NA,Phillips,Jan-Claire,NA
+,,,1378,"Pianowski, Laura S.",NA,NA,Pianowski,Laura,S
+,,,1654,"Pietrak, Justyna",NA,NA,Pietrak,Justyna,NA
+,,,940,"Pilote, J.",pilote|j,NA,Pilote,J,NA
+,,,941,"Pineault, David George",pineault|dg,NA,Pineault,David,George
+,,,1468,"Pinter, Zsanett",NA,NA,Pinter,Zsanett,NA
+,,,1700,"Piroskova, Jana",NA,NA,Piroskova,Jana,NA
+,,,1495,"Pishvaie, S.M.R.",NA,NA,Pishvaie,SMR,NA
+,,,942,"Pitcairn, I.",pitcairn|i,NA,Pitcairn,I,NA
+,,,1481,"Planavsky, Noah J.",NA,NA,Planavsky,Noah,J
+,,,1575,"Plouffe, Alain",NA,NA,Plouffe,Alain,NA
+,,,943,"Poelzer, G A",poelzer|g,NA,Poelzer,G,A
+,,,944,"Pokharel, A.",pokharel|a,NA,Pokharel,A,NA
+,,,945,"Polzin, B J",polzin|b,NA,Polzin,B,J
+,,,946,"Pompeani, D P",pompeani|d,NA,Pompeani,D,P
+,,,947,"Ponce, D.",ponce|d,NA,Ponce,D,NA
+,,,948,"Popovs, I.",popovs|i,NA,Popovs,I,NA
+,,,949,"Porritt, R W",porritt|r,NA,Porritt,R,W
+,,,1718,"Pothos, Ioannis",NA,NA,Pothos,Ioannis,NA
+,,,1576,"Potter, Eric",NA,NA,Potter,Eric,NA
+,,,1425,"Pourtois, Geoffrey",NA,NA,Pourtois,Geoffrey,NA
+,,,950,"Powell, R.",powell|r,NA,Powell,R,NA
+,,,951,"Pownceby, M.",pownceby|m,NA,Pownceby,M,NA
+,,,952,"Prabhu, A.",prabhu|a,NA,Prabhu,A,NA
+,,,953,Pradip,pradip|,NA,Pradip,NA,NA
+,,,1485,"Pramanik, Biplob Kumar",NA,NA,Pramanik,Biplob,Kumar
+,,,954,"Pratt, T. L.",pratt|tl,NA,Pratt,T,L
+,,,955,"Precker, C E",precker|c,NA,Precker,C,E
+,,,956,"Preet, S.",preet|s,NA,Preet,S,NA
+,,,1396,"Premasiri, H. M. R.",NA,NA,Premasiri,H,M R
+,,,1743,"Pritchard, Matt",NA,NA,Pritchard,Matt,NA
+,,,958,"Puente, P.",puente|p,NA,Puente,P,NA
+,,,960,"Pusarapu, V.",pusarapu|v,NA,Pusarapu,V,NA
+,,,961,"Qasemipour, E.",qasemipour|e,NA,Qasemipour,E,NA
+,,,962,"Qin, J.",qin|j,NA,Qin,J,NA
+,,,963,"Qin, R.",qin|r,NA,Qin,R,NA
+,,,964,"Qiu, L W",qiu|l,NA,Qiu,L,W
+,,,966,"Quan, Ying",quan|y,NA,Quan,Ying,NA
+,,,967,"Quinn, D P",quinn|d,NA,Quinn,D,P
+,,,968,"Raffae, M.",raffae|m,NA,Raffae,M,NA
+,,,1716,"Raffensperger, Jeff P.",NA,NA,Raffensperger,Jeff,P
+,,,1421,"Ragnarsson, Lars-Ake",NA,NA,Ragnarsson,Lars-Ake,NA
+,,,973,"Ram, R.",ram|r,NA,Ram,R,NA
+,,,969,"Ramon-Duenas, Carolina",ramonduenas|c,NA,Ramon-Duenas,Carolina,NA
+,,,971,"Ramos, E J",ramos|e,NA,Ramos,E,J
+,,,972,"Ramsey, P Q",ramsey|p,NA,Ramsey,P,Q
+,,,974,"Rangarajan, S. S.",rangarajan|ss,NA,Rangarajan,S,S
+,,,975,"Rao, S.",rao|s,NA,Rao,S,NA
+,,,1393,"Ratnayake, N. P.",NA,NA,Ratnayake,N,P
+,,,976,"Rau, Benjamin",rau|b,NA,Rau,Benjamin,NA
+,,,977,"Ravandi, Z K",ravandi|z,NA,Ravandi,Z,K
+,,,978,"Raymond, O.",raymond|o,NA,Raymond,O,NA
+,,,980,"Realff, M.",realff|m,NA,Realff,M,NA
+,,,981,"Reddy, J E",reddy|j,NA,Reddy,J,E
+,,,982,"Reddy, Sreedhar",reddy|s,NA,Reddy,Sreedhar,NA
+,,,983,"Reed, C C",reed|c,NA,Reed,C,C
+,,,984,"Reershemius, T.",reershemius|t,NA,Reershemius,T,NA
+,,,985,"Regan, A.",regan|a,NA,Regan,A,NA
+,,,986,"Regan, Sean P.",regan|sp,NA,Regan,Sean,P
+,,,1475,"Reich, Martin",NA,NA,Reich,Martin,NA
+,,,1529,"Reichenbach, Paola",NA,NA,Reichenbach,Paola,NA
+,,,987,"Reijm, C R",reijm|c,NA,Reijm,C,R
+,,,1480,"Reinhard, Christopher T.",NA,NA,Reinhard,Christopher,T
+,,,988,"Rekabdarkolaee, H M",rekabdarkolaee|h,NA,Rekabdarkolaee,H,M
+,,,989,"Remondino, F.",remondino|f,NA,Remondino,F,NA
+,,,990,"Respess, Zachary M.",respess|zm,NA,Respess,Zachary,M
+1,"This is an accented n and an accented i, no seeming duplicates",,991,"Riaño, Sofía",riano|s,NA,Riaño,Sofía,NA
+,,,992,"Richardson, Carson A.",richardson|ca,NA,Richardson,Carson,A
+,,,993,"Riddell, Jill L.",riddell|jl,NA,Riddell,Jill,L
+,,,1504,"Rigaudier, Thomas",NA,NA,Rigaudier,Thomas,NA
+,,,994,"Rishanty, Arnita",rishanty|a,NA,Rishanty,Arnita,NA
+,,,995,"Roberge, J.",roberge|j,NA,Roberge,J,NA
+,,,999,"Robinson, G.R., Jr",robinson|gj,NA,Robinson,GR,Jr
+,,,1000,"Rodgers, K.",rodgers|k,NA,Rodgers,K,NA
+,,,1001,"Rodrigues, F J L",rodrigues|f,NA,Rodrigues,F,J L
+,,,1003,"Roe, W.",roe|w,NA,Roe,W,NA
+,,,1002,"Roesch, Ariane",roesch|a,NA,Roesch,Ariane,NA
+,,,1004,"Rogosch, J.",rogosch|j,NA,Rogosch,J,NA
+,,,1394,"Rohitha, L. P. S.",NA,NA,Rohitha,L,P S
+,,,1005,"Roland, V.",roland|v,NA,Roland,V,NA
+,,,1502,"Rolfo, Franco",NA,NA,Rolfo,Franco,NA
+,,,1420,"Rolin, Cedric",NA,NA,Rolin,Cedric,NA
+,,,1006,"Rooney, A D",rooney|a,NA,Rooney,A,D
+,,,1452,"Rose, K.",NA,NA,Rose,K,NA
+,,,1007,"Rosenkranz, J.",rosenkranz|j,NA,Rosenkranz,J,NA
+,,,1008,"Rosera, Joshua M.",rosera|jm,NA,Rosera,Joshua,M
+,,,1009,"Roth, R.",roth|r,NA,Roth,R,NA
+,,,1010,"Rouchon, Denis",rouchon|d,NA,Rouchon,Denis,NA
+,,,1011,"Royce, Bethany",royce|b,NA,Royce,Bethany,NA
+,,,1012,"Rozelle, P L",rozelle|p,NA,Rozelle,P,L
+,,,1014,"Rubilar, Rafael A.",rubilar|ra,NA,Rubilar,Rafael,A
+,,,1015,"Ruckhaus, M H",ruckhaus|m,NA,Ruckhaus,M,H
+,,,1016,"Ruleman, C A",ruleman|c,NA,Ruleman,C,A
+,,,1017,"Rumman, R.",rumman|r,NA,Rumman,R,NA
+,,,1676,"Runganga, Desire",NA,NA,Runganga,Desire,NA
+,,,1018,"Runkana, Venkataramana",runkana|v,NA,Runkana,Venkataramana,NA
+,,,1019,"Russoniello, Christopher",russoniello|c,NA,Russoniello,Christopher,NA
+,,,1020,"Ryan, Joseph N.",ryan|jn,NA,Ryan,Joseph,N
+,,,1021,"Ryker, S J",ryker|s,NA,Ryker,S,J
+,,,1022,"Ryter, J.",ryter|j,NA,Ryter,J,NA
+,,,1562,"Rytkonen, Sauli Johannes",NA,NA,Rytkonen,Sauli,Johannes
+,,,1456,"Sabbatino, M.",NA,NA,Sabbatino,M,NA
+,,,1592,"Sabin, Andrew",NA,NA,Sabin,Andrew,NA
+,,,1024,"Sabolsky, E M",sabolsky|e,NA,Sabolsky,E,M
+,,,1656,"Sadowska, Monika",NA,NA,Sadowska,Monika,NA
+,,,1443,"Sadro, Steven",NA,NA,Sadro,Steven,NA
+,,,1025,"Sahu, R.",sahu|r,NA,Sahu,R,NA
+,,,1465,"Sakellaris, Grigorios-Aarne",NA,NA,Sakellaris,Grigorios-Aarne,NA
+,,,1492,"Saleh, Gehad M.",NA,NA,Saleh,Gehad,M
+,,,1664,"Saleh, Muhammad Hairul",NA,NA,Saleh,Muhammad,Hairul
+,,,1538,"Salomao, Marcelo dos santos",NA,NA,Salomao,Marcelo,dos santos
+,,,1532,"Salomon, Eric",NA,NA,Salomon,Eric,NA
+,,,1566,"Sambodo, Maxensius Tri",NA,NA,Sambodo,Maxensius,Tri
+,,,1648,"Sampognaro, Alyssa M.",NA,NA,Sampognaro,Alyssa,M
+,Moved 'San' from 'extra' to last_name,,1326,"San Juan, C. A.",NA,NA,San Juan,C,A
+,,,1413,"Sankaran, Kiroubanand",NA,NA,Sankaran,Kiroubanand,NA
+,,,1528,"Santangelo, Michele",NA,NA,Santangelo,Michele,NA
+,,,1482,"Santosh, M.",NA,NA,Santosh,M,NA
+,,,1577,"Sappin, Anne-Aurelie",NA,NA,Sappin,Anne-Aurelie,NA
+,,,1026,"Sarker, S K",sarker|s,NA,Sarker,S,K
+,,,1027,"Sarma, R. Narayana",sarma|rn,NA,Sarma,R,Narayana
+,,,1028,"Saros, J E",saros|j,NA,Saros,J,E
+,,,1517,"Sasongko, Nugroho Adi",NA,NA,Sasongko,Nugroho,Adi
+,,,1357,"Sato, Kazuo",NA,NA,Sato,Kazuo,NA
+,,,1360,"Savage, Brian",NA,NA,Savage,Brian,NA
+,,,1509,"Saxton, Aaron",NA,NA,Saxton,Aaron,NA
+,,,1029,"Sayahpour, B.",sayahpour|b,NA,Sayahpour,B,NA
+,,,1030,"Scalf, C.",scalf|c,NA,Scalf,C,NA
+,,,1031,"Scarberry, Kaleb",scarberry|k,NA,Scarberry,Kaleb,NA
+,,,1032,"Schaltegger, U.",schaltegger|u,NA,Schaltegger,U,NA
+,,,1034,"Schermerhorn, William",schermerhorn|w,NA,Schermerhorn,William,NA
+,,,1035,"Schiellerup, H.",schiellerup|h,NA,Schiellerup,H,NA
+,,,1489,"Schlafli, Salome",NA,NA,Schlafli,Salome,NA
+,,,1036,"Schmidt, K.",schmidt|k,NA,Schmidt,K,NA
+,,,1037,"Schmitz, M.",schmitz|m,NA,Schmitz,M,NA
+,,,1719,"Schoneich, Antonio G.",NA,NA,Schoneich,Antonio,G
+,,,1038,"Schultz, V O",schultz|v,NA,Schultz,V,O
+,,,1039,"Schulz, E Y",schulz|e,NA,Schulz,E,Y
+,,,1040,"Schulz, K J",schulz|k,NA,Schulz,K,J
+,,,1041,"Schulz, W H",schulz|w,NA,Schulz,W,H
+,,,1488,"Schumacher, Isabel",NA,NA,Schumacher,Isabel,NA
+,,,1042,"Schwalb, A N",schwalb|a,NA,Schwalb,A,N
+,Updated to pull first name and middle name from author_id 1691,,1694,"Schwan, Melissa R.",NA,NA,Schwan,Melissa,R
+,,,1723,"Schwartzentruber, Thomas E.",NA,NA,Schwartzentruber,Thomas,E
+,,,1043,"Schweizer, D.",schweizer|d,NA,Schweizer,D,NA
+,,,1044,"Schwering, P.",schwering|p,NA,Schwering,P,NA
+,,,1045,"Scott, C.",scott|c,NA,Scott,C,NA
+,,,1428,"Scott, Sara",NA,NA,Scott,Sara,NA
+,,996,1046,"Seal, Robert",seal|r,NA,Seal,Robert,NA
+,"Fixed so last, first II",,996,"Seal, Robert R. II",robertrseal|i,II,Seal,Robert,R
+,,,1047,"Seckinger, D C",seckinger|d,NA,Seckinger,D,C
+,,,1048,"Seleznev, N.",seleznev|n,NA,Seleznev,N,NA
+,,,1049,"Selley, Kate",selley|k,NA,Selley,Kate,NA
+,,,1050,"Sener, S E Can",sener|sc,Can,Sener,S,E
+,,,1051,"Serbin, S P",serbin|s,NA,Serbin,S,P
+,,,1675,"Seung-yeol, Lee",NA,NA,Seung-yeol,Lee,NA
+,,,1589,"Sewell, Steven",NA,NA,Sewell,Steven,NA
+,,,1692,"Sexstone, Graham A.",NA,NA,Sexstone,Graham,A
+,,,1052,"Shah, A. K.",shah|ak,NA,Shah,A,K
+,,,1053,"Shah, S Y A",shah|s,NA,Shah,S,Y A
+,,,1498,"Shanmugam, Mohana Sundaram",NA,NA,Shanmugam,Mohana,Sundaram
+,,,1627,Shao Liuguo,NA,NA,Shao,Liuguo,NA
+,,,1054,"Shapiro, A M",shapiro|a,NA,Shapiro,A,M
+,,,1381,"Sharafian, Amir",NA,NA,Sharafian,Amir,NA
+,,,1055,"Sharma, Namrata",sharma|n,NA,Sharma,Namrata,NA
+,,,1056,"Sharpe, J.",sharpe|j,NA,Sharpe,J,NA
+,,1058,1057,Shaughnessy,shaughnessy|,NA,Shaughnessy,NA,NA
+,,,1058,"Shaughnessy, A.",shaughnessy|a,NA,Shaughnessy,A,NA
+,,,1059,"Shbita, Basel",shbita|b,NA,Shbita,Basel,NA
+,,,1064,"She, A.",she|a,NA,She,A,NA
+,,,1060,"Sheikh, T M",sheikh|t,NA,Sheikh,T,M
+,,,1061,"Shell, R.",shell|r,NA,Shell,R,NA
+,,,1062,"Sherrod, Rebecca",sherrod|r,NA,Sherrod,Rebecca,NA
+,,,1063,"Shervais, J W",shervais|j,NA,Shervais,J,W
+,,,1703,"Shi, Xuguo",NA,NA,Shi,Xuguo,NA
+,,,1068,"Shi, Y.",shi|y,NA,Shi,Y,NA
+,,,1069,"Shi, Z.",shi|z,NA,Shi,Z,NA
+,,,1065,"Shin, D.",shin|d,NA,Shin,D,NA
+,,,1636,"Shin, Seungwook",NA,NA,Shin,Seungwook,NA
+,,,1638,"Shin, Youngjae",NA,NA,Shin,Youngjae,NA
+,Fixed out of upper case and removed extra spaces,,1066,"Shirley, Ethana",shirley|ea,NA,Shirley,Ethana,
+,,,1067,"Shirzaditabar, Farzad",shirzaditabar|f,NA,Shirzaditabar,Farzad,NA
+,,,1712,"Shoda, Megan",NA,NA,Shoda,Megan,NA
+,,,1569,"Shojaeddini, Ensieh",NA,NA,Shojaeddini,Ensieh,NA
+,,,1070,"Short, S R",short|s,NA,Short,S,R
+,,,1429,"Shorten, Chilisa M.",NA,NA,Shorten,Chilisa,M
+,,,1729,"Show, Bijay Kumar",NA,NA,Show,Bijay,Kumar
+,,,1431,"Shuman, Bryan N.",NA,NA,Shuman,Bryan,N
+,,,1071,"Sicard, Karri R.",sicard|kr,NA,Sicard,Karri,R
+,,,1619,"Sieg, Carolyn H.",NA,NA,Sieg,Carolyn,H
+,,,1072,"Sievert, N.",sievert|n,NA,Sievert,N,NA
+,,,1537,"Silva, Francisco Da",NA,NA,Silva,Francisco,Da
+1,"This is an accented o, no seeming duplicates",,1076,"Simões, V H P",simes|v,NA,Simões,V,H P
+,,,1074,"Simandl, G J",simandl|g,NA,Simandl,G,J
+,,,1075,"Simandl, L.",simandl|l,NA,Simandl,L,NA
+,,,1077,"Simmonds, J.",simmonds|j,NA,Simmonds,J,NA
+,,,1476,"Simon, Adam C.",NA,NA,Simon,Adam,C
+,,,1555,"Simons, Rachel E",NA,NA,Simons,Rachel,E
+,,,1078,"Simpson, B.",simpson|b,NA,Simpson,B,NA
+,,,1079,"Singer, J W",singer|j,NA,Singer,J,W
+,,,1484,"Singh, Nahar",NA,NA,Singh,Nahar,NA
+,,,1080,"Singh, S.",singh|s,NA,Singh,S,NA
+,,,1081,"Sitterley, Kurban A.",sitterley|ka,NA,Sitterley,Kurban,A
+1,replace special characters with a dash,,1082,"Sizun, Jean-Pierre",sizun|j,NA,Sizun,Jean-Pierre,NA
+,,,1467,"Skoupras, Evaggelos",NA,NA,Skoupras,Evaggelos,NA
+,,,1083,"Slack, J F",slack|j,NA,Slack,J,F
+,,,1084,"Smelror, M.",smelror|m,NA,Smelror,M,NA
+,,,1603,"Smith, Christopher P. A.",NA,NA,Smith,Christopher,P A
+,,,1086,"Smith, D M",smith|d,NA,Smith,D,M
+,,,1735,"Smith, Jared D.",NA,NA,Smith,Jared,D
+,,,1558,"Smith, Ryan",NA,NA,Smith,Ryan,NA
+,,,1087,"Smith, S.",smith|s,NA,Smith,S,NA
+,,,1088,"Smith, T M",smith|t,NA,Smith,T,M
+,,,1667,"Snead, Anthony A.",NA,NA,Snead,Anthony,A
+,,,1090,"Snyder, S D",snyder|s,NA,Snyder,S,D
+,,,1091,"Solano, Federico",solano|f,NA,Solano,Federico,NA
+,,,1714,"Solder, John",NA,NA,Solder,John,NA
+,,,1444,"Sommaruga, Ruben",NA,NA,Sommaruga,Ruben,NA
+,,,1093,"Song, S.",song|s,NA,Song,S,NA
+,,,1094,"Song, W.",song|w,NA,Song,W,NA
+,,,1701,"Song, Yuqi",NA,NA,Song,Yuqi,NA
+,,,1095,"Sonnemann, G.",sonnemann|g,NA,Sonnemann,G,NA
+,,,1715,"Soroka, Alexander M.",NA,NA,Soroka,Alexander,M
+,,,1655,"Sosnowska, Elzbieta",NA,NA,Sosnowska,Elzbieta,NA
+1,"This is an accented e, no seeming duplicates",,1097,"Soulié, J P",souli|j,NA,Soulié,J,P
+,,,1098,"Spandler, C.",spandler|c,NA,Spandler,C,NA
+,,,1099,"Sporleder, B A",sporleder|b,NA,Sporleder,B,A
+,,,1100,"Spotila, J A",spotila|j,NA,Spotila,J,A
+,,,1458,"Sprenger, Matthias",NA,NA,Sprenger,Matthias,NA
+,,,1101,"Stackelberg, P E",stackelberg|p,NA,Stackelberg,P,E
+,,,1102,"Stafford, K T",stafford|k,NA,Stafford,K,T
+,,,1666,"Stahl, Leigha M.",NA,NA,Stahl,Leigha,M
+,,,1103,"Stanfield, C H",stanfield|c,NA,Stanfield,C,H
+,,,1104,"Stearman, Loren W.",stearman|lw,NA,Stearman,Loren,W
+,,,1105,"Stearns, Andrew",stearns|a,NA,Stearns,Andrew,NA
+,,,1106,"Steed, J E",steed|j,NA,Steed,J,E
+,,,1108,"Steen, D A",steen|d,NA,Steen,D,A
+,,,1107,"Steenstra, Philip James",steenstra|pj,NA,Steenstra,Philip,James
+,,,1109,"Stegen, R J",stegen|r,NA,Stegen,R,J
+,,,1486,"Steiner, Benedikt M.",NA,NA,Steiner,Benedikt,M
+,,,1611,"Stephen, Daniel A.",NA,NA,Stephen,Daniel,A
+,,,1110,"Stergiou, C L",stergiou|c,NA,Stergiou,C,L
+,,,1111,"Stern, R J",stern|r,NA,Stern,R,J
+,,,1112,"Steurs, Gert",steurs|g,NA,Steurs,Gert,NA
+,,,1113,Stigall,stigall|,NA,Stigall,NA,NA
+,,,1117,"Stokes, Maya F.",stokes|mf,NA,Stokes,Maya,F
+,,,1116,"Stokes-Draut, Jennifer R.",stokesdraut|jr,NA,Stokes-Draut,Jennifer,R
+,,,1118,"Stone, B D",stone|b,NA,Stone,B,D
+1,"This is an accented o, no seeming duplicates",,1121,"Strømman, A H",strmman|a,NA,Strømman,A,H
+,,,1120,"Strigul, N.",strigul|n,NA,Strigul,N,NA
+,,,1122,"Subasi, Y.",subasi|y,NA,Subasi,Y,NA
+,,,1123,"Sudhakar, A V V",sudhakar|a,NA,Sudhakar,A,V V
+,,,1124,"Suhey, J M",suhey|j,NA,Suhey,J,M
+,,,1125,"Suhrhoff, T J",suhrhoff|t,NA,Suhrhoff,T,J
+,,,1126,"Sui, J.",sui|j,NA,Sui,J,NA
+,,,1464,"Sullivan, Pamela L.",NA,NA,Sullivan,Pamela,L
+,,,1130,"Sun, Z.",sun|z,NA,Sun,Z,NA
+,,,1127,"Sundberg, F A",sundberg|f,NA,Sundberg,F,A
+,,,1128,"Sunddararaj, S P",sunddararaj|s,NA,Sunddararaj,S,P
+,,,1129,"Sunjaya, D.",sunjaya|d,NA,Sunjaya,D,NA
+,,,1131,"Sutton, W B",sutton|w,NA,Sutton,W,B
+,,,1133,"Sweetkind, D S",sweetkind|d,NA,Sweetkind,D,S
+,,,1424,"Swerts, Johan",NA,NA,Swerts,Johan,NA
+,,,1134,"Swezey, C S",swezey|c,NA,Swezey,C,S
+,,,1135,"Szumigala, David J.",szumigala|dj,NA,Szumigala,David,J
+1,"This is an accented o and an accented e, row without accents is updated to replace with this author_id",,1162,"Tőkés, Tibor",tks|t,NA,Tőkés,Tibor,NA
+,,,1136,"Taghvaeian, S.",taghvaeian|s,NA,Taghvaeian,S,NA
+,,,1669,"Takahashi, Yuhei",NA,NA,Takahashi,Yuhei,NA
+,,,1137,"Talan, D.",talan|d,NA,Talan,D,NA
+,,,1138,"Talmadge, Michael S.",talmadge|ms,NA,Talmadge,Michael,S
+,,,1503,"Tamang, Shashi",NA,NA,Tamang,Shashi,NA
+,,,1139,"Tang, G.",tang|g,NA,Tang,G,NA
+,,,1140,"Tang, Y.",tang|y,NA,Tang,Y,NA
+,,,1141,"Tappe, Sebastian",tappe|s,NA,Tappe,Sebastian,NA
+,,,1142,"Tarka, T J",tarka|t,NA,Tarka,T,J
+,,,1143,"Taylor, C.",taylor|c,NA,Taylor,C,NA
+,,,1144,"Taylor, Ryan",taylor|r,NA,Taylor,Ryan,NA
+,,,1145,"Tester, J W",tester|j,NA,Tester,J,W
+,,,1146,"Thakurta, J.",thakurta|j,NA,Thakurta,J,NA
+,,,1147,"Thapa, S.",thapa|s,NA,Thapa,S,NA
+,,,1148,"Theilen-Willige, Prof.Dr.habil. Barbara",theilenwillige|pb,NA,Theilen-Willige,ProfDrhabil,Barbara
+,,,1460,"Thiros, Nicholas",NA,NA,Thiros,Nicholas,NA
+,,,1149,"Thirumaran, Kiran",thirumaran|k,NA,Thirumaran,Kiran,NA
+,,,1150,"Thomas, K.",thomas|k,NA,Thomas,K,NA
+,,,1151,"Thomas, M A",thomas|m,NA,Thomas,M,A
+,"Checked that this isn't a duplicate, no full name easily found, but middle initials differ",,1152,"Thomas, R D",thomas|r,NA,Thomas,R,D
+,"Checked that this isn't a duplicate, no full name easily found, but middle initials differ",,1457,"Thomas, R. B.",NA,NA,Thomas,R,B
+,,,1153,"Thomas, V M",thomas|v,NA,Thomas,V,M
+,,,1154,"Thomazo, Christophe",thomazo|c,NA,Thomazo,Christophe,NA
+,,,1155,"Thompson, R A",thompson|r,NA,Thompson,R,A
+,,,1640,"Thompson, Zachary",NA,NA,Thompson,Zachary,NA
+,,,1156,"Thorne, J.",thorne|j,NA,Thorne,J,NA
+,,,1157,"Tian, Y.",tian|y,NA,Tian,Y,NA
+,,,1158,"Tillery, A C",tillery|a,NA,Tillery,A,C
+,,,1159,"Timbie, J.",timbie|j,NA,Timbie,J,NA
+,,,1160,"Tita, A.",tita|a,NA,Tita,A,NA
+,,,1163,"Todd, Erin",todd|e,NA,Todd,Erin,NA
+,,,1493,"Tohamy, Amira M. El",NA,NA,Tohamy,Amira,M El
+,,,1426,"Tokei, Zsolt",NA,NA,Tokei,Zsolt,NA
+,"Fixed to be last, first",1162,1583,"Tokes, Tibor",NA,NA,Tokes,Tibor,NA
+,,,1165,"Toma, J.",toma|j,NA,Toma,J,NA
+,,,1164,"Tomaszewski, E J",tomaszewski|e,NA,Tomaszewski,E,J
+,,,1166,"Tomkins, A.",tomkins|a,NA,Tomkins,A,NA
+,,,1334,"Torregrosa, A.",NA,NA,Torregrosa,A,NA
+,,,1167,"Torrez, L F A",torrez|l,NA,Torrez,L,F A
+,,,1168,"Toscani, R.",toscani|r,NA,Toscani,R,NA
+,,,1169,"Tracy, B S",tracy|b,NA,Tracy,B,S
+,,,1472,"Trcera, Nicolas",NA,NA,Trcera,Nicolas,NA
+,,,1170,"Trcka, A R",trcka|a,NA,Trcka,A,R
+,,,1171,"Trembanis, A.",trembanis|a,NA,Trembanis,A,NA
+,,,1172,"Tripathi, P.",tripathi|p,NA,Tripathi,P,NA
+,,,1173,"Tripathy, S K",tripathy|s,NA,Tripathy,S,K
+,,,1174,"Troeye, B. Van",troeye|bv,NA,Troeye,B,Van
+,,,1175,"Trott, M L",trott|m,NA,Trott,M,L
+,,,1176,"Truskowski, Conner M.",truskowski|cm,NA,Truskowski,Conner,M
+,,,1177,"Tuladhar, A.",tuladhar|a,NA,Tuladhar,A,NA
+,,,1556,"Turner, Kenzie J.",NA,NA,Turner,Kenzie,J
+,,,1338,"Turner, M. M.",NA,NA,Turner,M,M
+,,,1178,"Twelker, Evan",twelker|e,NA,Twelker,Evan,NA
+,,,1179,"Ubide, T.",ubide|t,NA,Ubide,T,NA
+,,,1180,"Ulianov, A.",ulianov|a,NA,Ulianov,A,NA
+,,,1181,"Umhoefer, P J",umhoefer|p,NA,Umhoefer,P,J
+,,,1184,"Urdaneta, M P",urdaneta|m,NA,Urdaneta,M,P
+,,,1403,"Usai, Lorenzo",NA,NA,Usai,Lorenzo,NA
+,,,1185,"Vaka, D S",vaka|d,NA,Vaka,D,S
+,Updated last name to include 'Gosen' and first name to be B,,1188,"Van Gosen, B.",vangosen|b,NA,Van Gosen,B,NA
+,,,1187,"VanDerWielen, S.",vanderwielen|s,NA,VanDerWielen,S,NA
+,,,1189,"VanSistine, D P",vansistine|d,NA,VanSistine,D,P
+,,,1190,"Vass, C R",vass|c,NA,Vass,C,R
+,,,1192,"Vennin, Emmanuelle",vennin|e,NA,Vennin,Emmanuelle,NA
+,,,1193,"Verplanck, P.",verplanck|p,NA,Verplanck,P,NA
+,,,1195,"Vikre, P.",vikre|p,NA,Vikre,P,NA
+,,,1196,"Villar, J E",villar|j,NA,Villar,J,E
+,,,1445,"Vinebrooke, Rolf",NA,NA,Vinebrooke,Rolf,NA
+,,,1197,"Virgone, Aurélien",virgone|a,NA,Virgone,Aurélien,NA
+,,,1198,"Visger, C J",visger|c,NA,Visger,C,J
+,,,1199,"Visscher, Pieter T.",visscher|pt,NA,Visscher,Pieter,T
+,,,1201,"Voudouris, P.",voudouris|p,NA,Voudouris,P,NA
+,,,1202,"Vrankar, D.",vrankar|d,NA,Vrankar,D,NA
+,,,1203,"Vredenburgh, L M",vredenburgh|l,NA,Vredenburgh,L,M
+,,,1205,"Vu, Binh",vu|b,NA,Vu,Binh,NA
+,,,1204,"Vuollo, J.",vuollo|j,NA,Vuollo,J,NA
+,,,1206,"Waegli, J A",waegli|j,NA,Waegli,J,A
+,,,1207,"Walsh, Gregory J.",walsh|gj,NA,Walsh,Gregory,J
+,,,1208,"Walsh, S.",walsh|s,NA,Walsh,S,NA
+,,,1209,"Walton, Zachary O.",walton|zo,NA,Walton,Zachary,O
+,,,1210,"Wang, B.",wang|b,NA,Wang,B,NA
+,,,1211,"Wang, C.",wang|c,NA,Wang,C,NA
+,,,1212,"Wang, D.",wang|d,NA,Wang,D,NA
+,,,1687,"Wang, Haihua",NA,NA,Wang,Haihua,NA
+,,,1213,"Wang, J.",wang|j,NA,Wang,J,NA
+,,,1214,"Wang, M.",wang|m,NA,Wang,M,NA
+,,,1543,"WANG, Peng",NA,NA,WANG,Peng,NA
+,Completed first name to confirm it wasn't a duplicate,,1215,"Wang, Xin",wang|x,NA,Wang,Xin,NA
+,,,1570,"Wang, Xudong",NA,NA,Wang,Xudong,NA
+,,,1216,"Wang, Y Z",wang|y,NA,Wang,Y,Z
+,,,1217,"Wang, Z.",wang|z,NA,Wang,Z,NA
+,,,1219,"Warrell, K F",warrell|k,NA,Warrell,K,F
+,,,1220,"Waterman, Michell L.",waterman|ml,NA,Waterman,Michell,L
+,,,1222,"Watkins, L.",watkins|l,NA,Watkins,L,NA
+,,,1223,"Watson, E.",watson|e,NA,Watson,E,NA
+,,,1361,"Watts, Kathryn E.",NA,NA,Watts,Kathryn,E
+,,,1410,"Weeber, Max",NA,NA,Weeber,Max,NA
+,,,1224,"Weihermann, J D",weihermann|j,NA,Weihermann,J,D
+,,,1225,"Weil, A B",weil|a,NA,Weil,A,B
+,,,1227,"Weis, P.",weis|p,NA,Weis,P,NA
+,,,1226,"Weisberg, P J",weisberg|p,NA,Weisberg,P,J
+,,,1229,"Wen, Y.",wen|y,NA,Wen,Y,NA
+,,,1228,"Weng, Z.",weng|z,NA,Weng,Z,NA
+,,,1231,"Werner, T T",werner|t,NA,Werner,T,T
+,,,1233,"Westerhof, A B Phil",westerhof|ap,Phil,Westerhof,A,B
+,,,1234,"Whipple, K X",whipple|k,NA,Whipple,K,X
+,,,1237,"White, J T",white|j,NA,White,J,T
+,,1494,1238,"White, M J",white|m,NA,White,M,J
+,"Fixed to be last, first",,1494,"White, Michael J. ",NA,NA,White,Michael,J
+,,,1239,"White, S J",white|s,NA,White,S,J
+,,,1236,"Whitenburg, Luke",whitenburg|l,NA,Whitenburg,Luke,NA
+,,,1329,"Whittaker, Amber T. H.",NA,NA,Whittaker,Amber,T H
+,,,1240,"Whittle, D.",whittle|d,NA,Whittle,D,NA
+,,,1241,"Wildland, Alec D.",wildland|ad,NA,Wildland,Alec,D
+,,,1242,"Wilkerson, G.",wilkerson|g,NA,Wilkerson,G,NA
+,,,1446,"Williams, Jason",NA,NA,Williams,Jason,NA
+,,,1459,"Williams, Kenneth H.",NA,NA,Williams,Kenneth,H
+,,,1244,"Williams, Lance R.",williams|lr,NA,Williams,Lance,R
+,,,1245,"Williams, Marsha B.",williams|mb,NA,Williams,Marsha,B
+,,,1246,"Williams, S R",williams|s,NA,Williams,S,R
+,,,1248,"Wilson, Alana M.",wilson|am,NA,Wilson,Alana,M
+,,,1249,"Wilson, N C",wilson|n,NA,Wilson,N,C
+,,,1250,"Wilson, S.",wilson|s,NA,Wilson,S,NA
+,,,1642,"Windes, William E.",NA,NA,Windes,William,E
+,,,1455,"Wingo, P.",NA,NA,Wingo,P,NA
+,,,1253,"Winikoff, S G",winikoff|s,NA,Winikoff,S,G
+,,,1254,"Winn, C.",winn|c,NA,Winn,C,NA
+,,,1255,"Wintzer, N E",wintzer|n,NA,Wintzer,N,E
+,,,1469,"Wlodek, Adam",NA,NA,Wlodek,Adam,NA
+,,,1256,"Woodruff, L.",woodruff|l,NA,Woodruff,L,NA
+,,,1257,"Woods, R A",woods|r,NA,Woods,R,A
+,,,1258,"Workman, J B",workman|j,NA,Workman,J,B
+,,,1259,"Wortzel, Larry M.",wortzel|lm,NA,Wortzel,Larry,M
+,,,1261,"Wu, Connor Y. H.",wu|cyh,NA,Wu,Connor,Y H
+,,,1262,"Wu, Q.",wu|q,NA,Wu,Q,NA
+,,,1263,"Wu, S.",wu|s,NA,Wu,S,NA
+,,,1264,"Wu, X.",wu|x,NA,Wu,X,NA
+,,,1265,"Wu, Y.",wu|y,NA,Wu,Y,NA
+,,,1266,"Wyatt, W. Chris",wyatt|wc,NA,Wyatt,W,Chris
+,,,1267,"Wypych, Alicja",wypych|a,NA,Wypych,Alicja,NA
+,,,1629,"Xia, Qifan",NA,NA,Xia,Qifan,NA
+,,,1268,"Xie, Zhenan",xie|z,NA,Xie,Zhenan,NA
+,,,1270,"Xu, C.",xu|c,NA,Xu,C,NA
+,,,1595,"Xu, Deyi",NA,NA,Xu,Deyi,NA
+,,,1271,"Xu, Gui-Liang",xu|g,NA,Xu,Gui-Liang,NA
+,,,1272,"Xu, Yuankun",xu|y,NA,Xu,Yuankun,NA
+,,,1706,"Xu, Yueren",NA,NA,Xu,Yueren,NA
+,,,1274,"Yadav, B.",yadav|b,NA,Yadav,B,NA
+,,,1275,"Yadav, S.",yadav|s,NA,Yadav,S,NA
+,,,1586,"Yalcin, Cihan",NA,NA,Yalcin,Cihan,NA
+,,,1277,"Yang, C X",yang|c,NA,Yang,C,X
+,,,1278,"Yang, D C",yang|d,NA,Yang,D,C
+,,,1279,"Yang, H.",yang|h,NA,Yang,H,NA
+,,,1450,"Yang, Weihong",NA,NA,Yang,Weihong,NA
+,,,1280,"Yang, X.",yang|x,NA,Yang,X,NA
+,Completed first name to confirm it wasn't a duplicate,,1281,"Yang, Yanshen",yang|y,NA,Yang,Yanshen,NA
+,Fixed out of upper case,,1542,"Yang, Yuyao",NA,NA,Yang,Yuyao,NA
+,Completed first name to confirm it wasn't a duplicate,,1282,"Yang, Zhan",yang|z,NA,Yang,Zhan,NA
+,,,1650,"Yang, Zhiming",NA,NA,Yang,Zhiming,NA
+,,,1283,"Yao, H.",yao|h,NA,Yao,H,NA
+,,,1284,"Yaragunda, V R",yaragunda|v,NA,Yaragunda,V,R
+,,,1285,"Yates, M G",yates|m,NA,Yates,M,G
+,,,1286,"Yaxley, Gregory M.",yaxley|gm,NA,Yaxley,Gregory,M
+,,,1287,"Yellich, J A",yellich|j,NA,Yellich,J,A
+,,,1288,"Yellishetty, M.",yellishetty|m,NA,Yellishetty,M,NA
+,,,1289,"Yonkee, A.",yonkee|a,NA,Yonkee,A,NA
+,,,1290,"Yonkee, W A",yonkee|w,NA,Yonkee,W,A
+,,,1448,"Younesi, Reza",NA,NA,Younesi,Reza,NA
+,,,1291,"Young, M L",young|m,NA,Young,M,L
+,,,1292,"Young, S B",young|s,NA,Young,S,B
+,,,1296,"Yu, B.",yu|b,NA,Yu,B,NA
+,,,1297,"Yu, G D",yu|g,NA,Yu,G,D
+,,,1298,"Yu, Q.",yu|q,NA,Yu,Q,NA
+,,,1299,"Yu, Y.",yu|y,NA,Yu,Y,NA
+,Completed first name to confirm it wasn't a duplicate,,1300,"Yu, Zhifeng",yu|z,NA,Yu,Zhifeng,NA
+,,,1631,"Yu, Zihao",NA,NA,Yu,Zihao,NA
+,,,1294,"Yuan, L.",yuan|l,NA,Yuan,L,NA
+,,,1295,"Yusuf, S N",yusuf|s,NA,Yusuf,S,N
+,,,1301,"Zafra, J L Torres",zafra|jt,Torres,Zafra,J,L
+,,,1302,"Zellman, K L",zellman|k,NA,Zellman,K,L
+,,,1303,"Zhang, B.",zhang|b,NA,Zhang,B,NA
+,,,1304,"Zhang, D.",zhang|d,NA,Zhang,D,NA
+,,,1305,"Zhang, F.",zhang|f,NA,Zhang,F,NA
+,,,1306,"Zhang, H.",zhang|h,NA,Zhang,H,NA
+,,,1307,"Zhang, J.",zhang|j,NA,Zhang,J,NA
+,,,1308,"Zhang, M.",zhang|m,NA,Zhang,M,NA
+,,,1633,"Zhang, Qiang",NA,NA,Zhang,Qiang,NA
+,,,1365,"Zhang, Shangqing",NA,NA,Zhang,Shangqing,NA
+,Completed first name to confirm it wasn't a duplicate,,1309,"Zhang, Steven E",zhang|s,NA,Zhang,Steven,E
+,Completed first name to confirm it wasn't a duplicate,,1310,"Zhang, Wencai",zhang|w,NA,Zhang,Wencai,NA
+,,,1370,"Zhang, Wenxu",NA,NA,Zhang,Wenxu,NA
+,,,1311,"Zhang, Y.",zhang|y,NA,Zhang,Y,NA
+,,,1312,"Zhang, Z.",zhang|z,NA,Zhang,Z,NA
+,,,1367,"Zhao, Fenghua",NA,NA,Zhao,Fenghua,NA
+,,,1373,"Zhao, Lihua",NA,NA,Zhao,Lihua,NA
+,,,1686,"Zhao, Rui",NA,NA,Zhao,Rui,NA
+,Fixed out of upper case,,1545,"Zhao, Shen",NA,NA,Zhao,Shen,NA
+,,,1705,"Zhou, Chao",NA,NA,Zhou,Chao,NA
+,,,1313,"Zhou, D.",zhou|d,NA,Zhou,D,NA
+,,,1314,"Zhou, L.",zhou|l,NA,Zhou,L,NA
+,,,1315,"Zhou, S.",zhou|s,NA,Zhou,S,NA
+,,,1511,"Zhu, Xiyue",NA,NA,Zhu,Xiyue,NA
+,Completed first name to confirm it wasn't a duplicate,,1317,"Zhu, Yichuan",zhu|y,NA,Zhu,Yichuan,NA
+,,,1596,"Zhu, Yongguang",NA,NA,Zhu,Yongguang,NA
+,,,1318,"Ziemkiewicz, P F",ziemkiewicz|p,NA,Ziemkiewicz,P,F
+,,,1319,"Zientek, M.",zientek|m,NA,Zientek,M,NA
+,,,1320,"Zimmerer, Mathew",zimmerer|m,NA,Zimmerer,Mathew,NA
+,,,1588,"Zimmerman, Jade",NA,NA,Zimmerman,Jade,NA
+,,,1369,"Zou, Yu",NA,NA,Zou,Yu,NA
