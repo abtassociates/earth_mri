@@ -43,7 +43,7 @@ keep_cols <- apply(child_pubs, 2, FUN = function(x){!all(is.na(x))})
 child_pubs <- child_pubs %>% select(names(keep_cols[keep_cols])) %>% unique
 
 rm(keep_cols, parent_and_children_concat)
-write.csv(child_pubs, here("data","tables", "child_pubs_raw.csv"))
+#write.csv(child_pubs, here("data","tables", "child_pubs_raw.csv"))
 
 source(here("scripts","clean_parent_publications.r")) # creates parent_authors.csv, parent_pub_authors.csv, & parent_publications.csv
 # creates authors_parent, parent_pub_authors, & parent_replacements 
