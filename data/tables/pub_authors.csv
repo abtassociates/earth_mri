@@ -1,2555 +1,2434 @@
-"","pub_id","Authors","author_id"
-"1",1,"Horton, J. W. Jr",595
-"2",1,"Stoeser, D.",1115
-"3",1,"San Juan, C. A.",1326
-"4",2,"Mauk, Jeffrey L.",761
-"5",2,"Schmeda, German",1341
-"6",2,"Gnesda, William R",1342
-"7",2,"Knudsen, Liam D",1343
-"8",2,"Karl, Nick A",1344
-"9",3,"Fortier, Steven M.",375
-"10",3,"Hammarstrom, Jane M.",458
-"11",3,"Ryker, S J",1021
-"12",3,"Day, Warren C.",270
-"13",3,"Seal, Robert R. II",996
-"14",4,"Hofstra, A H",505
-"15",4,"Kreiner, Douglas C.",655
-"16",5,"Hofstra, A H",505
-"17",5,"Kreiner, Douglas C.",655
-"18",6,"Fortier, Steven M.",375
-"19",6,"Graham, Garth E.",432
-"20",6,"Hammarstrom, Jane M.",458
-"21",6,"Day, Warren C.",270
-"22",6,"Mauk, Jeffrey L.",761
-"23",6,"Seal, Robert R. II",996
-"24",6,"Nassar, Nedal T.",1327
-"25",7,"Van Gosen, B S",429
-"26",7,"Verplanck, P.",1193
-"27",7,"Emsbo, Poul",328
-"28",8,"Hammarstrom, Jane M.",458
-"29",8,"Dicken, C.",292
-"30",9,"Hammarstrom, Jane M.",458
-"31",9,"Dicken, C.",292
-"32",9,"Woodruff, L.",1256
-"33",9,"Andersen, A.",40
-"34",9,"Brennan, S.",153
-"35",9,"Day, Warren C.",270
-"36",9,"Drenth, Benjamin J.",305
-"37",9,"Foley, N.",372
-"38",9,"Hall, S.",454
-"39",9,"Hofstra, A H",505
-"40",9,"McCafferty, Anne E.",770
-"41",9,"Shah, A. K.",1052
-"42",9,"Ponce, D.",947
-"43",10,"Drenth, Benjamin J.",305
-"44",10,"Grauch, V. J. S.",434
-"45",11,"Naibert, Travis J.",859
-"46",11,"Benowitz, J.",101
-"47",11,"Wypych, Alicja",1267
-"48",11,"Sicard, Karri R.",1071
-"49",11,"Twelker, Evan",1178
-"50",12,"Wypych, Alicja",1267
-"51",12,"Twelker, Evan",1178
-"52",12,"Naibert, Travis J.",859
-"53",12,"Athey, Jennifer E.",58
-"54",12,"Newberry, Rainer J.",864
-"55",12,"Lopez, Julian A.",707
-"56",12,"Regan, Sean P.",986
-"57",12,"Sicard, Karri R.",1071
-"58",12,"Wildland, Alec D.",1241
-"59",12,"Wyatt, W. Chris",1266
-"60",13,"Kelley, K.",614
-"61",14,"Day, Warren C.",270
-"62",15,"Day, Warren C.",270
-"63",16,"Lederer, Graham W.",678
-"64",16,"Jones, James V. III",550
-"65",16,"McPhee, Darcy",780
-"66",16,"Loferski, Patricia",705
-"67",16,"Seal, Robert R. II",996
-"68",16,"Bedrosian, Paul A.",93
-"69",16,"Macqueen, Patricia G.",728
-"70",16,"Grauch, V. J. S.",434
-"71",16,"Solano, Federico",1091
-"72",16,"Rosera, Joshua M.",1008
-"73",16,"Pineault, David George",941
-"74",17,"Lederer, Graham W.",678
-"75",17,"Jones, James V. III",550
-"76",17,"McPhee, Darcy",780
-"77",17,"Mauk, Jeffrey L.",761
-"78",17,"Seal, Robert R. II",996
-"79",17,"Campbell, Kate M.",180
-"80",17,"Hammarstrom, Jane M.",458
-"81",17,"Bedrosian, Paul A.",93
-"82",17,"Macqueen, Patricia G.",728
-"83",17,"Graham, Garth E.",432
-"84",17,"Solano, Federico",1091
-"85",17,"Case, George N. D.",191
-"86",17,"Pineault, David George",941
-"87",18,"Wang, C.",1211
-"88",18,"Slack, J F",1083
-"89",18,"Shah, A. K.",1052
-"90",18,"Yates, M G",1285
-"91",18,"Marvinney, R G",748
-"92",18,"Lentz, David R.",1328
-"93",18,"Whittaker, Amber T. H.",1329
-"94",19,"Twelker, Evan",1178
-"95",19,"Newberry, Rainer J.",864
-"96",19,"Wypych, Alicja",1267
-"97",19,"Naibert, Travis J.",859
-"98",19,"Wildland, Alec D.",1241
-"99",19,"Sicard, Karri R.",1071
-"100",19,"Regan, Sean P.",986
-"101",19,"Athey, Jennifer E.",58
-"102",19,"Wyatt, W. Chris",1266
-"103",19,"Lopez, Julian A.",707
-"104",20,"Kreiner, Douglas C.",655
-"105",20,"Jones, James V. III",550
-"106",21,"Kreiner, Douglas C.",655
-"107",21,"Jones, James V. III",550
-"108",21,"Case, George N. D.",191
-"109",22,"Shah, A. K.",1052
-"110",22,"Morrow, Robert",1330
-"111",22,"Pace, Michael",1331
-"112",22,"Harris, M. Scott",1332
-"113",22,"Doar,William",1333
-"114",23,"Van Gosen, B S",429
-"115",23,"Choate, L M",207
-"116",24,"Fikru, M G",362
-"117",25,"Hammarstrom, Jane M.",458
-"118",25,"Dicken, C.",292
-"119",25,"Day, Warren C.",270
-"120",25,"Hofstra, A H",505
-"121",25,"Drenth, Benjamin J.",305
-"122",25,"Shah, A. K.",1052
-"123",25,"McCafferty, Anne E.",770
-"124",25,"Woodruff, L.",1256
-"125",25,"Foley, N.",372
-"126",25,"Ponce, D.",947
-"127",25,"Frost, T.",383
-"128",25,"Stillings, L.",1114
-"129",26,"Dicken, C.",292
-"130",26,"Hammarstrom, Jane M.",458
-"131",27,"Hammarstrom, Jane M.",458
-"132",27,"Dicken, C.",292
-"133",27,"Woodruff, L.",1256
-"134",27,"Mitchell, Ryan J.",1345
-"135",28,"Hammarstrom, Jane M.",458
-"136",28,"Dicken, C.",292
-"137",28,"Woodruff, L.",1256
-"138",28,"Andersen, A.",40
-"139",28,"Brennan, S.",153
-"140",28,"Day, Warren C.",270
-"141",28,"Drenth, Benjamin J.",305
-"142",28,"Foley, N.",372
-"143",28,"Hall, S.",454
-"144",28,"Hofstra, A H",505
-"145",28,"McCafferty, Anne E.",770
-"146",28,"Shah, A. K.",1052
-"147",28,"Ponce, D.",947
-"148",29,"Newberry, Rainer J.",864
-"149",29,"Twelker, Evan",1178
-"150",30,"Day, Warren C.",270
-"151",31,"McLemore, Virginia T.",776
-"152",31,"Iverson, Nels",558
-"153",31,"Owen, Evan J.",899
-"154",31,"Kelley, Shari",616
-"155",31,"Zimmerer, Mathew",1320
-"156",31,"Kelley, Richard",615
-"157",32,"Shah, A. K.",1052
-"158",32,"Pratt, T. L.",954
-"159",32,"Horton, J. W. Jr",595
-"160",33,"Dahm, K.",259
-"161",33,"Hawbaker, T.",476
-"162",33,"Frus, R.",384
-"163",33,"Monroe, A.",817
-"164",33,"Bradford, J.",144
-"165",33,"Andrews, William M. Jr",596
-"166",33,"Anderson, E.",35
-"167",33,"Dean, D.",275
-"168",33,"Qi, S.",965
-"169",33,"Torregrosa, A.",1334
-"170",34,"Todd, Erin",1163
-"171",34,"Kylander-Clark, A R C",663
-"172",34,"Kreiner, Douglas C.",655
-"173",34,"Jones, James V. III",550
-"174",34,"Holm-Denoma, C S",508
-"175",34,"Wypych, Alicja",1267
-"176",36,"Shah, A. K.",1052
-"177",37,"Magnin, B P",731
-"178",37,"Kuiper, Y D",657
-"179",37,"Anderson, E.",35
-"180",38,"Naibert, Travis J.",859
-"181",38,"Twelker, Evan",1178
-"182",38,"Wypych, Alicja",1267
-"183",38,"Athey, Jennifer E.",58
-"184",38,"Newberry, Rainer J.",864
-"185",38,"Lopez, Julian A.",707
-"186",38,"Regan, Sean P.",986
-"187",38,"Sicard, Karri R.",1071
-"188",38,"Wildland, Alec D.",1241
-"189",38,"Wyatt, W. Chris",1266
-"190",39,"Wypych, Alicja",1267
-"191",39,"Twelker, Evan",1178
-"192",39,"Naibert, Travis J.",859
-"193",39,"Gavel, Michelle M.",402
-"194",39,"Newberry, Rainer J.",864
-"195",39,"Szumigala, David J.",1135
-"196",39,"Wildland, Alec D.",1241
-"197",39,"Barrera, Michael L.",83
-"198",39,"Harvey, David A.",474
-"199",39,"Muller, Izzy P.",845
-"200",39,"Fessenden, Serena N.",359
-"201",39,"Blackwell, Noel J S",122
-"202",40,"Wypych, Alicja",1267
-"203",41,"Glen, Jonathan M G",421
-"204",41,"Earney, Tait E.",315
-"205",42,"Lukoczki, Georgina",713
-"206",42,"Dietsch, Craig",294
-"207",42,"Hickman, John B.",496
-"208",42,"Morris, Emily",829
-"209",42,"Curl, Douglas C.",254
-"210",42,"Pulliam, Carrie",959
-"211",42,"Vicroy, Stephanie",1194
-"212",42,"Andrews, William M. Jr",596
-"213",43,"Twelker, Evan",1178
-"214",43,"O'Sullivan, P B",897
-"215",44,"Van Gosen, B S",429
-"216",45,"Voosen, Paul",1200
-"217",46,"Twelker, Evan",1178
-"218",47,"Twelker, Evan",1178
-"219",48,"Wypych, Alicja",1267
-"220",48,"Gavel, Michelle M.",402
-"221",48,"Naibert, Travis J.",859
-"222",48,"Avirett, Dylan F.",61
-"223",48,"Barrera, Michael L.",83
-"224",48,"Hubbard, Angie K.",527
-"225",48,"Newberry, Rainer J.",864
-"226",48,"Regan, Sean P.",986
-"227",48,"Twelker, Evan",1178
-"228",48,"Wildland, Alec D.",1241
-"229",48,"Wyatt, W. Chris",1266
-"230",49,"Wypych, Alicja",1267
-"231",49,"Gavel, Michelle M.",402
-"232",49,"Naibert, Travis J.",859
-"233",49,"Avirett, Dylan F.",61
-"234",49,"Barrera, Michael L.",83
-"235",49,"Hubbard, Angie K.",527
-"236",49,"Newberry, Rainer J.",864
-"237",49,"Regan, Sean P.",986
-"238",49,"Twelker, Evan",1178
-"239",49,"Wildland, Alec D.",1241
-"240",49,"Wyatt, W. Chris",1266
-"241",50,"Connell, Dylan M",1336
-"242",50,"Blakely, Richard J",1346
-"243",50,"Staisch, Lydia M",1347
-"244",51,"Hammarstrom, Jane M.",458
-"245",51,"Kreiner, Douglas C.",655
-"246",51,"Dicken, C.",292
-"247",51,"Woodruff, L.",1256
-"248",52,"Wilson, T S",1251
-"249",52,"Wiltermuth, M T",1252
-"250",52,"Jenni, K E",570
-"251",52,"Horton, R J",517
-"252",52,"Hunt, R J",537
-"253",52,"Williams, D M",1243
-"254",52,"Nolan, V P",879
-"255",52,"Aumen, N G",60
-"256",52,"Brown, D S",163
-"257",52,"Blasch, K W",125
-"258",52,"Murdoch, P S",848
-"259",53,"Glen, Jonathan M G",421
-"260",53,"Earney, Tait E.",315
-"261",54,"Maune, David F.",1335
-"262",55,"Truskowski, Conner M.",1176
-"263",55,"Heizler, Matthew T.",489
-"264",55,"Naibert, Travis J.",859
-"265",55,"Newberry, Rainer J.",864
-"266",55,"Twelker, Evan",1178
-"267",55,"Szumigala, David J.",1135
-"268",56,"Naibert, Travis J.",859
-"269",56,"Heizler, Matthew T.",489
-"270",56,"Twelker, Evan",1178
-"271",56,"Newberry, Rainer J.",864
-"272",56,"Wypych, Alicja",1267
-"273",57,"Naibert, Travis J.",859
-"274",57,"Heizler, Matthew T.",489
-"275",57,"Newberry, Rainer J.",864
-"276",57,"Twelker, Evan",1178
-"277",57,"Wypych, Alicja",1267
-"278",58,"Anderson, E.",35
-"279",58,"Drenth, Benjamin J.",305
-"280",58,"Grauch, V. J. S.",434
-"281",58,"McCafferty, Anne E.",770
-"282",58,"Shah, A. K.",1052
-"283",58,"Scheirer, Dan",1033
-"284",58,"Johnson, Michaela R",1337
-"285",58,"Ball, L. B.",1348
-"286",58,"Schweitzer, P. N.",1349
-"287",58,"Smith, B. D.",1350
-"288",59,"McCafferty, Anne E.",770
-"289",59,"Connell, Dylan M",1336
-"290",60,"Ponce, D.",947
-"291",60,"Benjamin J Drenth, Ph.D",98
-"292",61,"Langhans, A D Allen",667
-"293",61,"Benjamin J Drenth, Ph.D",98
-"294",61,"Connell, Dylan M",1336
-"295",62,"Amaral, Chelsea Morgan",31
-"296",62,"McCafferty, Anne E.",770
-"297",62,"Connell, Dylan M",1336
-"298",63,"Langhans, A D Allen",667
-"299",63,"Macqueen, Patricia G.",728
-"300",63,"Grauch, V. J. S.",434
-"301",64,"Grauch, V. J. S.",434
-"302",64,"Langhans, A D Allen",667
-"303",64,"Macqueen, Patricia G.",728
-"304",65,"Shah, A. K.",1052
-"305",65,"Connell, Dylan M",1336
-"306",66,"Benjamin J Drenth, Ph.D",98
-"307",66,"Langhans, A D Allen",667
-"308",66,"Connell, Dylan M",1336
-"309",67,"Langhans, A D Allen",667
-"310",67,"Benjamin J Drenth, Ph.D",98
-"311",68,"Langhans, A D Allen",667
-"312",68,"Benjamin J Drenth, Ph.D",98
-"313",68,"Connell, Dylan M",1336
-"314",69,"McCafferty, Anne E.",770
-"315",69,"Johnson, Michaela R",1337
-"316",70,"Shah, A. K.",1052
-"317",70,"Connell, Dylan M",1336
-"318",71,"McCafferty, Anne E.",770
-"319",71,"Amaral, Chelsea Morgan",31
-"320",71,"Connell, Dylan M",1336
-"321",72,"Werdon, Melanie B.",1230
-"322",72,"Twelker, Evan",1178
-"323",72,"Emond, A.",327
-"324",73,"Naibert, Travis J.",859
-"325",73,"Wypych, Alicja",1267
-"326",73,"Newberry, Rainer J.",864
-"327",73,"Twelker, Evan",1178
-"328",73,"Gavel, Michelle M.",402
-"329",73,"Wildland, Alec D.",1241
-"330",73,"Barrera, Michael L.",83
-"331",73,"Avirett, Dylan F.",61
-"332",73,"Muller, Izzy P.",845
-"333",73,"Blackwell, Noel J S",122
-"334",73,"Szumigala, David J.",1135
-"335",74,"Wypych, Alicja",1267
-"336",74,"Naibert, Travis J.",859
-"337",74,"Newberry, Rainer J.",864
-"338",74,"Twelker, Evan",1178
-"339",74,"Gavel, Michelle M.",402
-"340",74,"Wildland, Alec D.",1241
-"341",74,"Szumigala, David J.",1135
-"342",74,"Regan, Sean P.",986
-"343",74,"Avirett, Dylan F.",61
-"344",74,"Barrera, Michael L.",83
-"345",74,"Bernard, Curtis M.",106
-"346",74,"Blackwell, Noel J S",122
-"347",74,"Fessenden, Serena N.",359
-"348",74,"Harvey, David A.",474
-"349",74,"Hubbard, Angie K.",527
-"350",74,"Masterman, Steve S.",753
-"351",74,"Muller, Izzy P.",845
-"352",74,"Wyatt, W. Chris",1266
-"353",74,"Turner, M. M.",1338
-"354",75,"Dicken, C.",292
-"355",75,"Woodruff, L.",1256
-"356",75,"Hammarstrom, Jane M.",458
-"357",76,"Piatak, N.",939
-"358",76,"White, S J",1239
-"359",76,"Hayes, S.",478
-"360",76,"Seal, Robert R. II",996
-"361",77,"Brown, P J",165
-"362",77,"Woodruff, L.",1256
-"363",77,"Cannon, W F",185
-"364",77,"Benjamin J Drenth, Ph.D",98
-"365",78,"Twelker, Evan",1178
-"366",78,"Emond, A.",327
-"367",78,"Newberry, Rainer J.",864
-"368",78,"Naibert, Travis J.",859
-"369",78,"Gavel, Michelle M.",402
-"370",78,"Buchanan, J W",170
-"371",79,"Emond, A.",327
-"372",79,"Fusso, L A",386
-"373",80,"Emond, A.",327
-"374",80,"Twelker, Evan",1178
-"375",81,"Twelker, Evan",1178
-"376",81,"Wypych, Alicja",1267
-"377",81,"Sicard, Karri R.",1071
-"378",81,"Naibert, Travis J.",859
-"379",81,"Athey, Jennifer E.",58
-"380",81,"Wyatt, W. Chris",1266
-"381",81,"Newberry, Rainer J.",864
-"382",81,"Regan, Sean P.",986
-"383",81,"Wildland, Alec D.",1241
-"384",81,"Lopez, Julian A.",707
-"385",82,"Emond, A.",327
-"386",83,"Robinson, Devan M.",998
-"387",83,"Pearson, Anna",918
-"388",83,"Hickman, John B.",496
-"389",83,"Lukoczki, Georgina",713
-"390",83,"Andrews, William M. Jr",596
-"391",84,"Gavel, Michelle M.",402
-"392",84,"Wypych, Alicja",1267
-"393",84,"Naibert, Travis J.",859
-"394",84,"Avirett, Dylan F.",61
-"395",84,"Barrera, Michael L.",83
-"396",84,"Hubbard, Angie K.",527
-"397",84,"Newberry, Rainer J.",864
-"398",84,"Regan, Sean P.",986
-"399",84,"Twelker, Evan",1178
-"400",84,"Wildland, Alec D.",1241
-"401",84,"Wyatt, W. Chris",1266
-"402",85,"Gavel, Michelle M.",402
-"403",85,"Wypych, Alicja",1267
-"404",85,"Naibert, Travis J.",859
-"405",85,"Avirett, Dylan F.",61
-"406",85,"Barrera, Michael L.",83
-"407",85,"Hubbard, Angie K.",527
-"408",85,"Newberry, Rainer J.",864
-"409",85,"Regan, Sean P.",986
-"410",85,"Twelker, Evan",1178
-"411",85,"Wildland, Alec D.",1241
-"412",85,"Wyatt, W. Chris",1266
-"413",86,"Gavel, Michelle M.",402
-"414",86,"Twelker, Evan",1178
-"415",86,"Wypych, Alicja",1267
-"416",86,"Naibert, Travis J.",859
-"417",86,"Newberry, Rainer J.",864
-"418",86,"Szumigala, David J.",1135
-"419",86,"Wildland, Alec D.",1241
-"420",86,"Barrera, Michael L.",83
-"421",86,"Blackwell, Noel J S",122
-"422",86,"Fessenden, Serena N.",359
-"423",86,"Harvey, David A.",474
-"424",86,"Muller, Izzy P.",845
-"425",87,"Moshrefzadeh, J.",833
-"426",87,"Buchanan, J W",170
-"427",87,"Naibert, Travis J.",859
-"428",87,"Twelker, Evan",1178
-"429",87,"Newberry, Rainer J.",864
-"430",87,"Szumigala, David J.",1135
-"431",87,"Barrera, Michael L.",83
-"432",87,"Norwood, L.",880
-"433",87,"Acosta, M.",6
-"434",87,"Regan, Sean P.",986
-"435",88,"Gavel, Michelle M.",402
-"436",88,"Twelker, Evan",1178
-"437",88,"Wypych, Alicja",1267
-"438",88,"Naibert, Travis J.",859
-"439",88,"Newberry, Rainer J.",864
-"440",88,"Szumigala, David J.",1135
-"441",88,"Wildland, Alec D.",1241
-"442",88,"Barrera, Michael L.",83
-"443",88,"Biegel, J.",117
-"444",88,"Harvey, David A.",474
-"445",88,"Ketcham, R.",621
-"446",88,"Muller, Izzy P.",845
-"447",88,"Regan, Sean P.",986
-"448",89,"Van Gosen, B S",429
-"449",89,"Choate, L M",207
-"450",90,"Buchanan, J W",170
-"451",90,"Wypych, Alicja",1267
-"452",90,"Barrera, Michael L.",83
-"453",90,"Biegel, J.",117
-"454",90,"Gavel, Michelle M.",402
-"455",90,"Harvey, David A.",474
-"456",90,"Ketcham, R.",621
-"457",90,"Muller, Izzy P.",845
-"458",90,"Naibert, Travis J.",859
-"459",90,"Newberry, Rainer J.",864
-"460",90,"Regan, Sean P.",986
-"461",90,"Szumigala, David J.",1135
-"462",90,"Twelker, Evan",1178
-"463",90,"Wildland, Alec D.",1241
-"464",94,"Naibert, Travis J.",859
-"465",94,"Wypych, Alicja",1267
-"466",94,"Newberry, Rainer J.",864
-"467",94,"Twelker, Evan",1178
-"468",94,"Gavel, Michelle M.",402
-"469",94,"Wildland, Alec D.",1241
-"470",94,"Barrera, Michael L.",83
-"471",94,"Szumigala, David J.",1135
-"472",94,"Regan, Sean P.",986
-"473",94,"Avirett, Dylan F.",61
-"474",94,"Bernard, Curtis M.",106
-"475",94,"Blackwell, Noel J S",122
-"476",94,"Fessenden, Serena N.",359
-"477",94,"Harvey, David A.",474
-"478",94,"Hubbard, Angie K.",527
-"479",94,"Masterman, Steve S.",753
-"480",94,"Muller, Izzy P.",845
-"481",94,"Wyatt, W. Chris",1266
-"482",94,"Turner, M. M.",1338
-"483",95,"Twelker, Evan",1178
-"484",95,"Newberry, Rainer J.",864
-"485",95,"Wypych, Alicja",1267
-"486",95,"Naibert, Travis J.",859
-"487",95,"Wildland, Alec D.",1241
-"488",95,"Sicard, Karri R.",1071
-"489",95,"Regan, Sean P.",986
-"490",95,"Athey, Jennifer E.",58
-"491",95,"Wyatt, W. Chris",1266
-"492",95,"Lopez, Julian A.",707
-"493",96,"Naibert, Travis J.",859
-"494",96,"Wypych, Alicja",1267
-"495",96,"Newberry, Rainer J.",864
-"496",96,"Twelker, Evan",1178
-"497",96,"Gavel, Michelle M.",402
-"498",96,"Wildland, Alec D.",1241
-"499",96,"Barrera, Michael L.",83
-"500",96,"Szumigala, David J.",1135
-"501",96,"Regan, Sean P.",986
-"502",96,"Avirett, Dylan F.",61
-"503",96,"Bernard, Curtis M.",106
-"504",96,"Blackwell, Noel J S",122
-"505",96,"Fessenden, Serena N.",359
-"506",96,"Harvey, David A.",474
-"507",96,"Hubbard, Angie K.",527
-"508",96,"Masterman, Steve S.",753
-"509",96,"Muller, Izzy P.",845
-"510",96,"Wyatt, W. Chris",1266
-"511",96,"Turner, M. M.",1338
-"512",97,"Fitzpatrick, W. A.",1339
-"513",97,"Stewart, E. D.",1340
-"514",99,"Benjamin J Drenth, Ph.D",98
-"515",99,"Hudak, G J",531
-"516",99,"Souders",1096
-"517",99,"Block, Amy Radakovich",1351
-"518",99,"Saari, Stacy",1352
-"519",100,"Hammarstrom, Jane M.",458
-"520",100,"Dicken, C.",292
-"521",101,"Grauch, V. J. S.",434
-"522",101,"Anderson, E.",35
-"523",101,"Brown, P J",165
-"524",101,"Langhans, A D Allen",667
-"525",102,"Petersen, E I",926
-"526",102,"Fusso, L A",386
-"527",102,"Emond, A.",327
-"528",103,"Emond, A.",327
-"529",104,"Emond, A.",327
-"530",104,"Fusso, L A",386
-"531",105,"Magnin, B P",731
-"532",105,"Anderson, E.",35
-"533",106,"Magnin, B P",731
-"534",106,"Anderson, E.",35
-"535",108,"Twelker, Evan",1178
-"536",108,"Newberry, Rainer J.",864
-"537",108,"Wypych, Alicja",1267
-"538",108,"Sicard, Karri R.",1071
-"539",108,"Naibert, Travis J.",859
-"540",109,"Twelker, Evan",1178
-"541",109,"Newberry, Rainer J.",864
-"542",109,"Naibert, Travis J.",859
-"543",109,"Wypych, Alicja",1267
-"544",109,"Sicard, Karri R.",1071
-"545",109,"Regan, Sean P.",986
-"546",109,"Wildland, Alec D.",1241
-"547",110,"Naibert, Travis J.",859
-"548",110,"Wypych, Alicja",1267
-"549",111,"Moore, Jessica",820
-"550",111,"Hanna, Heather",462
-"551",111,"Royce, Bethany",1011
-"552",111,"Daft, Gary Jr",591
-"553",111,"Andrews, William M. Jr",596
-"554",111,"Eble, Cortland",318
-"555",111,"Brown, S E",166
-"556",112,"Emond, A.",327
-"557",112,"Fusso, L A",386
-"558",113,"Wildland, Alec D.",1241
-"559",113,"Naibert, Travis J.",859
-"560",114,"Emond, A.",327
-"561",115,"Newberry, Rainer J.",864
-"562",116,"Day, Warren C.",270
-"563",116,"Benjamin J Drenth, Ph.D",98
-"564",116,"McCafferty, Anne E.",770
-"565",116,"Shah, A. K.",1052
-"566",116,"Ponce, D.",947
-"567",116,"Jones, James V. III",550
-"568",116,"Grauch, V. J. S.",434
-"569",117,"Magnin, B P",731
-"570",117,"Kuiper, Y D",657
-"571",117,"Anderson, E.",35
-"572",118,"Fusso, L A",386
-"573",118,"Petersen, E I",926
-"574",118,"Emond, A.",327
-"575",119,"Wildland, Alec D.",1241
-"576",119,"Wypych, Alicja",1267
-"577",119,"Regan, Sean P.",986
-"578",119,"Holland, M. S P",507
-"579",120,"Gavel, Michelle M.",402
-"580",120,"Regan, Sean P.",986
-"581",120,"Holland, M. S P",507
-"582",120,"Wildland, Alec D.",1241
-"583",120,"Wypych, Alicja",1267
-"584",120,"Naibert, Travis J.",859
-"585",120,"Twelker, Evan",1178
-"586",121,"Naibert, Travis J.",859
-"587",121,"Wypych, Alicja",1267
-"588",121,"Twelker, Evan",1178
-"589",121,"Gavel, Michelle M.",402
-"590",121,"Wildland, Alec D.",1241
-"591",121,"Newberry, Rainer J.",864
-"592",121,"Szumigala, David J.",1135
-"593",121,"Barrera, Michael L.",83
-"594",121,"Fessenden, Serena N.",359
-"595",122,"Emond, A.",327
-"596",123,"Albinati, A.",19
-"597",123,"Willis, B T M",1247
-"598",124,"Murchek, Jacob T.",846
-"599",124,"Drenth, Benjamin J.",305
-"600",124,"Emond, A.",327
-"601",125,"Bedrosian, Paul A.",93
-"602",125,"Macqueen, Patricia G.",728
-"603",126,"Phelps, Geoffrey",936
-"604",127,"Bird, Philip H.",120
-"605",127,"Drenth, Benjamin J.",305
-"606",128,"Erber, Nathan",331
-"607",128,"DeGraff, James M.",280
-"608",128,"Gannon, Ian M.",391
-"609",128,"Deering, Chad D.",278
-"610",128,"Smirnov, Aleksey V.",1085
-"611",128,"Ahrendt, Gabriel C.",12
-"612",128,"Essig, Espree E.",340
-"613",128,"Lizzadro-McPherson, Daniel",697
-"614",128,"Mroz, Thomas",840
-"615",128,"Asiala, Carol",56
-"616",129,"Kreiner, Douglas C.",655
-"617",129,"Hammarstrom, Jane M.",458
-"618",129,"Day, Warren C.",270
-"619",130,"Azain, Jaime S.",64
-"620",130,"Denham, Andrew T.",284
-"621",131,"Darin, Michael H.",261
-"622",131,"Zuza, Andrew V.",1323
-"623",131,"Dee, Seth",279
-"624",131,"Johnsen, Racheal L.",580
-"625",132,"Magnin, B P",731
-"626",132,"Anderson, E.",35
-"627",133,"Shah, A. K.",1052
-"628",133,"Wang, C.",1211
-"629",134,"Anderson, E.",35
-"630",134,"Magnin, B P",731
-"631",134,"Funk, J A",385
-"632",134,"Attia, S.",59
-"633",134,"Guzman, M A",445
-"634",134,"Eastman, K A",316
-"635",135,"McCafferty, Anne E.",770
-"636",135,"Amaral, Chelsea Morgan",31
-"637",135,"Graham, Garth E.",432
-"638",136,"Meyer, J M",791
-"639",136,"Kokaly, R F",643
-"640",136,"Hoefen, T M",503
-"641",136,"Cox, E M",243
-"642",136,"Swayze, G A",1132
-"643",137,"Day, Warren C.",270
-"644",137,"Grauch, V. J. S.",434
-"645",138,"Murchek, Jacob T.",846
-"646",138,"Benjamin J Drenth, Ph.D",98
-"647",138,"Emond, A.",327
-"648",140,"Rangarajan, S. S.",974
-"649",140,"Sunddararaj, S P",1128
-"650",140,"Sudhakar, A V V",1123
-"651",141,"Yaxley, Gregory M.",1286
-"652",141,"Anenburg, Michael",44
-"653",141,"Tappe, Sebastian",1141
-"654",141,"Decree, Sophie",277
-"655",141,"Guzmics, Tibor",446
-"656",142,"Marscheider-Weidemann, Frank",739
-"657",142,"Espinoza, Luis A. Tercero",338
-"658",142,"Angerer, Gerhard",45
-"659",143,"McMahon, P B",777
-"660",143,"Belitz, K.",95
-"661",143,"Reddy, J E",981
-"662",144,"Dou, Shiquan",1594
-"663",144,"Xu, Deyi",1595
-"664",144,"Zhu, Yongguang",1596
-"665",144,"Keenan, Rodney",1597
-"666",145,"Peters, S E",929
-"667",145,"Husson, J M",542
-"668",147,"Preet, S.",956
-"669",147,"Smith, S.",1087
-"670",148,"Brantley, S L",150
-"671",148,"Shaughnessy, A.",1058
-"672",148,"Lebedeva, M I",677
-"673",149,"Vass, C R",1190
-"674",149,"Noble, A.",878
-"675",149,"Ziemkiewicz, P F",1318
-"676",151,"Nygaard, A.",885
-"677",153,"Sener, S E Can",1050
-"678",153,"Thomas, V M",1153
-"679",153,"Hogan, D E",506
-"680",155,"Zhang, J.",1307
-"681",155,"Liang, C.",683
-"682",155,"Dunn, J B",311
-"683",159,"Lawley, C J M",674
-"684",159,"McCafferty, Anne E.",770
-"685",159,"Graham, Garth E.",432
-"686",159,"Huston, D L",543
-"687",160,"Anderson, M G",37
-"688",160,"Clark, M.",218
-"689",160,"Olivero, A P",890
-"690",160,"Barnett, A R",80
-"691",161,"Gnann, S J",422
-"692",161,"McMillan, H K",778
-"693",161,"Woods, R A",1257
-"694",162,"Yuan, L.",1294
-"695",162,"Liu, Q.",693
-"696",162,"Mathews, J P",755
-"697",162,"Zhang, H.",1306
-"698",162,"Wu, Y.",1265
-"699",163,"Kamoske, A G",603
-"700",163,"Dahlin, K M",258
-"701",163,"Serbin, S P",1051
-"702",164,"Fortier, Steven M.",375
-"703",164,"Hammarstrom, Jane M.",458
-"704",164,"Ryker, S J",1021
-"705",165,"Peduzzi, Pascal",920
-"706",165,"Lynggaard, Josefine Reimer",722
-"707",165,"Chuah, Stephanie",213
-"708",166,"Kelbert, A.",613
-"709",166,"Bedrosian, Paul A.",93
-"710",167,"Pradip",953
-"711",167,"Gautham, B. P.",401
-"712",167,"Reddy, Sreedhar",982
-"713",167,"Runkana, Venkataramana",1018
-"714",168,"Hinze, William J.",1598
-"715",168,"Chandler, Val W.",1599
-"716",169,"Moidu, H.",812
-"717",169,"Obedzinski, M.",886
-"718",169,"Carlson, S M",187
-"719",170,"Jia, Y.",574
-"720",170,"Liu, Y.",695
-"721",171,"Milinovic, J.",795
-"722",171,"Rodrigues, F J L",1001
-"723",171,"Barriga, F J A S",84
-"724",171,"Murton, B J",851
-"725",172,"Hine, A.",498
-"726",172,"Gibson, C.",416
-"727",172,"Mayes, R.",764
-"728",174,"Macdonald, F A",724
-"729",174,"Yonkee, W A",1290
-"730",174,"Flowers, R M",371
-"731",177,"Hofstra, A H",505
-"732",177,"Lisitsin, V.",690
-"733",177,"Corriveau, L.",238
-"734",177,"Paradis, S.",909
-"735",177,"Peter, J.",930
-"736",177,"Lauzière, K.",673
-"737",177,"Lawley, C J M",674
-"738",177,"Gadd, M G",388
-"739",177,"Pilote, J.",940
-"740",177,"Honsberger, I.",512
-"741",177,"Bastrakov, E.",87
-"742",177,"Champion, D.",192
-"743",177,"Czarnota, K.",257
-"744",177,"Doublier, M.",301
-"745",177,"Huston, D L",543
-"746",177,"Raymond, O.",978
-"747",177,"VanDerWielen, S.",1187
-"748",177,"Emsbo, Poul",328
-"749",177,"Granitto, M.",433
-"750",177,"Kreiner, Douglas C.",655
-"751",178,"Stackelberg, P E",1101
-"752",178,"Belitz, K.",95
-"753",178,"Brown, C J",162
-"754",178,"Erickson, M L",333
-"755",182,"Gootman, K S",428
-"756",182,"Kellner, E.",617
-"757",182,"Hubbart, J A",528
-"758",183,"Krall, L.",654
-"759",183,"McCartin, T.",772
-"760",183,"Macfarlane, A.",725
-"761",184,"Harrison, H N",469
-"762",184,"Hammond, J C",459
-"763",184,"Kampf, S.",605
-"764",185,"Parnell, J.",915
-"765",185,"Boyce, A J",142
-"766",185,"Brolly, Connor",1600
-"767",186,"Xu, Yuankun",1272
-"768",186,"Schulz, W H",1041
-"769",186,"Lu, Z.",720
-"770",187,"Stokes, Maya F.",1117
-"771",187,"Kim, D.",628
-"772",187,"Gallen, S F",390
-"773",187,"Benavides, E.",97
-"774",187,"Keck, B P",612
-"775",188,"Beckwith",90
-"776",188,"Byrne, Robert H.",1601
-"777",188,"Hallock, Pamela",1602
-"778",190,"Bouton, Anthony",136
-"779",190,"Vennin, Emmanuelle",1192
-"780",190,"Amiotte-Suchet, Philippe",33
-"781",190,"Thomazo, Christophe",1154
-"782",190,"Sizun, Jean-Pierre",1082
-"783",190,"Virgone, Aurélien",1197
-"784",190,"Gaucher, Eric C.",400
-"785",190,"Visscher, Pieter T.",1199
-"786",191,"Van Gosen, B S",429
-"787",191,"Verplanck, P.",1193
-"788",191,"Emsbo, Poul",328
-"789",194,"McCafferty, Anne E.",770
-"790",194,"Phillips, Jan-Claire",938
-"791",194,"Hofstra, A H",505
-"792",194,"Day, Warren C.",270
-"793",195,"Tracy, B S",1169
-"794",196,"Shirzaditabar, Farzad",1067
-"795",196,"Heck, Richard J.",482
-"796",197,"Weil, A B",1225
-"797",197,"Yonkee, A.",1289
-"798",198,"Collar, Natalie M.",227
-"799",199,"Clune, J W",222
-"800",199,"Crawford, J K",249
-"801",199,"Chappell, W T",194
-"802",200,"Stokes, Maya F.",1117
-"803",200,"Larsen, I J",669
-"804",200,"Goldberg, S L",424
-"805",201,"Carter, David R.",189
-"806",201,"Allen, H. Lee",25
-"807",201,"Fox, Thomas R.",379
-"808",201,"Albaugh, Timothy J.",18
-"809",201,"Rubilar, Rafael A.",1014
-"810",201,"Campoe, Otávio C.",181
-"811",201,"Cook, Rachel L.",231
-"812",202,"Belitz, K.",95
-"813",202,"Watson, E.",1223
-"814",202,"Johnson, T D",583
-"815",202,"Sharpe, J.",1056
-"816",203,"Rodgers, K.",1000
-"817",203,"Roland, V.",1005
-"818",203,"Hoos, A.",514
-"819",203,"Crowley-Ornelas, E.",251
-"820",206,"Bailey, R T",70
-"821",206,"Arnold, J G",52
-"822",207,"Vennin, Emmanuelle",1192
-"823",207,"Smith, Christopher P. A.",1603
-"824",207,"Laville, Thomas",1604
-"825",207,"Fara, Emmanuel",1605
-"826",207,"Escarguel, Gilles",1606
-"827",207,"Olivier, Nicolas",1607
-"828",207,"Goudemand, Nicolas",1608
-"829",207,"Bylund, Kevin G.",1609
-"830",207,"Jenks, James F.",1610
-"831",207,"Stephen, Daniel A.",1611
-"832",207,"Hautmann, Michael",1612
-"833",207,"Charbonnier, Sylvain",1613
-"834",207,"Krumenacker, L. J.",1614
-"835",207,"Brayard, Arnaud",1615
-"836",208,"Grover, Henry",440
-"837",208,"Bowker, Matthew A.",1616
-"838",208,"Fule, Peter Z.",1617
-"839",208,"Doherty, Kyle D.",1618
-"840",208,"Sieg, Carolyn H.",1619
-"841",208,"Antoninka, Anita J.",1620
-"842",210,"Ku, A Y",662
-"843",210,"Alonso, E.",30
-"844",210,"Eggert, R.",320
-"845",210,"Graedel, T.",430
-"846",210,"Habib, K.",449
-"847",210,"Hool, A.",513
-"848",211,"Simandl, L.",1075
-"849",211,"Simandl, G J",1074
-"850",211,"Paradis, S.",909
-"851",212,"Rosera, Joshua M.",1008
-"852",212,"Gaynor, Sean P.",404
-"853",213,"Scott, C.",1045
-"854",213,"Kolker, A.",644
-"855",214,"Stergiou, C L",1110
-"856",214,"Melfos, V.",784
-"857",214,"Voudouris, P.",1201
-"858",214,"Papadopoulou, L.",906
-"859",215,"Lederer, Graham W.",678
-"860",215,"Solano, Federico",1091
-"861",215,"Coyan, J A",246
-"862",215,"Denton, K M",286
-"863",216,"Reed, C C",983
-"864",216,"Berhe, A A",105
-"865",216,"Moreland, K C",822
-"866",217,"Kintner, J A",633
-"867",217,"Cleveland, K. Michael",220
-"868",221,"Parker, S S",910
-"869",221,"Clifford, M J",221
-"870",221,"Cohen, B S",224
-"871",223,"Knierim, K J",639
-"872",223,"Blondes, M S",128
-"873",223,"Masterson, A.",754
-"874",223,"Freeman, P.",381
-"875",225,"Bajnai, D.",72
-"876",225,"Coplen, T B",233
-"877",225,"Methner, K.",790
-"878",229,"Hauchecorne, Pauline",475
-"879",229,"Gity, Farzan",420
-"880",229,"Martin, Mickael",746
-"881",229,"Okuno, Hanako",889
-"882",229,"Bhattacharjee, Shubhadeep",114
-"883",229,"Moeyaert, Jérémy",808
-"884",229,"Rouchon, Denis",1010
-"885",229,"Hyot, Bérangère",544
-"886",229,"Hurley, Paul K.",538
-"887",229,"Baron, Thierry",82
-"888",231,"Rooney, A D",1006
-"889",231,"Hnatyshin, D.",501
-"890",231,"Toma, J.",1165
-"891",232,"Geyin, M.",410
-"892",232,"Maurer, B W",763
-"893",233,"McLaughlin, P I",774
-"894",233,"Stigall",1113
-"895",234,"Zhang, Steven E",1309
-"896",234,"Lawley, C J M",674
-"897",234,"Bourdeau, J E",135
-"898",234,"Nwaila, G T",883
-"899",234,"Ghorbani, Y.",413
-"900",235,"Johnson, K.",582
-"901",235,"Harpold, A.",468
-"902",235,"Carroll, R W H",188
-"903",237,"Rosera, Joshua M.",1008
-"904",237,"Gaynor, Sean P.",404
-"905",237,"Coleman, Drew S.",225
-"906",237,"Frazer, Ryan E.",1621
-"907",237,"Mills, Ryan D.",1622
-"908",237,"Jacob, Kristin",1623
-"909",237,"Farmer, G. Lang",1624
-"910",239,"Jones, James V. III",550
-"911",239,"Todd, Erin",1163
-"912",239,"Box, S E",141
-"913",239,"Haeussler, P J",450
-"914",242,"Nwaila, G T",883
-"915",242,"Bourdeau, J E",135
-"916",242,"Zhang, Steven E",1309
-"917",242,"Chipangamate, N.",206
-"918",243,"Ge, Jianping",1625
-"919",243,"Liu, Jiaqi",1626
-"920",245,"Gadd, M G",388
-"921",245,"Lawley, C J M",674
-"922",245,"Corriveau, L.",238
-"923",245,"Houlé, M.",520
-"924",246,"Park, Jehee",913
-"925",246,"Han, Jinhyup",464
-"926",246,"Gim, Jihyeon",418
-"927",246,"Garcia, Juan",394
-"928",246,"Iddir, Hakim",545
-"929",246,"Ahmed, Shabbir",11
-"930",246,"Xu, Gui-Liang",1271
-"931",246,"Amine, Khalil",32
-"932",246,"Johnson, Christopher",581
-"933",246,"Jung, Youngjae",597
-"934",246,"Kim, Youngsik",631
-"935",246,"Bak, Seong-Min",74
-"936",246,"Lee, Eungje",680
-"937",247,"Meter, K J Van",789
-"938",247,"Schultz, V O",1038
-"939",248,"Morrison, S M",827
-"940",248,"Prabhu, A.",952
-"941",248,"Eleish, A.",322
-"942",248,"Hazen, R M",479
-"943",249,"Cushway, K C",256
-"944",249,"Schwalb, A N",1042
-"945",250,"Eurich, A.",343
-"946",250,"Kampf, S.",605
-"947",250,"Hammond, J C",459
-"948",252,"Kelley, K.",614
-"949",252,"Graham, Garth E.",432
-"950",252,"Pfaff, K.",932
-"951",252,"Lowers, H A",709
-"952",254,"Britt, A F",158
-"953",254,"Czarnota, K.",257
-"954",255,"Hale, T N",453
-"955",255,"Ali, S H",24
-"956",258,"Boyd, O S",143
-"957",258,"Churchwell, D.",214
-"958",258,"Moschetti, M P",832
-"959",259,"Davey, S C",265
-"960",259,"Bleeker, W.",126
-"961",259,"Kamo, S L",604
-"962",259,"Ernst, R E",335
-"963",260,"Andersen, A.",40
-"964",260,"Lai, J.",664
-"965",260,"Marshak, S.",740
-"966",265,"Shao Liuguo",1627
-"967",265,"Lan, Tingting",1628
-"968",266,"Lederer, Graham W.",678
-"969",266,"Jones, James V. III",550
-"970",266,"McPhee, Darcy",780
-"971",266,"Loferski, Patricia",705
-"972",266,"Seal, Robert R. II",996
-"973",266,"Bedrosian, Paul A.",93
-"974",266,"Macqueen, Patricia G.",728
-"975",266,"Grauch, V. J. S.",434
-"976",266,"Solano, Federico",1091
-"977",266,"Rosera, Joshua M.",1008
-"978",266,"Pineault, David George",941
-"979",267,"Hakim, A Y A",451
-"980",267,"Sunjaya, D.",1129
-"981",267,"Hede, A N H",484
-"982",268,"Davies, R S",268
-"983",268,"Trott, M L",1175
-"984",268,"Georgi, J.",407
-"985",268,"Farrar, A.",350
-"986",271,"Wilson, S.",1250
-"987",271,"Bhaskar, A S",113
-"988",271,"Choat, B.",208
-"989",271,"Kampf, S.",605
-"990",272,"Boyd, O S",143
-"991",273,"Lupulescu, M V",717
-"992",273,"Chiarenzelli, J R",203
-"993",273,"Pecha, M E",919
-"994",273,"Singer, J W",1079
-"995",275,"Natkaniec-Nowak, L.",861
-"996",278,"Campos, D S De",182
-"997",278,"Monteiro, H S",818
-"998",279,"Wang, C.",1211
-"999",279,"Slack, J F",1083
-"1000",279,"Shah, A. K.",1052
-"1001",279,"Yates, M G",1285
-"1002",280,"Schulz, E Y",1039
-"1003",280,"Morrison, R R",826
-"1004",280,"Bailey, R T",70
-"1005",281,"Beyene, M T",110
-"1006",281,"Leibowitz, S G",681
-"1007",282,"Shaughnessy, A.",1058
-"1008",282,"Brantley, S L",150
-"1009",283,"Elicki, Olaf",323
-"1010",283,"Meischner, Tim",782
-"1011",283,"Gürsu, Semih",443
-"1012",283,"Ghienne, Jean-François",412
-"1013",283,"Masri, Ahmad",749
-"1014",283,"Moumani, Khaled Ali",834
-"1015",283,"Demircan, Huriye",282
-"1016",284,"Mathew, J J",756
-"1017",284,"Zhang, Y.",1311
-"1018",284,"Flores, P.",370
-"1019",287,"An, Q.",48
-"1020",287,"Xia, Qifan",1629
-"1021",287,"Du, Debin",1630
-"1022",287,"Yu, Zihao",1631
-"1023",287,"Li, Xiya",1632
-"1024",287,"Zhang, Qiang",1633
-"1025",293,"Smelror, M.",1084
-"1026",293,"Hanghøj, K.",461
-"1027",293,"Schiellerup, H.",1035
-"1028",294,"Holland, M. S P",507
-"1029",294,"Mohr, M.",811
-"1030",294,"Schmitz, M.",1037
-"1031",294,"Madronich, L.",730
-"1032",297,"Allison, S.",26
-"1033",297,"Martinez, D.",743
-"1034",298,"Fame, M L",349
-"1035",298,"Chilton, K D",205
-"1036",298,"Spotila, J A",1100
-"1037",299,"Korus, J T",647
-"1038",299,"Joeckel, R M",579
-"1039",302,"Pandey, R.",902
-"1040",302,"Krmíček, L.",656
-"1041",302,"Müller, D.",805
-"1042",302,"Pandey, A.",901
-"1043",305,"Mudd, G M",842
-"1044",305,"Werner, T T",1231
-"1045",305,"Weng, Z.",1228
-"1046",305,"Thorne, J.",1156
-"1047",306,"Milinovic, J.",795
-"1048",306,"Rodrigues, F J L",1001
-"1049",306,"Barriga, F J A S",84
-"1050",306,"Murton, B J",851
-"1051",308,"Lutz, B M",718
-"1052",308,"Hudson, M R",533
-"1053",308,"Smith, T M",1088
-"1054",308,"Dechesne, M.",276
-"1055",309,"Quinn, D P",967
-"1056",309,"Idzikowski, C R",546
-"1057",312,"Shin, D.",1065
-"1058",312,"Park, Junhyeok",1634
-"1059",312,"Park, Junhyeok",1634
-"1060",312,"Cho, Seong-Jun",1635
-"1061",312,"Shin, Seungwook",1636
-"1062",312,"Kim, Rina",1637
-"1063",312,"Shin, Youngjae",1638
-"1064",312,"Park, Junhyeok",1634
-"1065",312,"Park, Junhyeok",1634
-"1066",313,"Yuan, L.",1294
-"1067",313,"Liu, Q.",693
-"1068",313,"Li, Kuo",698
-"1069",313,"Quan, Ying",966
-"1070",314,"Alenazey, F.",21
-"1071",314,"Batchu, Rakesh",1639
-"1072",314,"Thompson, Zachary",1640
-"1073",314,"Fang, Zongtang",1641
-"1074",314,"Windes, William E.",1642
-"1075",314,"Dufek, Eric J.",1643
-"1076",314,"Fushimi, Rebecca R.",1644
-"1077",317,"Hickin, A S",495
-"1078",317,"Ootes, L.",894
-"1079",317,"Orovan, E A",895
-"1080",317,"Brzozowski, M J",168
-"1081",318,"Whittle, D.",1240
-"1082",318,"Yellishetty, M.",1288
-"1083",318,"Walsh, S.",1208
-"1084",318,"Mudd, D.",841
-"1085",320,"Shah, A. K.",1052
-"1086",320,"Pratt, T. L.",954
-"1087",320,"Horton, J W Jr",594
-"1088",322,"McLemore, Virginia T.",776
-"1089",322,"Iverson, Nels",558
-"1090",322,"Owen, Evan J.",899
-"1091",323,"May, P.",766
-"1092",323,"Rekabdarkolaee, H M",988
-"1093",324,"Briggs, M A",156
-"1094",324,"Newman, C.",865
-"1095",324,"Benton, J R",103
-"1096",325,"Vaka, D S",1185
-"1097",325,"Yaragunda, V R",1284
-"1098",325,"Perdikou, S.",924
-"1099",326,"Rosera, Joshua M.",1008
-"1100",326,"Gaynor, Sean P.",404
-"1101",326,"Ulianov, A.",1180
-"1102",326,"Schaltegger, U.",1032
-"1103",327,"Kovach-Hammons, A M",649
-"1104",327,"Marshall, J M",741
-"1105",328,"Respess, Zachary M.",990
-"1106",328,"Duncan, Jonathan M.",310
-"1107",329,"Dong, D T",297
-"1108",329,"Qiu, L W",964
-"1109",329,"Ma, P J",767
-"1110",329,"Yu, G D",1297
-"1111",329,"Wang, Y Z",1216
-"1112",330,"Holsopple, A R",509
-"1113",331,"Trcka, A R",1170
-"1114",333,"Stegen, R J",1109
-"1115",333,"Barton, M D",85
-"1116",333,"Waegli, J A",1206
-"1117",334,"Moye, C D",837
-"1118",335,"Creason, C G",250
-"1119",335,"Montross, S N",819
-"1120",335,"Justman, D M",598
-"1121",336,"Gaynor, Sean P.",404
-"1122",336,"Rosera, Joshua M.",1008
-"1123",336,"Coleman, Drew S.",225
-"1124",337,"Ling, X.",686
-"1125",337,"Li, Q.",701
-"1126",337,"Feng, L.",355
-"1127",337,"Zhang, D.",1304
-"1128",337,"Liu, Y.",695
-"1129",337,"Tang, G.",1139
-"1130",337,"Jones, James V. III",550
-"1131",337,"Wu, S.",1263
-"1132",338,"DeAngelo, J.",274
-"1133",338,"Shervais, J W",1063
-"1134",338,"Glen, Jonathan M G",421
-"1135",338,"Nielson, D.",872
-"1136",338,"Garg, S.",398
-"1137",339,"Murphy, S F",849
-"1138",339,"Blake, Johanna M.",578
-"1139",339,"Ebel, B A",317
-"1140",341,"Erdey, László",332
-"1141",341,"Fenyves, Veronika",356
-"1142",341,"Márkus, Ádám",838
-"1143",341,"Tőkés, Tibor",1162
-"1144",342,"Meszaros, Nicholas F.",788
-"1145",342,"Zimmerer, Mathew",1320
-"1146",342,"Gardner, James E.",395
-"1147",343,"Ramsey, P Q",972
-"1148",343,"Dattilo, J.",263
-"1149",343,"DeVries, D R",288
-"1150",344,"Meszaros, Nicholas F.",788
-"1151",344,"Gardner, James E.",395
-"1152",344,"Zimmerer, Mathew",1320
-"1153",345,"Peterson, Dean M.",928
-"1154",345,"Kampf, S.",605
-"1155",346,"Watkins, L.",1222
-"1156",347,"Ramsey, P Q",972
-"1157",348,"Graham, Matthew R.",1645
-"1158",348,"Garcia, Erika L.",1646
-"1159",348,"Hendrixson, Brent E.",1647
-"1160",348,"Sampognaro, Alyssa M.",1648
-"1161",348,"Cushing, Paula E.",1649
-"1162",349,"Driscoll, K P",307
-"1163",349,"Smith, D M",1086
-"1164",355,"Chen, Y L",200
-"1165",355,"Chiang, W P",202
-"1166",355,"Hsieh, P Y",524
-"1167",356,"MacRae, C M",729
-"1168",356,"Pearce, M A",917
-"1169",356,"Wilson, N C",1249
-"1170",357,"Konuk, Adnan",646
-"1171",357,"Gürsoy, Yaşar Hakan",442
-"1172",357,"Ak, Hakan",15
-"1173",360,"Kreiner, Douglas C.",655
-"1174",360,"Holm-Denoma, C S",508
-"1175",361,"Corriveau, L.",238
-"1176",361,"Jean-François, M.",566
-"1177",362,"White, S J",1239
-"1178",362,"Kane, T J",606
-"1179",362,"Campbell, Kate M.",180
-"1180",363,"Brown, Jessica",164
-"1181",363,"Driscoll, J.",306
-"1182",363,"Miller, Mathew",798
-"1183",365,"Finn, C A",363
-"1184",365,"Zientek, M.",1319
-"1185",365,"Bloss, B R",129
-"1186",365,"Parks, H.",912
-"1187",367,"Yang, Yanshen",1281
-"1188",367,"Pan, X.",904
-"1189",367,"Yang, Zhiming",1650
-"1190",367,"Li, Xin",1651
-"1191",367,"Hou, Zengqian",1652
-"1192",368,"Kinska, Katarzyna",1653
-"1193",368,"Pietrak, Justyna",1654
-"1194",368,"Sosnowska, Elzbieta",1655
-"1195",368,"Sadowska, Monika",1656
-"1196",368,"Krasnodebska-Ostrega, Beata",1657
-"1197",369,"Corchado-Albelo, J L",236
-"1198",369,"Locmelis, M.",704
-"1199",370,"Hurtig, Nicole C.",540
-"1200",370,"Gysi, Alexander P.",448
-"1201",370,"Monecke, Thomas",816
-"1202",370,"Petersen, Sven",927
-"1203",370,"Hannington, Mark D.",463
-"1204",372,"Jacobs, J E",559
-"1205",372,"Stanfield, C H",1103
-"1206",372,"Miller, Q R S",799
-"1207",375,"Magnin, B P",731
-"1208",375,"Kuiper, Y D",657
-"1209",375,"Anderson, E.",35
-"1210",376,"Wildland, Alec D.",1241
-"1211",377,"Heptinstall, E A",491
-"1212",377,"Parnell, J.",915
-"1213",377,"Boyce, A J",142
-"1214",378,"Smelror, M.",1084
-"1215",378,"Hanghøj, K.",461
-"1216",378,"Schiellerup, H.",1035
-"1217",380,"Hale, K E",452
-"1218",380,"Musselman, K N",854
-"1219",380,"Bjarke, N R",121
-"1220",381,"Ferguson, Christina L.",223
-"1221",381,"Blake, Johanna M.",578
-"1222",382,"Hillman, A.",497
-"1223",382,"Nielsen, Scott E.",871
-"1224",383,"Clune, J W",222
-"1225",383,"Cravotta, C A  III",548
-"1226",383,"Husic, A.",541
-"1227",383,"Dozier, H J",304
-"1228",384,"Stearman, Loren W.",1104
-"1229",384,"Heitmuller, F T",488
-"1230",385,"Sundberg, F A",1127
-"1231",385,"Cothren, H R",239
-"1232",386,"DeWitt, J D",289
-"1233",386,"Ashland, F X",55
-"1234",387,"Counts, J W",241
-"1235",387,"Craddock, W H",247
-"1236",388,"Casey, C P",190
-"1237",388,"Hartings, M R",471
-"1238",388,"Knapp, M A",638
-"1239",389,"Knight, A C",640
-"1240",391,"Amaral, Chelsea Morgan",31
-"1241",391,"Lamb, A P",665
-"1242",391,"Dumond, G.",309
-"1243",392,"Coyan, J A",246
-"1244",392,"Solano, Federico",1091
-"1245",392,"Taylor, C.",1143
-"1246",392,"Finn, C A",363
-"1247",392,"Smith, S.",1087
-"1248",393,"Lebit, Hermann",1658
-"1249",393,"Brunner, Benjamin",1659
-"1250",393,"Kharitonova, Natalya",1660
-"1251",393,"Deemer, Eva",1661
-"1252",394,"Yang, D C",1278
-"1253",394,"Hou, T.",523
-"1254",394,"Song, W.",1094
-"1255",394,"Qin, J.",962
-"1256",394,"Luo, D.",716
-"1257",394,"Wang, M.",1214
-"1258",396,"Naibert, Travis J.",859
-"1259",396,"Wypych, Alicja",1267
-"1260",396,"Twelker, Evan",1178
-"1261",397,"Glen, Jonathan M G",421
-"1262",397,"Earney, Tait E.",315
-"1263",398,"Langenheim, V.",666
-"1264",398,"Graymer, R.",436
-"1265",398,"Powell, R.",950
-"1266",398,"Schmidt, K.",1036
-"1267",398,"Sweetkind, D S",1133
-"1268",399,"Timbie, J.",1159
-"1269",399,"Deutch, J.",287
-"1270",399,"Ewing, R.",346
-"1271",399,"Ellis, J O Jr",593
-"1272",399,"Ram, R.",973
-"1273",399,"Park, Sulgiye",914
-"1274",400,"Anderson, P J",38
-"1275",400,"Tillery, A C",1158
-"1276",402,"Yang, Yanshen",1281
-"1277",402,"Pan, X.",904
-"1278",402,"Liu, B.",691
-"1279",402,"Dong, J.",298
-"1280",403,"Brennan, D T",152
-"1281",403,"Box, S E",141
-"1282",403,"Eyster, A.",347
-"1283",404,"Whittle, D.",1240
-"1284",404,"Yellishetty, M.",1288
-"1285",404,"Walsh, S.",1208
-"1286",404,"Mudd, G M",842
-"1287",406,"Pratt, T. L.",954
-"1288",406,"Chapman, M C",193
-"1289",406,"Wu, Q.",1262
-"1290",407,"Oktavianus, Ignasius Dwi",1662
-"1291",407,"Aswar, Muhammad",1663
-"1292",407,"Saleh, Muhammad Hairul",1664
-"1293",407,"Ahmadi, Zahra",1665
-"1294",409,"Hedrick, G.",485
-"1295",410,"Bowman, R L",139
-"1296",411,"Belcher, B R",94
-"1297",413,"Luckie, T W",712
-"1298",413,"Porritt, R W",949
-"1299",414,"Nielsen, M G",870
-"1300",414,"Martin, S L",747
-"1301",415,"Stahl, Leigha M.",1666
-"1302",415,"Snead, Anthony A.",1667
-"1303",415,"Olson, Julie B.",1668
-"1304",416,"Canfield, D E",183
-"1305",416,"Naemi, A.",857
-"1306",417,"Kemper, J T",618
-"1307",417,"Knox, R.",642
-"1308",417,"Raffae, M.",968
-"1309",417,"Schulz, E Y",1039
-"1310",418,"Bailey, R T",70
-"1311",418,"Abbas, S.",1
-"1312",418,"Arnold, J G",52
-"1313",418,"White, Michael J. ",1494
-"1314",419,"Morris, A B",828
-"1315",419,"Visger, C J",1198
-"1316",419,"Fox, S J",378
-"1317",419,"Scalf, C.",1030
-"1318",419,"Fleming, S.",369
-"1319",420,"Bern, C R",107
-"1320",420,"Ruckhaus, M H",1015
-"1321",420,"Hennessy, E.",490
-"1322",422,"Snyder, S D",1090
-"1323",422,"Sutton, W B",1131
-"1324",422,"Steen, D A",1108
-"1325",423,"Stearman, Loren W.",1104
-"1326",424,"Jess, S.",571
-"1327",424,"Enkelmann, E.",329
-"1328",424,"Matthews, W A",760
-"1329",425,"Blake, Johanna M.",578
-"1330",425,"Ferguson, Christina L.",223
-"1331",425,"Brown, Jeb E.",572
-"1332",425,"Bixby, Rebecca J.",881
-"1333",426,"Shaughnessy, A.",1058
-"1334",427,"Rosera, Joshua M.",1008
-"1335",427,"Coleman, Drew S.",225
-"1336",428,"Merriman, C W",786
-"1337",429,"Geyin, M.",410
-"1338",429,"Maurer, B W",763
-"1339",430,"Cheng, Y.",199
-"1340",431,"Board, D I",130
-"1341",431,"Dilts, T E",295
-"1342",431,"Weisberg, P J",1226
-"1343",432,"Yu, Q.",1298
-"1344",433,"Coons, Aaron L.",232
-"1345",434,"Zhang, Z.",1312
-"1346",434,"Tian, Y.",1157
-"1347",434,"Wang, C.",1211
-"1348",434,"Wang, Xin",1215
-"1349",437,"Fisher, R N",365
-"1350",437,"Fisher, S R",366
-"1351",438,"John S. Placyk, Jr",584
-"1352",438,"Laszlo, Ava",671
-"1353",438,"Broadbent, Ashley",159
-"1354",438,"Hertweck, Kate L.",492
-"1355",438,"Williams, Lance R.",1244
-"1356",438,"Williams, Marsha B.",1245
-"1357",438,"Banta, Joshua A.",76
-"1358",439,"Takahashi, Yuhei",1669
-"1359",443,"Coube-Sisqueille, S.",240
-"1360",444,"Rumman, R.",1017
-"1361",444,"Alam, M S",16
-"1362",445,"Hamedani, Saleheh A. Nabavi",1670
-"1363",445,"Amjad-Iranagh, Sepideh",1671
-"1364",445,"Dehghani, Kamran",1672
-"1365",446,"Liimatainen, T.",684
-"1366",447,"She, A.",1064
-"1367",448,"Villar, J E",1196
-"1368",448,"Corral, F J G",237
-"1369",450,"Simões, V H P",1076
-"1370",451,"Twelker, Evan",1178
-"1371",453,"Breasley, C M",151
-"1372",453,"Barker, I R",77
-"1373",453,"Linnen, R L",687
-"1374",454,"Fewell, J S",360
-"1375",456,"Mercer, Celestine N",785
-"1376",456,"Roberge, J.",995
-"1377",456,"Khoury, R M",624
-"1378",457,"Barton, Isabel",1673
-"1379",458,"Davarpanah, A.",264
-"1380",458,"Babaie, H A",68
-"1381",458,"Elliott, W C",324
-"1382",459,"Stafford, K T",1102
-"1383",460,"Vikre, P.",1195
-"1384",460,"John, D A",586
-"1385",460,"Wintzer, N E",1255
-"1386",460,"Koutz, F.",648
-"1387",460,"Graybeal, F.",435
-"1388",463,"Chellman, K.",198
-"1389",464,"Wildland, Alec D.",1241
-"1390",464,"Regan, A.",985
-"1391",464,"Holland, M. S P",507
-"1392",465,"Moshrefzadeh, J.",833
-"1393",473,"Whitenburg, Luke",1236
-"1394",474,"Ertons, Melanie L.",337
-"1395",476,"Song, S.",1093
-"1396",476,"Morelli, L.",823
-"1397",476,"Wu, X.",1264
-"1398",476,"Qin, R.",963
-"1399",476,"Albanwan, H.",17
-"1400",476,"Remondino, F.",989
-"1401",477,"Morin-Ka, S.",825
-"1402",477,"Gonzalez-Alvarez, I.",427
-"1403",477,"Duuring, P.",314
-"1404",478,"Dae-yong, Kim",1674
-"1405",478,"Seung-yeol, Lee",1675
-"1406",479,"Niri, A. Jannesar",876
-"1407",479,"Poelzer, G A",943
-"1408",479,"Pettersson, M.",931
-"1409",479,"Rosenkranz, J.",1007
-"1410",480,"Runganga, Desire",1676
-"1411",480,"Ashworth, Peta",1677
-"1412",480,"Bharadwaj, Bishal",1678
-"1413",482,"Kablan, O A B K",601
-"1414",482,"Wang, B.",1210
-"1415",482,"Shi, Y.",1068
-"1416",482,"Shah, S Y A",1053
-"1417",483,"Crowley, C W",252
-"1418",483,"Stern, R J",1111
-"1419",484,"Hornuf, L.",515
-"1420",484,"Klerner, J.",636
-"1421",484,"Schweizer, D.",1043
-"1422",484,"Vrankar, D.",1202
-"1423",485,"Park, Junhyeok",1634
-"1424",485,"Park, Junhyeok",1634
-"1425",485,"Cho, Seong-Jun",1635
-"1426",485,"Bang, Minkyu",1679
-"1427",485,"Jin, Taeyoung",1680
-"1428",485,"Park, Junhyeok",1634
-"1429",485,"Park, Junhyeok",1634
-"1430",486,"Gaschnig, R.",399
-"1431",486,"Lewis, R S",682
-"1432",486,"Buddington, A.",172
-"1433",486,"Mato, K.",758
-"1434",487,"Brennan, D T",152
-"1435",487,"Box, S E",141
-"1436",487,"Eyster, A.",347
-"1437",488,"Araujo, I P",49
-"1438",489,"Lozano, Cristian David Gomez",710
-"1439",489,"Pfennig, Andreas",934
-"1440",489,"Gaydardzhiev, Stoyan",403
-"1441",490,"Torrez, L F A",1167
-"1442",496,"Bang, Minkyu",1679
-"1443",496,"Cho, Seong-Jun",1635
-"1444",496,"Jin, Taeyoung",1680
-"1445",496,"Park, Junhyeok",1634
-"1446",498,"Murchland, M A",847
-"1447",499,"Davies, R S",268
-"1448",499,"Trott, M L",1175
-"1449",499,"Georgi, J.",407
-"1450",499,"Farrar, A.",350
-"1451",500,"ADIGÜZEL, Duygu",9
-"1452",504,"Bilham, R.",118
-"1453",504,"Hough, S E",519
-"1454",505,"Theilen-Willige, Prof.Dr.habil. Barbara",1148
-"1455",506,"Fikru, M G",362
-"1456",506,"Nguyen, N.",867
-"1457",506,"Awuah-Offei, K.",62
-"1458",507,"Getch, J.",409
-"1459",508,"Puente, P.",958
-"1460",510,"Zhao, Rui",1686
-"1461",510,"Wang, Haihua",1687
-"1462",510,"Fang, Daren",1688
-"1463",510,"Hu, Xinqi",1689
-"1464",511,"Suhey, J M",1124
-"1465",512,"Magnin, B P",731
-"1466",512,"Brake, S S",147
-"1467",512,"Kuiper, Y D",657
-"1468",513,"Weisberg, P J",1226
-"1469",513,"Arienzo, Monica M.",1690
-"1470",513,NA,1691
-"1471",513,"Sexstone, Graham A.",1692
-"1472",513,"Gustin, Mae Sexauer",1693
-"1473",513,"Schwan, Melissa R.",1694
-"1474",513,"Melissa R.",1695
-"1475",513,"Choma, Nicole",1696
-"1476",513,"Dunham-Cheatham, Sarrah M.",1697
-"1477",513,"McConnell, Joseph R.",1698
-"1478",513,"Csank, Adam",1699
-"1479",514,"Oráč, D.",896
-"1480",514,"Laubertová, M.",672
-"1481",514,"Molnár, F.",815
-"1482",514,"Klimko, J.",637
-"1483",514,"Marcinov, V.",737
-"1484",514,"Piroskova, Jana",1700
-"1485",515,"Brennan, D T",152
-"1486",515,"Box, S E",141
-"1487",515,"Eyster, A.",347
-"1488",516,"Cicek, Z.",217
-"1489",517,"May, P.",766
-"1490",520,"Westerhof, A B Phil",1233
-"1491",520,"Beunk, Frank F.",109
-"1492",524,"Song, Yuqi",1701
-"1493",524,"Hu, Xie",1702
-"1494",524,"Shi, Xuguo",1703
-"1495",524,"Cui, Yifei",1704
-"1496",524,"Zhou, Chao",1705
-"1497",524,"Xu, Yueren",1706
-"1498",525,"Allport, H A",27
-"1499",525,"Davies, N S",267
-"1500",526,"Brickey, T A",155
-"1501",526,"Umhoefer, P J",1181
-"1502",526,"Bennett, S E K",100
-"1503",527,"Hartzell, S.",473
-"1504",527,"Martinetti, L B",742
-"1505",529,"Qasemipour, E.",961
-"1506",529,"Kitlasten, W.",635
-"1507",529,"White, J T",1237
-"1508",530,"Meszaros, Nicholas F.",788
-"1509",530,"Gardner, James E.",395
-"1510",531,"Mattheus, C R",759
-"1511",533,"Stearman, Loren W.",1104
-"1512",534,"Fanelli, Rosemary M.",1707
-"1513",534,"Morency, Michelle",1708
-"1514",534,"Fleming, Brandon J.",1709
-"1515",534,"Moore, Joel",1710
-"1516",534,"Hardesty, Deanna",1711
-"1517",534,"Shoda, Megan",1712
-"1518",535,"Mixon, R.",802
-"1519",535,"Blake, Johanna M.",578
-"1520",536,"Winikoff, S G",1253
-"1521",536,"Paukert, C.",916
-"1522",536,"Sievert, N.",1072
-"1523",536,"Rogosch, J.",1004
-"1524",537,"Favero, A.",353
-"1525",537,"Realff, M.",980
-"1526",537,"Lucas, M.",711
-"1527",537,"Giarrusso, A.",415
-"1528",538,"Liu, Z.",696
-"1529",538,"Li, Y.",703
-"1530",539,"Mohriak, W.",810
-"1531",540,"Johnstone, S.",585
-"1532",540,"Colgan, J.",226
-"1533",540,"Roe, W.",1003
-"1534",541,"Xu, C.",1270
-"1535",542,"Andrews, James V.",42
-"1536",542,"Shirley, Ethana",1066
-"1537",542,"Figueroa, Rodrigo T.",361
-"1538",543,"Cox, I A",244
-"1539",544,"Nicholas, Joseph R.",869
-"1540",545,"Molloy, J.",814
-"1541",546,"Ettensohn, F R",342
-"1542",546,"Seckinger, D C",1047
-"1543",546,"Moecher, D P",807
-"1544",546,"Eble, Cortland",318
-"1545",547,"Mukherjee, A.",844
-"1546",548,"Hardman, Alice",467
-"1547",549,"Hillman, A.",497
-"1548",549,"Nielsen, Scott E.",871
-"1549",550,"Becker, Naomi Ann",89
-"1550",551,"Fleischer, N A",368
-"1551",551,"Thomas, R D",1152
-"1552",552,"Reijm, C R",987
-"1553",553,"Fleming, Brandon J.",1709
-"1554",553,"Goodling, Phillip J.",1713
-"1555",553,"Solder, John",1714
-"1556",553,"Soroka, Alexander M.",1715
-"1557",553,"Raffensperger, Jeff P.",1716
-"1558",554,"Ghere, C.",411
-"1559",555,"Pensky, J.",923
-"1560",556,"Schulz, E Y",1039
-"1561",557,"McLaughlin, P I",774
-"1562",557,"Stigall",1113
-"1563",558,"Riddell, Jill L.",993
-"1564",558,"Rau, Benjamin",976
-"1565",558,"Russoniello, Christopher",1019
-"1566",559,"Macias, S G",726
-"1567",560,"Collar, Natalie M.",227
-"1568",561,"Ajaz, A.",14
-"1569",564,"Canham, H A",184
-"1570",565,"Kirby, Cindie",634
-"1571",565,"Briscoe, Seattle",157
-"1572",565,"Acosta, Natalie",7
-"1573",565,"Leak, Alan",676
-"1574",566,"Blankenship, L N",124
-"1575",567,"Moidu, H.",812
-"1576",568,"Hale, K E",452
-"1577",569,"Bajo-Walker, B.",73
-"1578",570,"Yang, Zhan",1282
-"1579",571,"Athar, M F",57
-"1580",572,"Tripathi, P.",1172
-"1581",572,"Garg, R D",397
-"1582",573,"Sporleder, B A",1099
-"1583",573,"Fisher, B N",364
-"1584",573,"Keto, D S",622
-"1585",573,"Kappel, W M",608
-"1586",573,"Reddy, J E",981
-"1587",573,"DeMott, L M",283
-"1588",574,"Wilson, S.",1250
-"1589",575,"Comans, C M",228
-"1590",576,"Kamoske, A G",603
-"1591",577,"Stokes, Maya F.",1117
-"1592",582,"Kendall, Katharine P.",620
-"1593",582,"Kendall, Jerome J.",619
-"1594",583,"Steenstra, Philip James",1107
-"1595",584,"Gentilcore, D M",406
-"1596",590,"Andrews, A J",41
-"1597",590,"Celebi, Hasan F.",1717
-"1598",590,"Pothos, Ioannis",1718
-"1599",590,"Schoneich, Antonio G.",1719
-"1600",590,"Bellefeuille, Nathan A.",1720
-"1601",590,"Olson, Bernard A.",1721
-"1602",590,"Laurence, Stuart J.",1722
-"1603",590,"Schwartzentruber, Thomas E.",1723
-"1604",590,"Hogan, Christopher J.",1724
-"1605",591,"Maity, Joydeep",1725
-"1606",591,"Hazra, Biplab",1726
-"1607",591,"Mallick, Mousumi",1727
-"1608",591,"Das, Aman Kumar Lal",1728
-"1609",591,"Show, Bijay Kumar",1729
-"1610",592,"Wang, J.",1213
-"1611",592,"Zhang, F.",1305
-"1612",592,"Yu, Y.",1299
-"1613",592,"Yu, Zhifeng",1300
-"1614",593,"Hegeman, P.",486
-"1615",593,"Zhou, L.",1314
-"1616",594,"Campanaro, João Felipe",179
-"1617",594,"Gonçalves, A N",425
-"1618",594,"Hung, Rita Elena Fereira",536
-"1619",594,"Ferrer, Mateus Meneghetti",358
-"1620",595,"Yang, D C",1278
-"1621",596,"Das, S.",262
-"1622",596,"Ghosh, S.",414
-"1623",596,"Gantait, A.",392
-"1624",596,"Yadav, B.",1274
-"1625",600,"Precker, C E",955
-"1626",602,"Moye, C D",837
-"1627",604,"Favaro, F.",352
-"1628",605,"Hou, C Y",521
-"1629",605,"Freed, D E",380
-"1630",605,"Seleznev, N.",1048
-"1631",605,"Homan, D M",511
-"1632",606,"Deacon, B.",273
-"1633",607,"Couëslan, C G",242
-"1634",608,"Hocquard, C.",502
-"1635",608,"Jebrak, M.",567
-"1636",611,"Villar, J E",1196
-"1637",611,"Corral, F J G",237
-"1638",615,"Dietrich, V E",293
-"1639",616,"Anderson, Jacob",36
-"1640",616,"Glen, Jonathan M G",421
-"1641",616,"Schermerhorn, William",1034
-"1642",616,"Earney, Tait E.",315
-"1643",616,"Morbeck, Benjamin",821
-"1644",618,"Walton, Zachary O.",1209
-"1645",626,"Ramos, E J",971
-"1646",627,"Barnes, A M",79
-"1647",628,"Guo, Qing",1730
-"1648",628,"Lin, Kunqi",1731
-"1649",630,"Musoma, B M",853
-"1650",630,"Nyanda, S S",884
-"1651",630,"Muhanga, M I",843
-"1652",630,"Massawe, F A",750
-"1653",631,"Hawksley, C.",477
-"1654",631,"Brouillon, J.",160
-"1655",632,"Okonkwo, Emenike George",888
-"1656",633,"Chase, Brandon Franklin Werner",195
-"1657",634,"Xie, Zhenan",1268
-"1658",636,"Adiwokor, S.",10
-"1659",636,"Gyawu, E.",447
-"1660",636,"Johnson, K.",582
-"1661",637,"Graf, Roberta",431
-"1662",643,"Diallo, M C",290
-"1663",644,"Pan, Y.",905
-"1664",644,"Zhang, Wencai",1310
-"1665",645,"Wen, Y.",1229
-"1666",645,"Yang, X.",1280
-"1667",645,"Jiang, R.",573
-"1668",645,"Wang, Z.",1217
-"1669",646,"Cherrat, A.",201
-"1670",646,"Ennaciri, Y.",330
-"1671",646,"Azifa, A.",65
-"1672",646,"Erradi, E M",336
-"1673",650,"Hettler, J F",493
-"1674",651,"Weihermann, J D",1224
-"1675",651,"Li, Y.",703
-"1676",651,"McCafferty, Anne E.",770
-"1677",652,"Shbita, Basel",1059
-"1678",652,"Sharma, Namrata",1055
-"1679",652,"Vu, Binh",1205
-"1680",652,"Lin, Fandel",688
-"1681",652,"Knoblock, Craig A.",641
-"1682",653,"Short, S R",1070
-"1683",655,"Taylor, Ryan",1144
-"1684",655,"Hofstra, A H",505
-"1685",656,"Borchardt, J S",134
-"1686",657,"Rao, S.",975
-"1687",657,"Mlinar, M A",804
-"1688",657,"Hudak, G J",531
-"1689",657,"Kangas, K W",607
-"1690",660,"Hudak, G J",531
-"1691",660,"Nixon, K.",877
-"1692",660,"Thakurta, J.",1146
-"1693",660,"Bartsch, W.",86
-"1694",663,"Carey, Nathan J.",186
-"1695",663,"Richardson, Carson A.",992
-"1696",374,"Adeboboye, Oluwaseyifunmi E.",8
-"1697",374,"Neves, Miguel",863
-"1698",374,"Peng, Zhigang",922
-"1699",374,"Frost, Dan",382
-"1700",374,"Jaumé, Steven C.",564
-"1701",374,"Chuang, Lindsay Y.",1359
-"1702",405,"Hammarstrom, Jane M.",458
-"1703",405,"Kreiner, Douglas C.",655
-"1704",405,"Dicken, C.",292
-"1705",405,"Woodruff, L.",1256
-"1706",461,"Walsh, Gregory J.",1207
-"1707",461,"Thomas, M A",1151
-"1708",461,"Marvinney, R G",748
-"1709",461,"Mabee, S B",723
-"1710",461,"Chormann, F H",210
-"1711",461,"Kozlowski, A.",652
-"1712",461,"Gale, M H",389
-"1713",461,"Kim, J.",630
-"1714",461,"Savage, Brian",1360
-"1715",472,"Waterman, Michell L.",1220
-"1716",661,"Peterson, Dean M.",928
-"1717",139,"Forte, A M",374
-"1718",139,"Whipple, K X",1234
-"1719",146,"Talan, D.",1137
-"1720",146,"Huang, Q.",526
-"1721",150,"McMahon, P B",777
-"1722",150,"Brown, C J",162
-"1723",150,"Johnson, T D",583
-"1724",150,"Belitz, K.",95
-"1725",150,"Lindsey, Bruce D.",1390
-"1726",152,"Ilankoon, I.",552
-"1727",152,"Dushyantha, N P",313
-"1728",152,"Mancheri, N.",734
-"1729",152,"Edirisinghe, P. M.",1391
-"1730",152,"Neethling, S. J.",1392
-"1731",152,"Ratnayake, N. P.",1393
-"1732",152,"Rohitha, L. P. S.",1394
-"1733",152,"Dissanayake, D. M. D. O. K.",1395
-"1734",152,"Premasiri, H. M. R.",1396
-"1735",152,"Abeysinghe, A. M. K. B.",1397
-"1736",152,"Dharmaratne, P. G. R.",1398
-"1737",152,"Batapola, N. M.",1399
-"1738",154,"Sheikh, T M",1060
-"1739",154,"Anwar, M P",47
-"1740",154,"Muthoosamy, K.",855
-"1741",154,"Jaganathan, Jayaprakash",1400
-"1742",154,"Chan, Andy",1401
-"1743",154,"Mohamed, Abdullahi Ali",1402
-"1744",156,"Manjong, N B",735
-"1745",156,"Burheim, O S",173
-"1746",156,"Strømman, A H",1121
-"1747",156,"Usai, Lorenzo",1403
-"1748",157,"Sayahpour, B.",1029
-"1749",157,"Hirsh, H.",500
-"1750",157,"Parab, S.",908
-"1751",157,"Nguyen, L H B",866
-"1752",157,"Zhang, M.",1308
-"1753",157,"Meng, Ying Shirley",1572
-"1754",173,"Fortier, Steven M.",375
-"1755",173,"Kelley, K.",614
-"1756",173,"Nassar, Nedal T.",1327
-"1757",173,"Lederer, Graham W.",678
-"1758",173,"Mauk, Jeffrey L.",761
-"1759",173,"Hammarstrom, Jane M.",458
-"1760",173,"Day, Warren C.",270
-"1761",173,"Seal, Robert R. II",996
-"1762",175,"Davey, S C",265
-"1763",175,"Bleeker, W.",126
-"1764",175,"Kamo, S L",604
-"1765",175,"Vuollo, J.",1204
-"1766",175,"Ernst, R E",335
-"1767",175,"Cousens, B. L.",1405
-"1768",176,"Abbas, S.",1
-"1769",176,"Bailey, R T",70
-"1770",176,"White, J T",1237
-"1771",176,"Arnold, J G",52
-"1772",176,"White, Michael J. ",1494
-"1773",176,"Čerkasova, Natalja",334
-"1774",176,"Gao, Jungang",1407
-"1775",181,"Karabelli, D.",609
-"1776",181,"Kiemel, S.",625
-"1777",181,"Singh, S.",1080
-"1778",181,"Koller, J.",645
-"1779",181,"Ehrenberger, Simone",1408
-"1780",181,"Miehe, Robert",1409
-"1781",181,"Weeber, Max",1410
-"1782",181,"Birke, Kai Peter",1411
-"1783",189,"Miller, Kaleisha D.",797
-"1784",189,"Bentley, Matthew J.",102
-"1785",189,"Ryan, Joseph N.",1020
-"1786",189,"Linden, Karl G.",685
-"1787",189,"Larison, Caleb",668
-"1788",189,"Kienzle, Benjamin A.",626
-"1789",189,"Katz, Lynn E.",611
-"1790",189,"Wilson, Alana M.",1248
-"1791",189,"Cox, Jordan T.",245
-"1792",189,"Kurup, Parthiv",661
-"1793",189,"Allsburg, Kurt M. Van",28
-"1794",189,"McCall, James",771
-"1795",189,"Macknick, Jordan E.",727
-"1796",189,"Talmadge, Michael S.",1138
-"1797",189,"Miara, Ariel",793
-"1798",189,"Sitterley, Kurban A.",1081
-"1799",189,"Evans, Anna",344
-"1800",189,"Thirumaran, Kiran",1149
-"1801",189,"Malhotra, Mini",732
-"1802",189,"Stokes-Draut, Jennifer R.",1116
-"1803",189,"Chellam, Shankararaman",197
-"1804",189,"Gonzalez, Susana Garcia",1412
-"1805",192,"Soulié, J P",1097
-"1806",192,"Troeye, B. Van",1174
-"1807",192,"Sankaran, Kiroubanand",1413
-"1808",192,"Lesniewska, Alicja",1414
-"1809",192,"Pedreira, Olalla Varela",1415
-"1810",192,"Oprins, Herman",1416
-"1811",192,"Delie, Gilles",1417
-"1812",192,"Fleischmann, Claudia",1418
-"1813",192,"Boakes, Lizzie",1419
-"1814",192,"Rolin, Cedric",1420
-"1815",192,"Ragnarsson, Lars-Ake",1421
-"1816",192,"Croes, Kristof",1422
-"1817",192,"Park, Seongho",1423
-"1818",192,"Swerts, Johan",1424
-"1819",192,"Pourtois, Geoffrey",1425
-"1820",192,"Tokei, Zsolt",1426
-"1821",192,"Adelmann, Christoph",1427
-"1822",193,"Steenstra, Philip James",1107
-"1823",193,"Strigul, N.",1120
-"1824",193,"Harrison, J.",470
-"1825",204,"Ireland, Robert",556
-"1826",204,"Scott, Sara",1428
-"1827",205,"Penaloza, I.",921
-"1828",205,"Tita, A.",1160
-"1829",205,"McNew, E.",779
-"1830",205,"Chu, P.",215
-"1831",209,"Geyin, M.",410
-"1832",209,"Maurer, B W",763
-"1833",209,"Christofferson, K.",212
-"1834",218,"Fitzgerald, Paul G.",367
-"1835",218,"Shorten, Chilisa M.",1429
-"1836",219,"Pompeani, D P",946
-"1837",219,"McLauchlan, K K",773
-"1838",219,"Chileen, B V",204
-"1839",219,"Calder, W. John",1430
-"1840",219,"Shuman, Bryan N.",1431
-"1841",219,"Higuera, Philip E.",1432
-"1842",222,"Bai, Y.",71
-"1843",222,"Li, M.",699
-"1844",222,"Jafta, C J",560
-"1845",222,"Dai, Q.",260
-"1846",222,"Essehli, R.",339
-"1847",222,"Polzin, B J",945
-"1848",222,"Belharouak, Ilias",1433
-"1849",224,"Hotchkiss, E.",518
-"1850",224,"Urdaneta, M P",1184
-"1851",224,"Bazilian, M D",88
-"1852",226,"Burpee, B T",175
-"1853",226,"Saros, J E",1028
-"1854",226,"Nanus, L.",860
-"1855",226,"Baron, J.",81
-"1856",226,"Brahney, J.",146
-"1857",226,"Christianson, Kyle R.",1434
-"1858",226,"Ganz, Taylor",1435
-"1859",226,"Heard, Andi",1436
-"1860",226,"Hundey, Beth",1437
-"1861",226,"Koinig, Karin A.",1438
-"1862",226,"Kopacek, Jiri",1439
-"1863",226,"Moser, Katrina",1440
-"1864",226,"Nydick, Koren",1441
-"1865",226,"Oleksy, Isabella",1442
-"1866",226,"Sadro, Steven",1443
-"1867",226,"Sommaruga, Ruben",1444
-"1868",226,"Vinebrooke, Rolf",1445
-"1869",226,"Williams, Jason",1446
-"1870",227,"Gustafson, J O",444
-"1871",227,"Tester, J W",1145
-"1872",227,"Beyers, S.",111
-"1873",227,"Jordan, Teresa E.",1732
-"1874",227,"Fulton, Patrick M.",1733
-"1875",227,"Hawkins, Adam J.",1734
-"1876",227,"Smith, Jared D.",1735
-"1877",227,"Aswad, Jood Al",1736
-"1878",227,"Beckers, Koenraad F.",1737
-"1879",227,"Allmendinger, Rick",1738
-"1880",227,"Brown, Larry",1739
-"1881",227,"Horowitz, Frank",1740
-"1882",227,"May, Daniel",1741
-"1883",227,"Khan, Tasnuva Ming",1742
-"1884",227,"Pritchard, Matt",1743
-"1885",228,"Shi, Z.",1069
-"1886",228,"Jin, Y.",575
-"1887",228,"Han, T.",465
-"1888",228,"Yang, H.",1279
-"1889",228,"Gond, R.",426
-"1890",228,"Subasi, Y.",1122
-"1891",228,"Asfaw, Habtom Desta",1447
-"1892",228,"Younesi, Reza",1448
-"1893",228,"Jonsson, Par G.",1449
-"1894",228,"Yang, Weihong",1450
-"1895",230,"Zhu, Yichuan",1317
-"1896",230,"Dortch, J M",300
-"1897",230,"Massey, M A",751
-"1898",230,"Haneberg, W C",460
-"1899",230,"Curl, Douglas C.",254
-"1900",236,"Pusarapu, V.",960
-"1901",236,"Sarma, R. Narayana",1027
-"1902",236,"Ochonma, P.",887
-"1903",236,"Gadikota, Greeshma",1451
-"1904",240,"Creason, C G",250
-"1905",240,"Justman, D M",598
-"1906",240,"Montross, S N",819
-"1907",240,"Rose, K.",1452
-"1908",240,"Bean, A.",1453
-"1909",240,"Mark-Moser, M.",1454
-"1910",240,"Wingo, P.",1455
-"1911",240,"Sabbatino, M.",1456
-"1912",240,"Thomas, R. B.",1457
-"1913",241,"Mauk, Jeffrey L.",761
-"1914",241,"Crafford, T.",248
-"1915",241,"Horton, J. W. Jr",595
-"1916",241,"Robinson, G.R., Jr",999
-"1917",241,"San Juan, C. A.",1326
-"1918",251,"Johnson, K.",582
-"1919",251,"Christensen, J N",211
-"1920",251,"Gardner, W P",396
-"1921",251,"Li, Li",1372
-"1922",251,"Carroll, R W H",188
-"1923",251,"Sprenger, Matthias",1458
-"1924",251,"Williams, Kenneth H.",1459
-"1925",251,"Thiros, Nicholas",1460
-"1926",251,"Brown, Wendy",1461
-"1927",251,"Beutler, Curtis",1462
-"1928",251,"Newman, Alexander",1463
-"1929",251,"Sullivan, Pamela L.",1464
-"1930",253,"Stergiou, C L",1110
-"1931",253,"Melfos, V.",784
-"1932",253,"Voudouris, P.",1201
-"1933",253,"Papadopoulou, L.",906
-"1934",253,"Sakellaris, Grigorios-Aarne",1465
-"1935",253,"Kantiranis, Nikolaos",1466
-"1936",253,"Skoupras, Evaggelos",1467
-"1937",256,"Chatterjee, S.",196
-"1938",256,"Karacan, CÖ",610
-"1939",256,"Mastalerz, M.",752
-"1940",257,"Boxleiter, A.",140
-"1941",257,"Wen, Y.",1229
-"1942",257,"Tang, Y.",1140
-"1943",257,"Elliott, W C",324
-"1944",261,"Gelman, S E",405
-"1945",261,"Hearon, J S",481
-"1946",261,"Ellis, G S",325
-"1947",262,"Hamisi, J.",456
-"1948",262,"Etschmann, B.",341
-"1949",262,"Tomkins, A.",1166
-"1950",262,"Pitcairn, I.",942
-"1951",262,"Pinter, Zsanett",1468
-"1952",262,"Wlodek, Adam",1469
-"1953",262,"Morrissey, Laura",1470
-"1954",262,"Micklethwaite, Steven",1471
-"1955",262,"Trcera, Nicolas",1472
-"1956",262,"Mills, Stuart",1473
-"1957",262,"Brugger, Joel",1474
-"1958",263,"Abd-Elssamd, A.",4
-"1959",263,"Ma, Z J",768
-"1960",263,"Hou, H.",522
-"1961",263,"Pape, Y. Le",907
-"1962",264,"Reich, Martin",1475
-"1963",264,"Simon, Adam C.",1476
-"1964",269,"Mayyas, A.",765
-"1965",269,"Alhseinat, E.",23
-"1966",269,"Karuppasamy, K.",1477
-"1967",269,"Hassan-Beck, Haitem",1478
-"1968",269,"Alfantazi, Akram",1479
-"1969",270,"Rozelle, P L",1012
-"1970",270,"Tarka, T J",1142
-"1971",270,"Mamula, N.",733
-"1972",274,"Suhrhoff, T J",1125
-"1973",274,"Reershemius, T.",984
-"1974",274,"Wang, J.",1213
-"1975",274,"Jordan, J S",589
-"1976",274,"Reinhard, Christopher T.",1480
-"1977",274,"Planavsky, Noah J.",1481
-"1978",276,"Ikejiri, T.",551
-"1979",276,"Lu, Y H",719
-"1980",276,"Zhang, B.",1303
-"1981",285,"Davey, S C",265
-"1982",286,"Müller, D.",805
-"1983",286,"Groves, D I",441
-"1984",286,"Yang, C X",1277
-"1985",286,"Santosh, M.",1482
-"1986",289,"Sarker, S K",1026
-"1987",289,"Pownceby, M.",951
-"1988",289,"Yadav, S.",1275
-"1989",289,"Bruckard, W.",167
-"1990",289,"Haque, Nawshad",1483
-"1991",289,"Singh, Nahar",1484
-"1992",289,"Pramanik, Biplob Kumar",1485
-"1993",290,"Burnett, M.",174
-"1994",290,"Zhang, Steven E",1309
-"1995",290,"Ghorbani, Y.",413
-"1996",290,"Bourdeau, J E",135
-"1997",290,"Nwaila, G T",883
-"1998",290,"Steiner, Benedikt M.",1486
-"1999",290,"Barnet, James S.K.",1487
-"2000",291,"Nibourel, L.",868
-"2001",291,"Morgenthaler, J.",824
-"2002",291,"Grazioli, S.",437
-"2003",291,"Schumacher, Isabel",1488
-"2004",291,"Schlafli, Salome",1489
-"2005",291,"Galfetti, Thomas",1490
-"2006",291,"Heuberger, Stefan",1491
-"2007",292,"Mohamed, G A",809
-"2008",292,"Saleh, Gehad M.",1492
-"2009",292,"Tohamy, Amira M. El",1493
-"2010",295,"Almahawis, M K",29
-"2011",295,"Bailey, R T",70
-"2012",295,"Arnold, J G",52
-"2013",295,"Abbas, S.",1
-"2014",295,"White, Michael J. ",1494
-"2015",295,"White, Michael J. ",1494
-"2016",300,"McCafferty, Anne E.",770
-"2017",300,"Lawley, C J M",674
-"2018",300,"Graham, Garth E.",432
-"2019",300,"San Juan, C. A.",1326
-"2020",300,"Gadd, M G",388
-"2021",300,"Huston, D L",543
-"2022",300,"Kelley, K.",614
-"2023",300,"Paradis, S.",909
-"2024",300,"Peter, J.",930
-"2025",300,"Czarnota, K.",257
-"2026",301,"Babaei, F.",67
-"2027",301,"Boozarjomehry, R B",133
-"2028",301,"Ravandi, Z K",977
-"2029",301,"Pishvaie, S.M.R.",1495
-"2030",303,"Taylor, Ryan",1144
-"2031",303,"Graham, Garth E.",432
-"2032",303,"Lowers, H A",709
-"2033",307,"Gupta, Tushar",1496
-"2034",310,"Albaugh, Timothy J.",18
-"2035",310,"Carter, David R.",189
-"2036",310,"Cook, Rachel L.",231
-"2037",310,"Campoe, Otávio C.",181
-"2038",310,"Rubilar, Rafael A.",1014
-"2039",310,"Creighton, Jerre L.",1497
-"2040",311,"Zhou, S.",1315
-"2041",311,"Li, N.",700
-"2042",311,"Margenot, A J",738
-"2043",315,"Alonso, E.",30
-"2044",315,"Pineault, David George",941
-"2045",315,"Nassar, Nedal T.",1327
-"2046",316,"Kim, H.",629
-"2047",316,"Shin, D.",1065
-"2048",316,"Im, H.",553
-"2049",316,"Yu, B.",1296
-"2050",316,"Choi, S K",209
-"2051",319,"Huang, J.",525
-"2052",319,"Yang, X.",1280
-"2053",321,"Slack, J F",1083
-"2054",321,"Beck, F M",91
-"2055",321,"Bradley, D C",145
-"2056",321,"Felch, M M",354
-"2057",321,"Marvinney, R G",748
-"2058",321,"Whittaker, Amber T. H.",1329
-"2059",332,"Tuladhar, A.",1177
-"2060",332,"Bailey, R T",70
-"2061",332,"Abbas, S.",1
-"2062",332,"Arnold, J G",52
-"2063",332,"White, Michael J. ",1494
-"2064",332,"Shanmugam, Mohana Sundaram",1498
-"2065",340,"Prabhu, A.",952
-"2066",340,"Morrison, S M",827
-"2067",340,"Hazen, R M",479
-"2068",350,"Lundine, M.",714
-"2069",350,"Trembanis, A.",1171
-"2070",351,"Bailey, R T",70
-"2071",351,"Abbas, S.",1
-"2072",351,"Arnold, J G",52
-"2073",351,"White, Michael J. ",1494
-"2074",352,"Pfau, J C",933
-"2075",352,"McLaurin, B.",775
-"2076",352,"Buck, B J",171
-"2077",352,"Miller, F W",796
-"2078",353,"Mouser, J B",835
-"2079",353,"Brewer, S K",154
-"2080",353,"Niemiller, M L",874
-"2081",353,"Mollenhauer, R.",813
-"2082",353,"Bussche, Ronald A. Van Den",1499
-"2083",358,"Thapa, S.",1147
-"2084",358,"Girault, F.",419
-"2085",358,"Deldicque, D.",281
-"2086",358,"Losno, R.",708
-"2087",358,"France-Lanord, Christian",1500
-"2088",358,"Groppo, Chiara",1501
-"2089",358,"Rolfo, Franco",1502
-"2090",358,"Tamang, Shashi",1503
-"2091",358,"Rigaudier, Thomas",1504
-"2092",358,"Debret, Baptiste",1505
-"2093",358,"Paudyal, Kabi Raj",1506
-"2094",358,"Adhikari, Lok Bijaya",1507
-"2095",358,"Perrier, Frederic",1508
-"2096",359,"Dong, J.",298
-"2097",359,"Bode, A.",131
-"2098",359,"Jaroenchai, N.",563
-"2099",359,"Saxton, Aaron",1509
-"2100",359,"Kooper, Rob",1510
-"2101",359,"Zhu, Xiyue",1511
-"2102",359,"Kwark, Dou Hoon",1512
-"2103",359,"Kramer, William",1513
-"2104",359,"Kindratenko, Volodymyr",1514
-"2105",359,"Luo, Shirui",1515
-"2106",364,"Swezey, C S",1134
-"2107",364,"Blome, C D",127
-"2108",364,"Lundstrom, S C",715
-"2109",364,"Stone, B D",1118
-"2110",364,"Sweetkind, D S",1133
-"2111",364,"Berg, R C",104
-"2112",364,"Brown, S E",166
-"2113",364,"Yellich, J A",1287
-"2114",364,"Kincare, Kevin A.",1516
-"2115",366,"Simpson, B.",1078
-"2116",366,"Ubide, T.",1179
-"2117",366,"Spandler, C.",1098
-"2118",371,"Azmi, Ulul",66
-"2119",371,"Murtiana, Sri",850
-"2120",371,"Anda, Martin",34
-"2121",371,"Sasongko, Nugroho Adi",1517
-"2122",373,"Ibrahim, Mohammad",1518
-"2123",373,"Aune, Ragnhild",1519
-"2124",379,"Bailey, R T",70
-"2125",379,"Arnold, J G",52
-"2126",379,"White, Michael J. ",1494
-"2127",379,"Abbas, S.",1
-"2128",379,"Mirchi, Ali",1520
-"2129",390,"Ajaz, A.",14
-"2130",390,"Taghvaeian, S.",1136
-"2131",390,"Lollato, R.",706
-"2132",390,"Alderman, P D",20
-"2133",390,"Gowda, Prasanna H.",1521
-"2134",395,"Malikova, O. I.",1522
-"2135",395,"Maksimova, A. M.",1523
-"2136",401,"Malinconico, MaryAnn Love",1524
-"2137",408,"Hui, J.",535
-"2138",408,"Cheng, Y.",199
-"2139",412,"Monte, Nunzia",1525
-"2140",412,"Bucci, Francesco",1526
-"2141",412,"Mevoli, Federica Angela",1527
-"2142",412,"Santangelo, Michele",1528
-"2143",412,"Reichenbach, Paola",1529
-"2144",412,"Matteo, Lucio Di",1530
-"2145",412,"Marchesini, Ivan",1531
-"2146",421,"Salomon, Eric",1532
-"2147",435,"Kendall, Katharine P.",620
-"2148",435,"Roesch, Ariane",1002
-"2149",435,"Stearns, Andrew",1105
-"2150",435,"Ramon-Duenas, Carolina",969
-"2151",435,"Kendall, Jerome J.",619
-"2152",435,"Phillips, Jan-Claire",938
-"2153",435,"Meyer, S.",792
-"2154",436,"Wu, Connor Y. H.",1261
-"2155",436,"Bennett, Michael",99
-"2156",436,"Fox, Katherine",377
-"2157",436,"Parkhurst, Laura",911
-"2158",436,"Sherrod, Rebecca",1062
-"2159",436,"Gohlke, Julia M.",423
-"2160",436,"Hubbard, Aaron",1533
-"2161",436,"Holguin, Sarah",1534
-"2162",436,"Marmagas, Susan W.",1535
-"2163",440,"Young, M L",1291
-"2164",440,"Jenkins, J A",569
-"2165",441,"Copler, C.",234
-"2166",441,"Holtkamp, C.",510
-"2167",441,"Myles, C C",856
-"2168",442,"Coube-Sisqueille, S.",240
-"2169",442,"Liquet, B.",689
-"2170",449,"Gomes, Jailane De Sousa",1536
-"2171",449,"Silva, Francisco Da",1537
-"2172",449,"Salomao, Marcelo dos santos",1538
-"2173",452,"Dusel-Bacon, C.",312
-"2174",452,"Mortensen, J K",831
-"2175",455,"Koyamparambath, A.",650
-"2176",455,"Sonnemann, G.",1095
-"2177",455,"Young, S B",1292
-"2178",470,"Case, George N. D.",191
-"2179",470,"Graham, Garth E.",432
-"2180",470,"Lawley, C J M",674
-"2181",470,"Bastrakov, E.",87
-"2182",470,"Huston, D L",543
-"2183",470,"Hofstra, A H",505
-"2184",470,"Lisitsin, V.",690
-"2185",470,"Wang, B.",1210
-"2186",470,"Hawkins, Steph",1354
-"2187",481,"Steurs, Gert",1112
-"2188",481,"Arčon, Iztok",50
-"2189",481,"Riaño, Sofía",991
-"2190",481,"Gerven, Tom Van",408
-"2191",481,"Binnemans, Koen",119
-"2192",481,"Cool, Vincent",1539
-"2193",491,"Garcia, Jordan Sleyter Santa Cruz",1540
-"2194",492,"Chen, Liyang",1541
-"2195",492,"Yang, Yuyao",1542
-"2196",492,"WANG, Peng",1543
-"2197",492,"Guo, Yongmei",1544
-"2198",492,"Zhao, Shen",1545
-"2199",492,"Chen, Lihua",1546
-"2200",492,"Chen, Weiqiang",1547
-"2201",493,"Niri, A. Jannesar",876
-"2202",493,"Poelzer, G A",943
-"2203",493,"Pettersson, M.",931
-"2204",493,"Rosenkranz, J.",1007
-"2205",494,"Niri, A. Jannesar",876
-"2206",495,"Whittle, D.",1240
-"2207",495,"Yellishetty, M.",1288
-"2208",497,"Díaz-Gutiérrez, E.",271
-"2209",497,"Calvo, J A M",178
-"2210",497,"Hernandez-Saz, J.",1548
-"2211",497,"Gallardo, J.M.",1549
-"2212",497,"Paul, A.",1550
-"2213",501,"Pokharel, A.",944
-"2214",501,"Jayasekera, K S",565
-"2215",501,"Sabolsky, E M",1024
-"2216",501,"Musho, T.",852
-"2217",509,"Monroe, A.",817
-"2218",509,"Alexander, J.",22
-"2219",509,"Anderson, E.",35
-"2220",509,"Anderson, P J",38
-"2221",509,"Andrews, William M. Jr",596
-"2222",509,"Driscoll, J.",306
-"2223",509,"Frus, R.",384
-"2224",509,"Hevesi, J.",494
-"2225",509,"Jones, D.",587
-"2226",509,"Thomas, K.",1150
-"2227",509,"Tillery, A C",1158
-"2228",509,"Dahm, K.",259
-"2229",509,"Torregrosa, A.",1334
-"2230",528,"Williams, S R",1246
-"2231",528,"Steed, J E",1106
-"2232",528,"Morrone, J.",830
-"2233",528,"Goeking, Sara A",1552
-"2234",528,"Lavin, Matt",1553
-"2235",528,"Dodson, Erich Kyle",1554
-"2236",528,"Simons, Rachel E",1555
-"2237",532,"Abbas, S.",1
-"2238",532,"White, J T",1237
-"2239",532,"Almahawis, M K",29
-"2240",532,"Bailey, R T",70
-"2241",562,"Workman, J B",1258
-"2242",562,"Colgan, J.",226
-"2243",562,"Gilmer, A K",417
-"2244",562,"Berry, M E",108
-"2245",562,"Johnstone, S.",585
-"2246",562,"Warrell, K F",1219
-"2247",562,"Dechesne, M.",276
-"2248",562,"VanSistine, D P",1189
-"2249",562,"Thompson, R A",1155
-"2250",562,"Hudson, A M",532
-"2251",562,"Zellman, K L",1302
-"2252",562,"Sweetkind, D S",1133
-"2253",562,"Ruleman, C A",1016
-"2254",562,"Turner, Kenzie J.",1556
-"2255",581,"Kendall, Katharine P.",620
-"2256",581,"Roesch, Ariane",1002
-"2257",581,"Stearns, Andrew",1105
-"2258",581,"Ramon-Duenas, Carolina",969
-"2259",581,"Kendall, Jerome J.",619
-"2260",581,"Phillips, Jan-Claire",938
-"2261",581,"Meyer, S.",792
-"2262",585,"Bailey, R T",70
-"2263",585,"Abbas, S.",1
-"2264",585,"Čerkasova, Natalja",334
-"2265",585,"Arnold, J G",52
-"2266",585,"White, Michael J. ",1494
-"2267",585,"Majumdar, Sayantan",1557
-"2268",585,"Smith, Ryan",1558
-"2269",586,"Shapiro, A M",1054
-"2270",586,"Belitz, K.",95
-"2271",586,"Reddy, J E",981
-"2272",586,"Stackelberg, P E",1101
-"2273",587,"Tomaszewski, E J",1164
-"2274",587,"Sun, Z.",1130
-"2275",587,"Bednar, A J",92
-"2276",588,"Shell, R.",1061
-"2277",588,"Ciampaglio, C.",216
-"2278",588,"Peterman, D.",925
-"2279",588,"Ivanov, A.",557
-"2280",588,"Armstrong, Adam",1559
-"2281",588,"Fuelling, Lauren J.",1560
-"2282",588,"Jacquemin, Stephen J.",1561
-"2283",589,"Kunath, M.",660
-"2284",589,"Phillips, G.",937
-"2285",589,"Clary, R M",219
-"2286",598,"Rytkonen, Sauli Johannes",1562
-"2287",610,"Palosaari, Jenny",1563
-"2288",612,"Bassan, Lucas",1353
-"2289",613,"Ivanova, Natalia",1358
-"2290",614,"Matos, D R",757
-"2291",614,"Abreu, P M",5
-"2292",614,"Toscani, R.",1168
-"2293",614,"Gomes, Diego Guilherme Costa",1564
-"2294",624,"Faruk, M U",351
-"2295",624,"Yusuf, S N",1295
-"2296",624,"Daspan, Raymond Ishaya",1565
-"2297",625,"Müller, D.",805
-"2298",625,"Groves, D I",441
-"2299",625,"Santosh, M.",1482
-"2300",629,"Aizaki, H.",13
-"2301",629,"Sato, Kazuo",1357
-"2302",635,"Anugrah, Donni Fajar",46
-"2303",635,"Rishanty, Arnita",994
-"2304",635,"Aryani, Ade Dwi",54
-"2305",635,"Sambodo, Maxensius Tri",1566
-"2306",638,"Zafra, J L Torres",1301
-"2307",638,"Díaz, Xiomara Cazanas",272
-"2308",639,"Ryter, J.",1022
-"2309",639,"Bhuwalka, K.",115
-"2310",639,"Roth, R.",1009
-"2311",639,"Olivetti, E.",891
-"2312",639,"Alonso, E.",30
-"2313",639,"Nassar, Nedal T.",1327
-"2314",639,"Buarque-Andrade, Laura",1567
-"2315",639,"Frenzel, Max",1568
-"2316",639,"Shojaeddini, Ensieh",1569
-"2317",640,"Zhou, D.",1313
-"2318",640,"Li, S.",702
-"2319",640,"Yao, H.",1283
-"2320",641,"Hamed, Y.",455
-"2321",641,"Jallouli, H.",561
-"2322",641,"Elaloui, E.",321
-"2323",648,"Gao, Jinghan",393
-"2324",648,"Liu, W.",694
-"2325",648,"Sui, J.",1126
-"2326",648,"Zhang, Z.",1312
-"2327",648,"Dong, Y.",299
-"2328",648,"Wang, D.",1212
-"2329",648,"Pan, F.",903
-"2330",648,"Wang, Xudong",1570
-"2331",649,"Kumar, A.",658
-"2332",649,"Sahu, R.",1025
-"2333",649,"Tripathy, S K",1173
-"2334",654,"Mercer, Celestine N",785
-"2335",654,"Babel, H R",69
-"2336",654,"Hofstra, A H",505
-"2337",654,"Mercer, Cameron M.",1571
-"2338",659,"Sayahpour, B.",1029
-"2339",659,"Parab, S.",908
-"2340",659,"Hirsh, H.",500
-"2341",659,"Nguyen, L H B",866
-"2342",659,"Zhang, M.",1308
-"2343",659,"Meng, Ying Shirley",1572
-"2344",664,"Stafford, K T",1102
-"2345",664,"McLemore, Virginia T.",776
-"2346",664,"Martin, L.",745
-"2347",664,"Kelley, Shari",616
-"2348",664,"Grigg, J.",439
-"2349",664,"Broadhead, Ron",1355
-"2350",665,"Ingebritsen, S E",554
-"2351",665,"Weis, P.",1227
-"2352",665,"Bodnar, R J",132
-"2353",665,"Boutt, D F",137
-"2354",665,"Munk, L. A.",1573
-"2355",666,"Zafra, J L Torres",1301
-"2356",666,"Díaz, Xiomara Cazanas",272
-"2357",238,"Hammarstrom, Jane M.",458
-"2358",238,"Dicken, C.",292
-"2359",238,"Woodruff, L.",1256
-"2360",238,"Andersen, A.",40
-"2361",238,"Brennan, S.",153
-"2362",238,"Day, Warren C.",270
-"2363",238,"Drenth, Benjamin J.",305
-"2364",238,"Foley, N.",372
-"2365",238,"Hall, S.",454
-"2366",238,"Hofstra, A H",505
-"2367",238,"McCafferty, Anne E.",770
-"2368",238,"Shah, A. K.",1052
-"2369",238,"Ponce, D.",947
-"2370",244,"Drenth, Benjamin J.",305
-"2371",244,"Cannon, W F",185
-"2372",244,"Schulz, K J",1040
-"2373",244,"Ayuso, R A",63
-"2374",304,"Kreiner, Douglas C.",655
-"2375",304,"Jones, James V. III",550
-"2376",304,"Case, George N. D.",191
-"2377",158,"Mercer, Celestine N",785
-"2378",158,"Watts, Kathryn E.",1361
-"2379",158,"Gross, Juliane",1362
-"2380",179,"Lawley, C J M",674
-"2381",179,"Gadd, M G",388
-"2382",179,"Lederer, Graham W.",678
-"2383",179,"Graham, Garth E.",432
-"2384",179,"Parsa, Mohammad",1363
-"2385",179,"Ford, Arianne",1364
-"2386",180,"Zhang, Shangqing",1365
-"2387",180,"Liu, Xuefei",1366
-"2388",180,"Zhao, Fenghua",1367
-"2389",180,"Liu, Dongna",1368
-"2390",180,"Zou, Yu",1369
-"2391",180,"Zhang, Wenxu",1370
-"2392",180,"Liu, Xile",1371
-"2393",180,"Li, Li",1372
-"2394",180,"Zhao, Lihua",1373
-"2395",220,"Case, George N. D.",191
-"2396",220,"Regan, Sean P.",986
-"2397",220,"Holm-Denoma, C S",508
-"2398",220,"Karl, Susan M.",1374
-"2399",220,"Johnson, Craig A.",1375
-"2400",220,"Ellison, Eric T.",1376
-"2401",220,"Caine, Jonathan Saul",1377
-"2402",220,"Pianowski, Laura S.",1378
-"2403",220,"Marsh, Jeffrey H.",1379
-"2404",277,"Patlolla, Shashank Reddy",1380
-"2405",277,"Sharafian, Amir",1381
-"2406",277,"Merida, Walter",1382
-"2407",288,"Jia, Nanfei",1383
-"2408",288,"An, Haizhong",1384
-"2409",288,"Gao, Xiangyun",1385
-"2410",288,"Liu, Donghui",1386
-"2411",288,"Chang, Hao",1387
-"2412",296,"Cox, I A",244
-"2413",296,"Pashin, Jack C.",1388
-"2414",354,"Karaman, Muhittin",1389
-"2415",462,"Evans, B R",345
-"2416",462,"Kumar, J.",659
-"2417",462,"Popovs, I.",948
-"2418",462,"Moyer, B A",836
-"2419",462,"Paranthaman, M. Parans",1574
-"2420",467,"Twelker, Evan",1178
-"2421",467,"Newberry, Rainer J.",864
-"2422",467,"Naibert, Travis J.",859
-"2423",467,"Wypych, Alicja",1267
-"2424",467,"Gavel, Michelle M.",402
-"2425",467,"Barrera, Michael L.",83
-"2426",467,"Szumigala, David J.",1135
-"2427",467,"Truskowski, Conner M.",1176
-"2428",467,"Muller, Izzy P.",845
-"2429",467,"Fessenden, Serena N.",359
-"2430",467,"Blackwell, Noel J S",122
-"2431",467,"Harvey, David A.",474
-"2432",467,"Wildland, Alec D.",1241
-"2433",468,"Naibert, Travis J.",859
-"2434",468,"Wypych, Alicja",1267
-"2435",471,"Peter, J.",930
-"2436",471,"Gadd, M G",388
-"2437",471,"Lawley, C J M",674
-"2438",471,"Corriveau, L.",238
-"2439",471,"Houlé, M.",520
-"2440",471,"Pilote, J.",940
-"2441",471,"Plouffe, Alain",1575
-"2442",471,"Potter, Eric",1576
-"2443",471,"Sappin, Anne-Aurelie",1577
-"2444",471,"Marquis, Genevieve",1578
-"2445",471,"Lebel, Daniel",1579
-"2446",475,"Beyer, Rebecca",112
-"2447",475,NA,935
-"2448",475,"Faulkner, Mindy",1580
-"2449",502,"Naibert, Travis J.",859
-"2450",502,"Heizler, Matthew T.",489
-"2451",502,"Twelker, Evan",1178
-"2452",502,"Newberry, Rainer J.",864
-"2453",502,"Wypych, Alicja",1267
-"2454",503,"Truskowski, Conner M.",1176
-"2455",503,"Heizler, Matthew T.",489
-"2456",503,"Naibert, Travis J.",859
-"2457",503,"Newberry, Rainer J.",864
-"2458",503,"Twelker, Evan",1178
-"2459",503,"Szumigala, David J.",1135
-"2460",518,"Wortzel, Larry M.",1259
-"2461",518,"Selley, Kate",1049
-"2462",519,"Fenyves, Veronika",356
-"2463",519,"Erdey, László",332
-"2464",519,"Márkus, Ádám",838
-"2465",519,"Tőkés, Tibor",1162
-"2466",523,"Wildland, Alec D.",1241
-"2467",523,"Naibert, Travis J.",859
-"2468",578,"Ningen, Sara Van",1584
-"2469",579,"Buffalo Bayou Hurricane Hike",1585
-"2470",580,"Ningen, Sara Van",1584
-"2471",597,"Ding, S.",296
-"2472",599,"Heptinstall, E A",491
-"2473",601,"Currie, D.",255
-"2474",601,"Mitchell, C J",801
-"2475",603,"Jowitt, Simon M.",590
-"2476",609,"Yalcin, Cihan",1586
-"2477",617,"Wypych, Alicja",1267
-"2478",619,"Downs, C.",303
-"2479",619,"Winn, C.",1254
-"2480",619,"Kraal, K.",653
-"2481",619,"Folsom, M.",373
-"2482",619,"Schwering, P.",1044
-"2483",619,"Hinz, Nick",1587
-"2484",619,"Zimmerman, Jade",1588
-"2485",619,"Sewell, Steven",1589
-"2486",619,"Cumming, William B",1590
-"2487",619,"Milton, Alex",1591
-"2488",619,"Sabin, Andrew",1592
-"2489",619,"Lopeman, Janice",1593
-"2490",620,"Twelker, Evan",1178
-"2491",621,"Twelker, Evan",1178
-"2492",621,"Newberry, Rainer J.",864
-"2493",621,"Wypych, Alicja",1267
-"2494",621,"Naibert, Travis J.",859
-"2495",621,"Wildland, Alec D.",1241
-"2496",621,"Sicard, Karri R.",1071
-"2497",621,"Regan, Sean P.",986
-"2498",621,"Athey, Jennifer E.",58
-"2499",621,"Wyatt, W. Chris",1266
-"2500",621,"Lopez, Julian A.",707
-"2501",622,"Newberry, Rainer J.",864
-"2502",622,"Twelker, Evan",1178
-"2503",623,"Newberry, Rainer J.",864
-"2504",647,"Hurley, W.",539
-"2505",647,"Simmonds, J.",1077
-"2506",647,"Hofer, R.",504
-"2507",658,"Moore, Jessica",820
-"2508",658,"Andrews, William M. Jr",596
-"2509",658,"Eble, Cortland",318
-"2510",658,"Brown, S E",166
-"2511",658,"Hanna, Heather",462
-"2512",658,"Royce, Bethany",1011
-"2513",658,"Daft, Gary Jr",591
-"2514",662,"Scarberry, Kaleb",1031
-"2515",662,"Eastman, K A",316
-"2516",667,"Naibert, Travis J.",859
-"2517",466,"Naibert, Travis J.",859
-"2518",466,"Wypych, Alicja",1267
-"2519",466,"Newberry, Rainer J.",864
-"2520",466,"Twelker, Evan",1178
-"2521",466,"Gavel, Michelle M.",402
-"2522",466,"Wildland, Alec D.",1241
-"2523",466,"Barrera, Michael L.",83
-"2524",466,"Szumigala, David J.",1135
-"2525",466,"Regan, Sean P.",986
-"2526",466,"Avirett, Dylan F.",61
-"2527",466,"Bernard, Curtis M.",106
-"2528",466,"Blackwell, Noel J S",122
-"2529",466,"Fessenden, Serena N.",359
-"2530",466,"Harvey, David A.",474
-"2531",466,"Hubbard, Angie K.",527
-"2532",466,"Masterman, Steve S.",753
-"2533",466,"Muller, Izzy P.",845
-"2534",466,"Wyatt, W. Chris",1266
-"2535",466,"Turner, M. M.",1338
-"2536",469,"Davarpanah, A.",264
-"2537",469,"Elliott, W C",324
-"2538",469,"Babaie, H A",68
-"2539",521,"Vredenburgh, L M",1203
-"2540",521,"Wilkerson, G.",1242
-"2541",522,"Fenyves, Veronika",356
-"2542",522,"Erdey, László",332
-"2543",522,"Márkus, Ádám",838
-"2544",522,"Tőkés, Tibor",1162
-"2545",563,"Adeboboye, Oluwaseyifunmi E.",8
-"2546",563,"Neves, Miguel",863
-"2547",563,"Peng, Zhigang",922
-"2548",563,"Frost, Dan",382
-"2549",563,"Jaumé, Steven C.",564
-"2550",563,"Chuang, Lindsay Y.",1359
-"2551",642,"Musoma, B M",853
-"2552",642,"Nyanda, S S",884
-"2553",642,"Muhanga, M I",843
-"2554",642,"Massawe, F A",750
+"","pub_id","author_name","author_id"
+"1",3,"Fortier, Steven M.","375"
+"2",3,"Hammarstrom, Jane M.","458"
+"3",3,"Ryker, S J","1021"
+"4",3,"Day, Warren C.","270"
+"5",3,"Seal, Robert R. II","996"
+"6",7,"Van Gosen, B S","429"
+"7",7,"Verplanck, P.","1193"
+"8",7,"Emsbo, Poul","328"
+"9",9,"Hammarstrom, Jane M.","458"
+"10",9,"Dicken, C.","292"
+"11",9,"Woodruff, L.","1256"
+"12",9,"Andersen, A.","40"
+"13",9,"Brennan, S.","153"
+"14",9,"Day, Warren C.","270"
+"15",9,"Drenth, Benjamin J.","305"
+"16",9,"Foley, N.","372"
+"17",9,"Hall, S.","454"
+"18",9,"Hofstra, A H","505"
+"19",9,"McCafferty, Anne E.","770"
+"20",9,"Shah, A. K.","1052"
+"21",9,"Ponce, D.","947"
+"22",16,"Lederer, Graham W.","678"
+"23",16,"Jones, James V. III","550"
+"24",16,"McPhee, Darcy","780"
+"25",16,"Loferski, Patricia","705"
+"26",16,"Seal, Robert R. II","996"
+"27",16,"Bedrosian, Paul A.","93"
+"28",16,"Macqueen, Patricia G.","728"
+"29",16,"Grauch, V. J. S.","434"
+"30",16,"Solano, Federico","1091"
+"31",16,"Rosera, Joshua M.","1008"
+"32",16,"Pineault, David George","941"
+"33",18,"Wang, C.","1211"
+"34",18,"Slack, J F","1083"
+"35",18,"Shah, A. K.","1052"
+"36",18,"Yates, M G","1285"
+"37",18,"Marvinney, R G","748"
+"38",18,"Lentz, David R.","1328"
+"39",18,"Whittaker, Amber T. H.","1329"
+"40",19,"Twelker, Evan","1178"
+"41",19,"Newberry, Rainer J.","864"
+"42",19,"Wypych, Alicja","1267"
+"43",19,"Naibert, Travis J.","859"
+"44",19,"Wildland, Alec D.","1241"
+"45",19,"Sicard, Karri R.","1071"
+"46",19,"Regan, Sean P.","986"
+"47",19,"Athey, Jennifer E.","58"
+"48",19,"Wyatt, W. Chris","1266"
+"49",19,"Lopez, Julian A.","707"
+"50",29,"Newberry, Rainer J.","864"
+"51",29,"Twelker, Evan","1178"
+"52",31,"McLemore, Virginia T.","776"
+"53",31,"Iverson, Nels","558"
+"54",31,"Owen, Evan J.","899"
+"55",31,"Kelley, Shari","616"
+"56",31,"Zimmerer, Mathew","1320"
+"57",31,"Kelley, Richard","615"
+"58",32,"Shah, A. K.","1052"
+"59",32,"Pratt, T. L.","954"
+"60",32,"Horton, J. W. Jr","595"
+"61",33,"Dahm, K.","259"
+"62",33,"Hawbaker, T.","476"
+"63",33,"Frus, R.","384"
+"64",33,"Monroe, A.","817"
+"65",33,"Bradford, J.","144"
+"66",33,"Andrews, William M. Jr","596"
+"67",33,"Anderson, E.","35"
+"68",33,"Dean, D.","275"
+"69",33,"Qi, S.","965"
+"70",33,"Torregrosa, A.","1334"
+"71",37,"Magnin, B P","731"
+"72",37,"Kuiper, Y D","657"
+"73",37,"Anderson, E.","35"
+"74",40,"Wypych, Alicja","1267"
+"75",46,"Twelker, Evan","1178"
+"76",47,"Twelker, Evan","1178"
+"77",51,"Hammarstrom, Jane M.","458"
+"78",51,"Kreiner, Douglas C.","655"
+"79",51,"Dicken, C.","292"
+"80",51,"Woodruff, L.","1256"
+"81",53,"Glen, Jonathan M G","421"
+"82",53,"Earney, Tait E.","315"
+"83",55,"Truskowski, Conner M.","1176"
+"84",55,"Heizler, Matthew T.","489"
+"85",55,"Naibert, Travis J.","859"
+"86",55,"Newberry, Rainer J.","864"
+"87",55,"Twelker, Evan","1178"
+"88",55,"Szumigala, David J.","1135"
+"89",56,"Naibert, Travis J.","859"
+"90",56,"Heizler, Matthew T.","489"
+"91",56,"Twelker, Evan","1178"
+"92",56,"Newberry, Rainer J.","864"
+"93",56,"Wypych, Alicja","1267"
+"94",94,"Naibert, Travis J.","859"
+"95",94,"Wypych, Alicja","1267"
+"96",94,"Newberry, Rainer J.","864"
+"97",94,"Twelker, Evan","1178"
+"98",94,"Gavel, Michelle M.","402"
+"99",94,"Wildland, Alec D.","1241"
+"100",94,"Barrera, Michael L.","83"
+"101",94,"Szumigala, David J.","1135"
+"102",94,"Regan, Sean P.","986"
+"103",94,"Avirett, Dylan F.","61"
+"104",94,"Bernard, Curtis M.","106"
+"105",94,"Blackwell, Noel J S","122"
+"106",94,"Fessenden, Serena N.","359"
+"107",94,"Harvey, David A.","474"
+"108",94,"Hubbard, Angie K.","527"
+"109",94,"Masterman, Steve S.","753"
+"110",94,"Muller, Izzy P.","845"
+"111",94,"Wyatt, W. Chris","1266"
+"112",94,"Turner, M. M.","1338"
+"113",95,"Twelker, Evan","1178"
+"114",110,"Naibert, Travis J.","859"
+"115",110,"Wypych, Alicja","1267"
+"116",111,"Moore, Jessica","820"
+"117",111,"Hanna, Heather","462"
+"118",111,"Royce, Bethany","1011"
+"119",111,"Daft, Gary Jr","591"
+"120",111,"Andrews, William M. Jr","596"
+"121",111,"Eble, Cortland","318"
+"122",111,"Brown, S E","166"
+"123",113,"Wildland, Alec D.","1241"
+"124",113,"Naibert, Travis J.","859"
+"125",115,"Newberry, Rainer J.","864"
+"126",119,"Wildland, Alec D.","1241"
+"127",119,"Wypych, Alicja","1267"
+"128",119,"Regan, Sean P.","986"
+"129",119,"Holland, M. S P","507"
+"130",1,"Horton, J. W. Jr","595"
+"131",1,"Stoeser, D.","1115"
+"132",1,"San Juan, C. A.","1326"
+"133",2,"Mauk, Jeffrey L.","761"
+"134",2,"Schmeda, German","1341"
+"135",2,"Gnesda, William R","1342"
+"136",2,"Knudsen, Liam D","1343"
+"137",2,"Karl, Nick A","1344"
+"138",4,"Hofstra, A H","505"
+"139",4,"Kreiner, Douglas C.","655"
+"140",5,"Hofstra, A H","505"
+"141",5,"Kreiner, Douglas C.","655"
+"142",6,"Fortier, Steven M.","375"
+"143",6,"Graham, Garth E.","432"
+"144",6,"Hammarstrom, Jane M.","458"
+"145",6,"Day, Warren C.","270"
+"146",6,"Mauk, Jeffrey L.","761"
+"147",6,"Seal, Robert R. II","996"
+"148",6,"Nassar, Nedal T.","1327"
+"149",8,"Hammarstrom, Jane M.","458"
+"150",8,"Dicken, C.","292"
+"151",10,"Drenth, Benjamin J.","305"
+"152",10,"Grauch, V. J. S.","434"
+"153",11,"Naibert, Travis J.","859"
+"154",11,"Benowitz, J.","101"
+"155",11,"Wypych, Alicja","1267"
+"156",11,"Sicard, Karri R.","1071"
+"157",11,"Twelker, Evan","1178"
+"158",12,"Wypych, Alicja","1267"
+"159",12,"Twelker, Evan","1178"
+"160",12,"Naibert, Travis J.","859"
+"161",12,"Athey, Jennifer E.","58"
+"162",12,"Newberry, Rainer J.","864"
+"163",12,"Lopez, Julian A.","707"
+"164",12,"Regan, Sean P.","986"
+"165",12,"Sicard, Karri R.","1071"
+"166",12,"Wildland, Alec D.","1241"
+"167",12,"Wyatt, W. Chris","1266"
+"168",13,"Kelley, K.","614"
+"169",14,"Day, Warren C.","270"
+"170",15,"Day, Warren C.","270"
+"171",17,"Lederer, Graham W.","678"
+"172",17,"Jones, James V. III","550"
+"173",17,"McPhee, Darcy","780"
+"174",17,"Mauk, Jeffrey L.","761"
+"175",17,"Seal, Robert R. II","996"
+"176",17,"Campbell, Kate M.","180"
+"177",17,"Hammarstrom, Jane M.","458"
+"178",17,"Bedrosian, Paul A.","93"
+"179",17,"Macqueen, Patricia G.","728"
+"180",17,"Graham, Garth E.","432"
+"181",17,"Solano, Federico","1091"
+"182",17,"Case, George N. D.","191"
+"183",17,"Pineault, David George","941"
+"184",20,"Kreiner, Douglas C.","655"
+"185",20,"Jones, James V. III","550"
+"186",21,"Kreiner, Douglas C.","655"
+"187",21,"Jones, James V. III","550"
+"188",21,"Case, George N. D.","191"
+"189",22,"Shah, A. K.","1052"
+"190",22,"Morrow, Robert","1330"
+"191",22,"Pace, Michael","1331"
+"192",22,"Harris, M. Scott","1332"
+"193",22,"Doar,William","1333"
+"194",23,"Van Gosen, B S","429"
+"195",23,"Choate, L M","207"
+"196",24,"Fikru, M G","362"
+"197",25,"Hammarstrom, Jane M.","458"
+"198",25,"Dicken, C.","292"
+"199",25,"Day, Warren C.","270"
+"200",25,"Hofstra, A H","505"
+"201",25,"Drenth, Benjamin J.","305"
+"202",25,"Shah, A. K.","1052"
+"203",25,"McCafferty, Anne E.","770"
+"204",25,"Woodruff, L.","1256"
+"205",25,"Foley, N.","372"
+"206",25,"Ponce, D.","947"
+"207",25,"Frost, T.","383"
+"208",25,"Stillings, L.","1114"
+"209",26,"Dicken, C.","292"
+"210",26,"Hammarstrom, Jane M.","458"
+"211",27,"Hammarstrom, Jane M.","458"
+"212",27,"Dicken, C.","292"
+"213",27,"Woodruff, L.","1256"
+"214",27,"Mitchell, Ryan J.","1345"
+"215",28,"Hammarstrom, Jane M.","458"
+"216",28,"Dicken, C.","292"
+"217",28,"Woodruff, L.","1256"
+"218",28,"Andersen, A.","40"
+"219",28,"Brennan, S.","153"
+"220",28,"Day, Warren C.","270"
+"221",28,"Drenth, Benjamin J.","305"
+"222",28,"Foley, N.","372"
+"223",28,"Hall, S.","454"
+"224",28,"Hofstra, A H","505"
+"225",28,"McCafferty, Anne E.","770"
+"226",28,"Shah, A. K.","1052"
+"227",28,"Ponce, D.","947"
+"228",30,"Day, Warren C.","270"
+"229",34,"Todd, Erin","1163"
+"230",34,"Kylander-Clark, A R C","663"
+"231",34,"Kreiner, Douglas C.","655"
+"232",34,"Jones, James V. III","550"
+"233",34,"Holm-Denoma, C S","508"
+"234",34,"Wypych, Alicja","1267"
+"235",36,"Shah, A. K.","1052"
+"236",38,"Naibert, Travis J.","859"
+"237",38,"Twelker, Evan","1178"
+"238",38,"Wypych, Alicja","1267"
+"239",38,"Athey, Jennifer E.","58"
+"240",38,"Newberry, Rainer J.","864"
+"241",38,"Lopez, Julian A.","707"
+"242",38,"Regan, Sean P.","986"
+"243",38,"Sicard, Karri R.","1071"
+"244",38,"Wildland, Alec D.","1241"
+"245",38,"Wyatt, W. Chris","1266"
+"246",39,"Wypych, Alicja","1267"
+"247",39,"Twelker, Evan","1178"
+"248",39,"Naibert, Travis J.","859"
+"249",39,"Gavel, Michelle M.","402"
+"250",39,"Newberry, Rainer J.","864"
+"251",39,"Szumigala, David J.","1135"
+"252",39,"Wildland, Alec D.","1241"
+"253",39,"Barrera, Michael L.","83"
+"254",39,"Harvey, David A.","474"
+"255",39,"Muller, Izzy P.","845"
+"256",39,"Fessenden, Serena N.","359"
+"257",39,"Blackwell, Noel J S","122"
+"258",41,"Glen, Jonathan M G","421"
+"259",41,"Earney, Tait E.","315"
+"260",42,"Lukoczki, Georgina","713"
+"261",42,"Dietsch, Craig","294"
+"262",42,"Hickman, John B.","496"
+"263",42,"Morris, Emily","829"
+"264",42,"Curl, Douglas C.","254"
+"265",42,"Pulliam, Carrie","959"
+"266",42,"Vicroy, Stephanie","1194"
+"267",42,"Andrews, William M. Jr","596"
+"268",43,"Twelker, Evan","1178"
+"269",43,"O'Sullivan, P B","897"
+"270",44,"Van Gosen, B S","429"
+"271",45,"Voosen, Paul","1200"
+"272",48,"Wypych, Alicja","1267"
+"273",48,"Gavel, Michelle M.","402"
+"274",48,"Naibert, Travis J.","859"
+"275",48,"Avirett, Dylan F.","61"
+"276",48,"Barrera, Michael L.","83"
+"277",48,"Hubbard, Angie K.","527"
+"278",48,"Newberry, Rainer J.","864"
+"279",48,"Regan, Sean P.","986"
+"280",48,"Twelker, Evan","1178"
+"281",48,"Wildland, Alec D.","1241"
+"282",48,"Wyatt, W. Chris","1266"
+"283",49,"Wypych, Alicja","1267"
+"284",49,"Gavel, Michelle M.","402"
+"285",49,"Naibert, Travis J.","859"
+"286",49,"Avirett, Dylan F.","61"
+"287",49,"Barrera, Michael L.","83"
+"288",49,"Hubbard, Angie K.","527"
+"289",49,"Newberry, Rainer J.","864"
+"290",49,"Regan, Sean P.","986"
+"291",49,"Twelker, Evan","1178"
+"292",49,"Wildland, Alec D.","1241"
+"293",49,"Wyatt, W. Chris","1266"
+"294",50,"Connell, Dylan M","1336"
+"295",50,"Blakely, Richard J","1346"
+"296",50,"Staisch, Lydia M","1347"
+"297",52,"Wilson, T S","1251"
+"298",52,"Wiltermuth, M T","1252"
+"299",52,"Jenni, K E","570"
+"300",52,"Horton, R J","517"
+"301",52,"Hunt, R J","537"
+"302",52,"Williams, D M","1243"
+"303",52,"Nolan, V P","879"
+"304",52,"Aumen, N G","60"
+"305",52,"Brown, D S","163"
+"306",52,"Blasch, K W","125"
+"307",52,"Murdoch, P S","848"
+"308",54,"Maune, David F.","1335"
+"309",57,"Naibert, Travis J.","859"
+"310",57,"Heizler, Matthew T.","489"
+"311",57,"Newberry, Rainer J.","864"
+"312",57,"Twelker, Evan","1178"
+"313",57,"Wypych, Alicja","1267"
+"314",58,"Anderson, E.","35"
+"315",58,"Drenth, Benjamin J.","305"
+"316",58,"Grauch, V. J. S.","434"
+"317",58,"McCafferty, Anne E.","770"
+"318",58,"Shah, A. K.","1052"
+"319",58,"Scheirer, Dan","1033"
+"320",58,"Johnson, Michaela R","1337"
+"321",58,"Ball, L. B.","1348"
+"322",58,"Schweitzer, P. N.","1349"
+"323",58,"Smith, B. D.","1350"
+"324",59,"McCafferty, Anne E.","770"
+"325",59,"Connell, Dylan M","1336"
+"326",60,"Ponce, D.","947"
+"327",60,"Benjamin J Drenth, Ph.D","98"
+"328",61,"Langhans, A D Allen","667"
+"329",61,"Benjamin J Drenth, Ph.D","98"
+"330",61,"Connell, Dylan M","1336"
+"331",62,"Amaral, Chelsea Morgan","31"
+"332",62,"McCafferty, Anne E.","770"
+"333",62,"Connell, Dylan M","1336"
+"334",63,"Langhans, A D Allen","667"
+"335",63,"Macqueen, Patricia G.","728"
+"336",63,"Grauch, V. J. S.","434"
+"337",64,"Grauch, V. J. S.","434"
+"338",64,"Langhans, A D Allen","667"
+"339",64,"Macqueen, Patricia G.","728"
+"340",65,"Shah, A. K.","1052"
+"341",65,"Connell, Dylan M","1336"
+"342",66,"Benjamin J Drenth, Ph.D","98"
+"343",66,"Langhans, A D Allen","667"
+"344",66,"Connell, Dylan M","1336"
+"345",67,"Langhans, A D Allen","667"
+"346",67,"Benjamin J Drenth, Ph.D","98"
+"347",68,"Langhans, A D Allen","667"
+"348",68,"Benjamin J Drenth, Ph.D","98"
+"349",68,"Connell, Dylan M","1336"
+"350",69,"McCafferty, Anne E.","770"
+"351",69,"Johnson, Michaela R","1337"
+"352",70,"Shah, A. K.","1052"
+"353",70,"Connell, Dylan M","1336"
+"354",71,"McCafferty, Anne E.","770"
+"355",71,"Amaral, Chelsea Morgan","31"
+"356",71,"Connell, Dylan M","1336"
+"357",72,"Werdon, Melanie B.","1230"
+"358",72,"Twelker, Evan","1178"
+"359",72,"Emond, A.","327"
+"360",73,"Naibert, Travis J.","859"
+"361",73,"Wypych, Alicja","1267"
+"362",73,"Newberry, Rainer J.","864"
+"363",73,"Twelker, Evan","1178"
+"364",73,"Gavel, Michelle M.","402"
+"365",73,"Wildland, Alec D.","1241"
+"366",73,"Barrera, Michael L.","83"
+"367",73,"Avirett, Dylan F.","61"
+"368",73,"Muller, Izzy P.","845"
+"369",73,"Blackwell, Noel J S","122"
+"370",73,"Szumigala, David J.","1135"
+"371",74,"Wypych, Alicja","1267"
+"372",74,"Naibert, Travis J.","859"
+"373",74,"Newberry, Rainer J.","864"
+"374",74,"Twelker, Evan","1178"
+"375",74,"Gavel, Michelle M.","402"
+"376",74,"Wildland, Alec D.","1241"
+"377",74,"Szumigala, David J.","1135"
+"378",74,"Regan, Sean P.","986"
+"379",74,"Avirett, Dylan F.","61"
+"380",74,"Barrera, Michael L.","83"
+"381",74,"Bernard, Curtis M.","106"
+"382",74,"Blackwell, Noel J S","122"
+"383",74,"Fessenden, Serena N.","359"
+"384",74,"Harvey, David A.","474"
+"385",74,"Hubbard, Angie K.","527"
+"386",74,"Masterman, Steve S.","753"
+"387",74,"Muller, Izzy P.","845"
+"388",74,"Wyatt, W. Chris","1266"
+"389",74,"Turner, M. M.","1338"
+"390",75,"Dicken, C.","292"
+"391",75,"Woodruff, L.","1256"
+"392",75,"Hammarstrom, Jane M.","458"
+"393",76,"Piatak, N.","939"
+"394",76,"White, S J","1239"
+"395",76,"Hayes, S.","478"
+"396",76,"Seal, Robert R. II","996"
+"397",77,"Brown, P J","165"
+"398",77,"Woodruff, L.","1256"
+"399",77,"Cannon, W F","185"
+"400",77,"Benjamin J Drenth, Ph.D","98"
+"401",78,"Twelker, Evan","1178"
+"402",78,"Emond, A.","327"
+"403",78,"Newberry, Rainer J.","864"
+"404",78,"Naibert, Travis J.","859"
+"405",78,"Gavel, Michelle M.","402"
+"406",78,"Buchanan, J W","170"
+"407",79,"Emond, A.","327"
+"408",79,"Fusso, L A","386"
+"409",80,"Emond, A.","327"
+"410",80,"Twelker, Evan","1178"
+"411",81,"Twelker, Evan","1178"
+"412",81,"Wypych, Alicja","1267"
+"413",81,"Sicard, Karri R.","1071"
+"414",81,"Naibert, Travis J.","859"
+"415",81,"Athey, Jennifer E.","58"
+"416",81,"Wyatt, W. Chris","1266"
+"417",81,"Newberry, Rainer J.","864"
+"418",81,"Regan, Sean P.","986"
+"419",81,"Wildland, Alec D.","1241"
+"420",81,"Lopez, Julian A.","707"
+"421",82,"Emond, A.","327"
+"422",83,"Robinson, Devan M.","998"
+"423",83,"Pearson, Anna","918"
+"424",83,"Hickman, John B.","496"
+"425",83,"Lukoczki, Georgina","713"
+"426",83,"Andrews, William M. Jr","596"
+"427",84,"Gavel, Michelle M.","402"
+"428",84,"Wypych, Alicja","1267"
+"429",84,"Naibert, Travis J.","859"
+"430",84,"Avirett, Dylan F.","61"
+"431",84,"Barrera, Michael L.","83"
+"432",84,"Hubbard, Angie K.","527"
+"433",84,"Newberry, Rainer J.","864"
+"434",84,"Regan, Sean P.","986"
+"435",84,"Twelker, Evan","1178"
+"436",84,"Wildland, Alec D.","1241"
+"437",84,"Wyatt, W. Chris","1266"
+"438",85,"Gavel, Michelle M.","402"
+"439",85,"Wypych, Alicja","1267"
+"440",85,"Naibert, Travis J.","859"
+"441",85,"Avirett, Dylan F.","61"
+"442",85,"Barrera, Michael L.","83"
+"443",85,"Hubbard, Angie K.","527"
+"444",85,"Newberry, Rainer J.","864"
+"445",85,"Regan, Sean P.","986"
+"446",85,"Twelker, Evan","1178"
+"447",85,"Wildland, Alec D.","1241"
+"448",85,"Wyatt, W. Chris","1266"
+"449",86,"Gavel, Michelle M.","402"
+"450",86,"Twelker, Evan","1178"
+"451",86,"Wypych, Alicja","1267"
+"452",86,"Naibert, Travis J.","859"
+"453",86,"Newberry, Rainer J.","864"
+"454",86,"Szumigala, David J.","1135"
+"455",86,"Wildland, Alec D.","1241"
+"456",86,"Barrera, Michael L.","83"
+"457",86,"Blackwell, Noel J S","122"
+"458",86,"Fessenden, Serena N.","359"
+"459",86,"Harvey, David A.","474"
+"460",86,"Muller, Izzy P.","845"
+"461",87,"Moshrefzadeh, J.","833"
+"462",87,"Buchanan, J W","170"
+"463",87,"Naibert, Travis J.","859"
+"464",87,"Twelker, Evan","1178"
+"465",87,"Newberry, Rainer J.","864"
+"466",87,"Szumigala, David J.","1135"
+"467",87,"Barrera, Michael L.","83"
+"468",87,"Norwood, L.","880"
+"469",87,"Acosta, M.","6"
+"470",87,"Regan, Sean P.","986"
+"471",88,"Gavel, Michelle M.","402"
+"472",88,"Twelker, Evan","1178"
+"473",88,"Wypych, Alicja","1267"
+"474",88,"Naibert, Travis J.","859"
+"475",88,"Newberry, Rainer J.","864"
+"476",88,"Szumigala, David J.","1135"
+"477",88,"Wildland, Alec D.","1241"
+"478",88,"Barrera, Michael L.","83"
+"479",88,"Biegel, J.","117"
+"480",88,"Harvey, David A.","474"
+"481",88,"Ketcham, R.","621"
+"482",88,"Muller, Izzy P.","845"
+"483",88,"Regan, Sean P.","986"
+"484",89,"Van Gosen, B S","429"
+"485",89,"Choate, L M","207"
+"486",90,"Buchanan, J W","170"
+"487",90,"Wypych, Alicja","1267"
+"488",90,"Barrera, Michael L.","83"
+"489",90,"Biegel, J.","117"
+"490",90,"Gavel, Michelle M.","402"
+"491",90,"Harvey, David A.","474"
+"492",90,"Ketcham, R.","621"
+"493",90,"Muller, Izzy P.","845"
+"494",90,"Naibert, Travis J.","859"
+"495",90,"Newberry, Rainer J.","864"
+"496",90,"Regan, Sean P.","986"
+"497",90,"Szumigala, David J.","1135"
+"498",90,"Twelker, Evan","1178"
+"499",90,"Wildland, Alec D.","1241"
+"500",96,"Naibert, Travis J.","859"
+"501",96,"Wypych, Alicja","1267"
+"502",96,"Newberry, Rainer J.","864"
+"503",96,"Twelker, Evan","1178"
+"504",96,"Gavel, Michelle M.","402"
+"505",96,"Wildland, Alec D.","1241"
+"506",96,"Barrera, Michael L.","83"
+"507",96,"Szumigala, David J.","1135"
+"508",96,"Regan, Sean P.","986"
+"509",96,"Avirett, Dylan F.","61"
+"510",96,"Bernard, Curtis M.","106"
+"511",96,"Blackwell, Noel J S","122"
+"512",96,"Fessenden, Serena N.","359"
+"513",96,"Harvey, David A.","474"
+"514",96,"Hubbard, Angie K.","527"
+"515",96,"Masterman, Steve S.","753"
+"516",96,"Muller, Izzy P.","845"
+"517",96,"Wyatt, W. Chris","1266"
+"518",96,"Turner, M. M.","1338"
+"519",97,"Fitzpatrick, W. A.","1339"
+"520",97,"Stewart, E. D.","1340"
+"521",99,"Benjamin J Drenth, Ph.D","98"
+"522",99,"Hudak, G J","531"
+"523",99,"Souders","1096"
+"524",99,"Block, Amy Radakovich","1351"
+"525",99,"Saari, Stacy","1352"
+"526",100,"Hammarstrom, Jane M.","458"
+"527",100,"Dicken, C.","292"
+"528",101,"Grauch, V. J. S.","434"
+"529",101,"Anderson, E.","35"
+"530",101,"Brown, P J","165"
+"531",101,"Langhans, A D Allen","667"
+"532",102,"Petersen, E I","926"
+"533",102,"Fusso, L A","386"
+"534",102,"Emond, A.","327"
+"535",103,"Emond, A.","327"
+"536",104,"Emond, A.","327"
+"537",104,"Fusso, L A","386"
+"538",105,"Magnin, B P","731"
+"539",105,"Anderson, E.","35"
+"540",106,"Magnin, B P","731"
+"541",106,"Anderson, E.","35"
+"542",108,"Twelker, Evan","1178"
+"543",108,"Newberry, Rainer J.","864"
+"544",108,"Wypych, Alicja","1267"
+"545",108,"Sicard, Karri R.","1071"
+"546",108,"Naibert, Travis J.","859"
+"547",109,"Twelker, Evan","1178"
+"548",109,"Newberry, Rainer J.","864"
+"549",109,"Naibert, Travis J.","859"
+"550",109,"Wypych, Alicja","1267"
+"551",109,"Sicard, Karri R.","1071"
+"552",109,"Regan, Sean P.","986"
+"553",109,"Wildland, Alec D.","1241"
+"554",112,"Emond, A.","327"
+"555",112,"Fusso, L A","386"
+"556",114,"Emond, A.","327"
+"557",116,"Day, Warren C.","270"
+"558",116,"Benjamin J Drenth, Ph.D","98"
+"559",116,"McCafferty, Anne E.","770"
+"560",116,"Shah, A. K.","1052"
+"561",116,"Ponce, D.","947"
+"562",116,"Jones, James V. III","550"
+"563",116,"Grauch, V. J. S.","434"
+"564",117,"Magnin, B P","731"
+"565",117,"Kuiper, Y D","657"
+"566",117,"Anderson, E.","35"
+"567",118,"Fusso, L A","386"
+"568",118,"Petersen, E I","926"
+"569",118,"Emond, A.","327"
+"570",120,"Gavel, Michelle M.","402"
+"571",120,"Regan, Sean P.","986"
+"572",120,"Holland, M. S P","507"
+"573",120,"Wildland, Alec D.","1241"
+"574",120,"Wypych, Alicja","1267"
+"575",120,"Naibert, Travis J.","859"
+"576",120,"Twelker, Evan","1178"
+"577",121,"Naibert, Travis J.","859"
+"578",121,"Wypych, Alicja","1267"
+"579",121,"Twelker, Evan","1178"
+"580",121,"Gavel, Michelle M.","402"
+"581",121,"Wildland, Alec D.","1241"
+"582",121,"Newberry, Rainer J.","864"
+"583",121,"Szumigala, David J.","1135"
+"584",121,"Barrera, Michael L.","83"
+"585",121,"Fessenden, Serena N.","359"
+"586",122,"Emond, A.","327"
+"587",123,"Albinati, A.","19"
+"588",123,"Willis, B T M","1247"
+"589",124,"Murchek, Jacob T.","846"
+"590",124,"Drenth, Benjamin J.","305"
+"591",124,"Emond, A.","327"
+"592",125,"Bedrosian, Paul A.","93"
+"593",125,"Macqueen, Patricia G.","728"
+"594",126,"Phelps, Geoffrey","936"
+"595",127,"Bird, Philip H.","120"
+"596",127,"Drenth, Benjamin J.","305"
+"597",128,"Erber, Nathan","331"
+"598",128,"DeGraff, James M.","280"
+"599",128,"Gannon, Ian M.","391"
+"600",128,"Deering, Chad D.","278"
+"601",128,"Smirnov, Aleksey V.","1085"
+"602",128,"Ahrendt, Gabriel C.","12"
+"603",128,"Essig, Espree E.","340"
+"604",128,"Lizzadro-McPherson, Daniel","697"
+"605",128,"Mroz, Thomas","840"
+"606",128,"Asiala, Carol","56"
+"607",129,"Kreiner, Douglas C.","655"
+"608",129,"Hammarstrom, Jane M.","458"
+"609",129,"Day, Warren C.","270"
+"610",130,"Azain, Jaime S.","64"
+"611",130,"Denham, Andrew T.","284"
+"612",131,"Darin, Michael H.","261"
+"613",131,"Zuza, Andrew V.","1323"
+"614",131,"Dee, Seth","279"
+"615",131,"Johnsen, Racheal L.","580"
+"616",132,"Magnin, B P","731"
+"617",132,"Anderson, E.","35"
+"618",133,"Shah, A. K.","1052"
+"619",133,"Wang, C.","1211"
+"620",134,"Anderson, E.","35"
+"621",134,"Magnin, B P","731"
+"622",134,"Funk, J A","385"
+"623",134,"Attia, S.","59"
+"624",134,"Guzman, M A","445"
+"625",134,"Eastman, K A","316"
+"626",135,"McCafferty, Anne E.","770"
+"627",135,"Amaral, Chelsea Morgan","31"
+"628",135,"Graham, Garth E.","432"
+"629",136,"Meyer, J M","791"
+"630",136,"Kokaly, R F","643"
+"631",136,"Hoefen, T M","503"
+"632",136,"Cox, E M","243"
+"633",136,"Swayze, G A","1132"
+"634",137,"Day, Warren C.","270"
+"635",137,"Grauch, V. J. S.","434"
+"636",138,"Murchek, Jacob T.","846"
+"637",138,"Benjamin J Drenth, Ph.D","98"
+"638",138,"Emond, A.","327"
+"639",140,"Rangarajan, S. S.","974"
+"640",140,"Sunddararaj, S P","1128"
+"641",140,"Sudhakar, A V V","1123"
+"642",141,"Yaxley, Gregory M.","1286"
+"643",141,"Anenburg, Michael","44"
+"644",141,"Tappe, Sebastian","1141"
+"645",141,"Decree, Sophie","277"
+"646",141,"Guzmics, Tibor","446"
+"647",142,"Marscheider-Weidemann, Frank","739"
+"648",142,"Espinoza, Luis A. Tercero","338"
+"649",142,"Angerer, Gerhard","45"
+"650",143,"McMahon, P B","777"
+"651",143,"Belitz, K.","95"
+"652",143,"Reddy, J E","981"
+"653",144,"Dou, Shiquan","1594"
+"654",144,"Xu, Deyi","1595"
+"655",144,"Zhu, Yongguang","1596"
+"656",144,"Keenan, Rodney","1597"
+"657",145,"Peters, S E","929"
+"658",145,"Husson, J M","542"
+"659",147,"Preet, S.","956"
+"660",147,"Smith, S.","1087"
+"661",148,"Brantley, S L","150"
+"662",148,"Shaughnessy, A.","1058"
+"663",148,"Lebedeva, M I","677"
+"664",149,"Vass, C R","1190"
+"665",149,"Noble, A.","878"
+"666",149,"Ziemkiewicz, P F","1318"
+"667",151,"Nygaard, A.","885"
+"668",153,"Sener, S E Can","1050"
+"669",153,"Thomas, V M","1153"
+"670",153,"Hogan, D E","506"
+"671",155,"Zhang, J.","1307"
+"672",155,"Liang, C.","683"
+"673",155,"Dunn, J B","311"
+"674",159,"Lawley, C J M","674"
+"675",159,"McCafferty, Anne E.","770"
+"676",159,"Graham, Garth E.","432"
+"677",159,"Huston, D L","543"
+"678",160,"Anderson, M G","37"
+"679",160,"Clark, M.","218"
+"680",160,"Olivero, A P","890"
+"681",160,"Barnett, A R","80"
+"682",161,"Gnann, S J","422"
+"683",161,"McMillan, H K","778"
+"684",161,"Woods, R A","1257"
+"685",162,"Yuan, L.","1294"
+"686",162,"Liu, Q.","693"
+"687",162,"Mathews, J P","755"
+"688",162,"Zhang, H.","1306"
+"689",162,"Wu, Y.","1265"
+"690",163,"Kamoske, A G","603"
+"691",163,"Dahlin, K M","258"
+"692",163,"Serbin, S P","1051"
+"693",165,"Peduzzi, Pascal","920"
+"694",165,"Lynggaard, Josefine Reimer","722"
+"695",165,"Chuah, Stephanie","213"
+"696",166,"Kelbert, A.","613"
+"697",166,"Bedrosian, Paul A.","93"
+"698",167,"Pradip","953"
+"699",167,"Gautham, B. P.","401"
+"700",167,"Reddy, Sreedhar","982"
+"701",167,"Runkana, Venkataramana","1018"
+"702",168,"Hinze, William J.","1598"
+"703",168,"Chandler, Val W.","1599"
+"704",169,"Moidu, H.","812"
+"705",169,"Obedzinski, M.","886"
+"706",169,"Carlson, S M","187"
+"707",170,"Jia, Y.","574"
+"708",170,"Liu, Y.","695"
+"709",171,"Milinovic, J.","795"
+"710",171,"Rodrigues, F J L","1001"
+"711",171,"Barriga, F J A S","84"
+"712",171,"Murton, B J","851"
+"713",172,"Hine, A.","498"
+"714",172,"Gibson, C.","416"
+"715",172,"Mayes, R.","764"
+"716",174,"Macdonald, F A","724"
+"717",174,"Yonkee, W A","1290"
+"718",174,"Flowers, R M","371"
+"719",177,"Hofstra, A H","505"
+"720",177,"Lisitsin, V.","690"
+"721",177,"Corriveau, L.","238"
+"722",177,"Paradis, S.","909"
+"723",177,"Peter, J.","930"
+"724",177,"Lauzière, K.","673"
+"725",177,"Lawley, C J M","674"
+"726",177,"Gadd, M G","388"
+"727",177,"Pilote, J.","940"
+"728",177,"Honsberger, I.","512"
+"729",177,"Bastrakov, E.","87"
+"730",177,"Champion, D.","192"
+"731",177,"Czarnota, K.","257"
+"732",177,"Doublier, M.","301"
+"733",177,"Huston, D L","543"
+"734",177,"Raymond, O.","978"
+"735",177,"VanDerWielen, S.","1187"
+"736",177,"Emsbo, Poul","328"
+"737",177,"Granitto, M.","433"
+"738",177,"Kreiner, Douglas C.","655"
+"739",178,"Stackelberg, P E","1101"
+"740",178,"Belitz, K.","95"
+"741",178,"Brown, C J","162"
+"742",178,"Erickson, M L","333"
+"743",182,"Gootman, K S","428"
+"744",182,"Kellner, E.","617"
+"745",182,"Hubbart, J A","528"
+"746",183,"Krall, L.","654"
+"747",183,"McCartin, T.","772"
+"748",183,"Macfarlane, A.","725"
+"749",184,"Harrison, H N","469"
+"750",184,"Hammond, J C","459"
+"751",184,"Kampf, S.","605"
+"752",185,"Parnell, J.","915"
+"753",185,"Boyce, A J","142"
+"754",185,"Brolly, Connor","1600"
+"755",186,"Xu, Yuankun","1272"
+"756",186,"Schulz, W H","1041"
+"757",186,"Lu, Z.","720"
+"758",187,"Stokes, Maya F.","1117"
+"759",187,"Kim, D.","628"
+"760",187,"Gallen, S F","390"
+"761",187,"Benavides, E.","97"
+"762",187,"Keck, B P","612"
+"763",188,"Beckwith","90"
+"764",188,"Byrne, Robert H.","1601"
+"765",188,"Hallock, Pamela","1602"
+"766",190,"Bouton, Anthony","136"
+"767",190,"Vennin, Emmanuelle","1192"
+"768",190,"Amiotte-Suchet, Philippe","33"
+"769",190,"Thomazo, Christophe","1154"
+"770",190,"Sizun, Jean-Pierre","1082"
+"771",190,"Virgone, Aurélien","1197"
+"772",190,"Gaucher, Eric C.","400"
+"773",190,"Visscher, Pieter T.","1199"
+"774",194,"McCafferty, Anne E.","770"
+"775",194,"Phillips, Jan-Claire","938"
+"776",194,"Hofstra, A H","505"
+"777",194,"Day, Warren C.","270"
+"778",195,"Tracy, B S","1169"
+"779",196,"Shirzaditabar, Farzad","1067"
+"780",196,"Heck, Richard J.","482"
+"781",197,"Weil, A B","1225"
+"782",197,"Yonkee, A.","1289"
+"783",198,"Collar, Natalie M.","227"
+"784",199,"Clune, J W","222"
+"785",199,"Crawford, J K","249"
+"786",199,"Chappell, W T","194"
+"787",200,"Stokes, Maya F.","1117"
+"788",200,"Larsen, I J","669"
+"789",200,"Goldberg, S L","424"
+"790",201,"Carter, David R.","189"
+"791",201,"Allen, H. Lee","25"
+"792",201,"Fox, Thomas R.","379"
+"793",201,"Albaugh, Timothy J.","18"
+"794",201,"Rubilar, Rafael A.","1014"
+"795",201,"Campoe, Otávio C.","181"
+"796",201,"Cook, Rachel L.","231"
+"797",202,"Belitz, K.","95"
+"798",202,"Watson, E.","1223"
+"799",202,"Johnson, T D","583"
+"800",202,"Sharpe, J.","1056"
+"801",203,"Rodgers, K.","1000"
+"802",203,"Roland, V.","1005"
+"803",203,"Hoos, A.","514"
+"804",203,"Crowley-Ornelas, E.","251"
+"805",206,"Bailey, R T","70"
+"806",206,"Arnold, J G","52"
+"807",207,"Vennin, Emmanuelle","1192"
+"808",207,"Smith, Christopher P. A.","1603"
+"809",207,"Laville, Thomas","1604"
+"810",207,"Fara, Emmanuel","1605"
+"811",207,"Escarguel, Gilles","1606"
+"812",207,"Olivier, Nicolas","1607"
+"813",207,"Goudemand, Nicolas","1608"
+"814",207,"Bylund, Kevin G.","1609"
+"815",207,"Jenks, James F.","1610"
+"816",207,"Stephen, Daniel A.","1611"
+"817",207,"Hautmann, Michael","1612"
+"818",207,"Charbonnier, Sylvain","1613"
+"819",207,"Krumenacker, L. J.","1614"
+"820",207,"Brayard, Arnaud","1615"
+"821",208,"Grover, Henry","440"
+"822",208,"Bowker, Matthew A.","1616"
+"823",208,"Fule, Peter Z.","1617"
+"824",208,"Doherty, Kyle D.","1618"
+"825",208,"Sieg, Carolyn H.","1619"
+"826",208,"Antoninka, Anita J.","1620"
+"827",210,"Ku, A Y","662"
+"828",210,"Alonso, E.","30"
+"829",210,"Eggert, R.","320"
+"830",210,"Graedel, T.","430"
+"831",210,"Habib, K.","449"
+"832",210,"Hool, A.","513"
+"833",211,"Simandl, L.","1075"
+"834",211,"Simandl, G J","1074"
+"835",211,"Paradis, S.","909"
+"836",212,"Rosera, Joshua M.","1008"
+"837",212,"Gaynor, Sean P.","404"
+"838",213,"Scott, C.","1045"
+"839",213,"Kolker, A.","644"
+"840",214,"Stergiou, C L","1110"
+"841",214,"Melfos, V.","784"
+"842",214,"Voudouris, P.","1201"
+"843",214,"Papadopoulou, L.","906"
+"844",215,"Lederer, Graham W.","678"
+"845",215,"Solano, Federico","1091"
+"846",215,"Coyan, J A","246"
+"847",215,"Denton, K M","286"
+"848",216,"Reed, C C","983"
+"849",216,"Berhe, A A","105"
+"850",216,"Moreland, K C","822"
+"851",217,"Kintner, J A","633"
+"852",217,"Cleveland, K. Michael","220"
+"853",221,"Parker, S S","910"
+"854",221,"Clifford, M J","221"
+"855",221,"Cohen, B S","224"
+"856",223,"Knierim, K J","639"
+"857",223,"Blondes, M S","128"
+"858",223,"Masterson, A.","754"
+"859",223,"Freeman, P.","381"
+"860",225,"Bajnai, D.","72"
+"861",225,"Coplen, T B","233"
+"862",225,"Methner, K.","790"
+"863",229,"Hauchecorne, Pauline","475"
+"864",229,"Gity, Farzan","420"
+"865",229,"Martin, Mickael","746"
+"866",229,"Okuno, Hanako","889"
+"867",229,"Bhattacharjee, Shubhadeep","114"
+"868",229,"Moeyaert, Jérémy","808"
+"869",229,"Rouchon, Denis","1010"
+"870",229,"Hyot, Bérangère","544"
+"871",229,"Hurley, Paul K.","538"
+"872",229,"Baron, Thierry","82"
+"873",231,"Rooney, A D","1006"
+"874",231,"Hnatyshin, D.","501"
+"875",231,"Toma, J.","1165"
+"876",232,"Geyin, M.","410"
+"877",232,"Maurer, B W","763"
+"878",233,"McLaughlin, P I","774"
+"879",233,"Stigall","1113"
+"880",234,"Zhang, Steven E","1309"
+"881",234,"Lawley, C J M","674"
+"882",234,"Bourdeau, J E","135"
+"883",234,"Nwaila, G T","883"
+"884",234,"Ghorbani, Y.","413"
+"885",235,"Johnson, K.","582"
+"886",235,"Harpold, A.","468"
+"887",235,"Carroll, R W H","188"
+"888",237,"Rosera, Joshua M.","1008"
+"889",237,"Gaynor, Sean P.","404"
+"890",237,"Coleman, Drew S.","225"
+"891",237,"Frazer, Ryan E.","1621"
+"892",237,"Mills, Ryan D.","1622"
+"893",237,"Jacob, Kristin","1623"
+"894",237,"Farmer, G. Lang","1624"
+"895",239,"Jones, James V. III","550"
+"896",239,"Todd, Erin","1163"
+"897",239,"Box, S E","141"
+"898",239,"Haeussler, P J","450"
+"899",242,"Nwaila, G T","883"
+"900",242,"Bourdeau, J E","135"
+"901",242,"Zhang, Steven E","1309"
+"902",242,"Chipangamate, N.","206"
+"903",243,"Ge, Jianping","1625"
+"904",243,"Liu, Jiaqi","1626"
+"905",245,"Gadd, M G","388"
+"906",245,"Lawley, C J M","674"
+"907",245,"Corriveau, L.","238"
+"908",245,"Houlé, M.","520"
+"909",246,"Park, Jehee","913"
+"910",246,"Han, Jinhyup","464"
+"911",246,"Gim, Jihyeon","418"
+"912",246,"Garcia, Juan","394"
+"913",246,"Iddir, Hakim","545"
+"914",246,"Ahmed, Shabbir","11"
+"915",246,"Xu, Gui-Liang","1271"
+"916",246,"Amine, Khalil","32"
+"917",246,"Johnson, Christopher","581"
+"918",246,"Jung, Youngjae","597"
+"919",246,"Kim, Youngsik","631"
+"920",246,"Bak, Seong-Min","74"
+"921",246,"Lee, Eungje","680"
+"922",247,"Meter, K J Van","789"
+"923",247,"Schultz, V O","1038"
+"924",248,"Morrison, S M","827"
+"925",248,"Prabhu, A.","952"
+"926",248,"Eleish, A.","322"
+"927",248,"Hazen, R M","479"
+"928",249,"Cushway, K C","256"
+"929",249,"Schwalb, A N","1042"
+"930",250,"Eurich, A.","343"
+"931",250,"Kampf, S.","605"
+"932",250,"Hammond, J C","459"
+"933",252,"Kelley, K.","614"
+"934",252,"Graham, Garth E.","432"
+"935",252,"Pfaff, K.","932"
+"936",252,"Lowers, H A","709"
+"937",254,"Britt, A F","158"
+"938",254,"Czarnota, K.","257"
+"939",255,"Hale, T N","453"
+"940",255,"Ali, S H","24"
+"941",258,"Boyd, O S","143"
+"942",258,"Churchwell, D.","214"
+"943",258,"Moschetti, M P","832"
+"944",259,"Davey, S C","265"
+"945",259,"Bleeker, W.","126"
+"946",259,"Kamo, S L","604"
+"947",259,"Ernst, R E","335"
+"948",260,"Andersen, A.","40"
+"949",260,"Lai, J.","664"
+"950",260,"Marshak, S.","740"
+"951",265,"Shao Liuguo","1627"
+"952",265,"Lan, Tingting","1628"
+"953",267,"Hakim, A Y A","451"
+"954",267,"Sunjaya, D.","1129"
+"955",267,"Hede, A N H","484"
+"956",268,"Davies, R S","268"
+"957",268,"Trott, M L","1175"
+"958",268,"Georgi, J.","407"
+"959",268,"Farrar, A.","350"
+"960",271,"Wilson, S.","1250"
+"961",271,"Bhaskar, A S","113"
+"962",271,"Choat, B.","208"
+"963",271,"Kampf, S.","605"
+"964",272,"Boyd, O S","143"
+"965",273,"Lupulescu, M V","717"
+"966",273,"Chiarenzelli, J R","203"
+"967",273,"Pecha, M E","919"
+"968",273,"Singer, J W","1079"
+"969",275,"Natkaniec-Nowak, L.","861"
+"970",278,"Campos, D S De","182"
+"971",278,"Monteiro, H S","818"
+"972",280,"Schulz, E Y","1039"
+"973",280,"Morrison, R R","826"
+"974",280,"Bailey, R T","70"
+"975",281,"Beyene, M T","110"
+"976",281,"Leibowitz, S G","681"
+"977",282,"Shaughnessy, A.","1058"
+"978",282,"Brantley, S L","150"
+"979",283,"Elicki, Olaf","323"
+"980",283,"Meischner, Tim","782"
+"981",283,"Gürsu, Semih","443"
+"982",283,"Ghienne, Jean-François","412"
+"983",283,"Masri, Ahmad","749"
+"984",283,"Moumani, Khaled Ali","834"
+"985",283,"Demircan, Huriye","282"
+"986",284,"Mathew, J J","756"
+"987",284,"Zhang, Y.","1311"
+"988",284,"Flores, P.","370"
+"989",287,"An, Q.","48"
+"990",287,"Xia, Qifan","1629"
+"991",287,"Du, Debin","1630"
+"992",287,"Yu, Zihao","1631"
+"993",287,"Li, Xiya","1632"
+"994",287,"Zhang, Qiang","1633"
+"995",293,"Smelror, M.","1084"
+"996",293,"Hanghøj, K.","461"
+"997",293,"Schiellerup, H.","1035"
+"998",294,"Holland, M. S P","507"
+"999",294,"Mohr, M.","811"
+"1000",294,"Schmitz, M.","1037"
+"1001",294,"Madronich, L.","730"
+"1002",297,"Allison, S.","26"
+"1003",297,"Martinez, D.","743"
+"1004",298,"Fame, M L","349"
+"1005",298,"Chilton, K D","205"
+"1006",298,"Spotila, J A","1100"
+"1007",299,"Korus, J T","647"
+"1008",299,"Joeckel, R M","579"
+"1009",302,"Pandey, R.","902"
+"1010",302,"Krmíček, L.","656"
+"1011",302,"Müller, D.","805"
+"1012",302,"Pandey, A.","901"
+"1013",305,"Mudd, G M","842"
+"1014",305,"Werner, T T","1231"
+"1015",305,"Weng, Z.","1228"
+"1016",305,"Thorne, J.","1156"
+"1017",306,"Milinovic, J.","795"
+"1018",306,"Rodrigues, F J L","1001"
+"1019",306,"Barriga, F J A S","84"
+"1020",306,"Murton, B J","851"
+"1021",308,"Lutz, B M","718"
+"1022",308,"Hudson, M R","533"
+"1023",308,"Smith, T M","1088"
+"1024",308,"Dechesne, M.","276"
+"1025",309,"Quinn, D P","967"
+"1026",309,"Idzikowski, C R","546"
+"1027",312,"Shin, D.","1065"
+"1028",312,"Park, Junhyeok","1634"
+"1029",312,"Park, Junhyeok","1634"
+"1030",312,"Cho, Seong-Jun","1635"
+"1031",312,"Shin, Seungwook","1636"
+"1032",312,"Kim, Rina","1637"
+"1033",312,"Shin, Youngjae","1638"
+"1034",312,"Park, Junhyeok","1634"
+"1035",312,"Park, Junhyeok","1634"
+"1036",313,"Yuan, L.","1294"
+"1037",313,"Liu, Q.","693"
+"1038",313,"Li, Kuo","698"
+"1039",313,"Quan, Ying","966"
+"1040",314,"Alenazey, F.","21"
+"1041",314,"Batchu, Rakesh","1639"
+"1042",314,"Thompson, Zachary","1640"
+"1043",314,"Fang, Zongtang","1641"
+"1044",314,"Windes, William E.","1642"
+"1045",314,"Dufek, Eric J.","1643"
+"1046",314,"Fushimi, Rebecca R.","1644"
+"1047",317,"Hickin, A S","495"
+"1048",317,"Ootes, L.","894"
+"1049",317,"Orovan, E A","895"
+"1050",317,"Brzozowski, M J","168"
+"1051",318,"Whittle, D.","1240"
+"1052",318,"Yellishetty, M.","1288"
+"1053",318,"Walsh, S.","1208"
+"1054",318,"Mudd, D.","841"
+"1055",323,"May, P.","766"
+"1056",323,"Rekabdarkolaee, H M","988"
+"1057",324,"Briggs, M A","156"
+"1058",324,"Newman, C.","865"
+"1059",324,"Benton, J R","103"
+"1060",325,"Vaka, D S","1185"
+"1061",325,"Yaragunda, V R","1284"
+"1062",325,"Perdikou, S.","924"
+"1063",326,"Rosera, Joshua M.","1008"
+"1064",326,"Gaynor, Sean P.","404"
+"1065",326,"Ulianov, A.","1180"
+"1066",326,"Schaltegger, U.","1032"
+"1067",327,"Kovach-Hammons, A M","649"
+"1068",327,"Marshall, J M","741"
+"1069",328,"Respess, Zachary M.","990"
+"1070",328,"Duncan, Jonathan M.","310"
+"1071",329,"Dong, D T","297"
+"1072",329,"Qiu, L W","964"
+"1073",329,"Ma, P J","767"
+"1074",329,"Yu, G D","1297"
+"1075",329,"Wang, Y Z","1216"
+"1076",330,"Holsopple, A R","509"
+"1077",331,"Trcka, A R","1170"
+"1078",333,"Stegen, R J","1109"
+"1079",333,"Barton, M D","85"
+"1080",333,"Waegli, J A","1206"
+"1081",334,"Moye, C D","837"
+"1082",335,"Creason, C G","250"
+"1083",335,"Montross, S N","819"
+"1084",335,"Justman, D M","598"
+"1085",336,"Gaynor, Sean P.","404"
+"1086",336,"Rosera, Joshua M.","1008"
+"1087",336,"Coleman, Drew S.","225"
+"1088",337,"Ling, X.","686"
+"1089",337,"Li, Q.","701"
+"1090",337,"Feng, L.","355"
+"1091",337,"Zhang, D.","1304"
+"1092",337,"Liu, Y.","695"
+"1093",337,"Tang, G.","1139"
+"1094",337,"Jones, James V. III","550"
+"1095",337,"Wu, S.","1263"
+"1096",338,"DeAngelo, J.","274"
+"1097",338,"Shervais, J W","1063"
+"1098",338,"Glen, Jonathan M G","421"
+"1099",338,"Nielson, D.","872"
+"1100",338,"Garg, S.","398"
+"1101",339,"Murphy, S F","849"
+"1102",339,"Blake, Johanna M.","578"
+"1103",339,"Ebel, B A","317"
+"1104",341,"Erdey, László","332"
+"1105",341,"Fenyves, Veronika","356"
+"1106",341,"Márkus, Ádám","838"
+"1107",341,"Tőkés, Tibor","1162"
+"1108",342,"Meszaros, Nicholas F.","788"
+"1109",342,"Zimmerer, Mathew","1320"
+"1110",342,"Gardner, James E.","395"
+"1111",343,"Ramsey, P Q","972"
+"1112",343,"Dattilo, J.","263"
+"1113",343,"DeVries, D R","288"
+"1114",344,"Meszaros, Nicholas F.","788"
+"1115",344,"Gardner, James E.","395"
+"1116",344,"Zimmerer, Mathew","1320"
+"1117",345,"Peterson, Dean M.","928"
+"1118",345,"Kampf, S.","605"
+"1119",346,"Watkins, L.","1222"
+"1120",347,"Ramsey, P Q","972"
+"1121",348,"Graham, Matthew R.","1645"
+"1122",348,"Garcia, Erika L.","1646"
+"1123",348,"Hendrixson, Brent E.","1647"
+"1124",348,"Sampognaro, Alyssa M.","1648"
+"1125",348,"Cushing, Paula E.","1649"
+"1126",349,"Driscoll, K P","307"
+"1127",349,"Smith, D M","1086"
+"1128",355,"Chen, Y L","200"
+"1129",355,"Chiang, W P","202"
+"1130",355,"Hsieh, P Y","524"
+"1131",356,"MacRae, C M","729"
+"1132",356,"Pearce, M A","917"
+"1133",356,"Wilson, N C","1249"
+"1134",357,"Konuk, Adnan","646"
+"1135",357,"Gürsoy, Yaşar Hakan","442"
+"1136",357,"Ak, Hakan","15"
+"1137",360,"Kreiner, Douglas C.","655"
+"1138",360,"Holm-Denoma, C S","508"
+"1139",361,"Corriveau, L.","238"
+"1140",361,"Jean-François, M.","566"
+"1141",362,"White, S J","1239"
+"1142",362,"Kane, T J","606"
+"1143",362,"Campbell, Kate M.","180"
+"1144",365,"Finn, C A","363"
+"1145",365,"Zientek, M.","1319"
+"1146",365,"Bloss, B R","129"
+"1147",365,"Parks, H.","912"
+"1148",367,"Yang, Yanshen","1281"
+"1149",367,"Pan, X.","904"
+"1150",367,"Yang, Zhiming","1650"
+"1151",367,"Li, Xin","1651"
+"1152",367,"Hou, Zengqian","1652"
+"1153",368,"Kinska, Katarzyna","1653"
+"1154",368,"Pietrak, Justyna","1654"
+"1155",368,"Sosnowska, Elzbieta","1655"
+"1156",368,"Sadowska, Monika","1656"
+"1157",368,"Krasnodebska-Ostrega, Beata","1657"
+"1158",369,"Corchado-Albelo, J L","236"
+"1159",369,"Locmelis, M.","704"
+"1160",370,"Hurtig, Nicole C.","540"
+"1161",370,"Gysi, Alexander P.","448"
+"1162",370,"Monecke, Thomas","816"
+"1163",370,"Petersen, Sven","927"
+"1164",370,"Hannington, Mark D.","463"
+"1165",372,"Jacobs, J E","559"
+"1166",372,"Stanfield, C H","1103"
+"1167",372,"Miller, Q R S","799"
+"1168",376,"Wildland, Alec D.","1241"
+"1169",377,"Heptinstall, E A","491"
+"1170",377,"Parnell, J.","915"
+"1171",377,"Boyce, A J","142"
+"1172",378,"Smelror, M.","1084"
+"1173",378,"Hanghøj, K.","461"
+"1174",378,"Schiellerup, H.","1035"
+"1175",380,"Hale, K E","452"
+"1176",380,"Musselman, K N","854"
+"1177",380,"Bjarke, N R","121"
+"1178",381,"Ferguson, Christina L.","223"
+"1179",381,"Blake, Johanna M.","578"
+"1180",382,"Hillman, A.","497"
+"1181",382,"Nielsen, Scott E.","871"
+"1182",383,"Clune, J W","222"
+"1183",383,"Cravotta, C A  III","548"
+"1184",383,"Husic, A.","541"
+"1185",383,"Dozier, H J","304"
+"1186",384,"Stearman, Loren W.","1104"
+"1187",384,"Heitmuller, F T","488"
+"1188",385,"Sundberg, F A","1127"
+"1189",385,"Cothren, H R","239"
+"1190",386,"DeWitt, J D","289"
+"1191",386,"Ashland, F X","55"
+"1192",387,"Counts, J W","241"
+"1193",387,"Craddock, W H","247"
+"1194",388,"Casey, C P","190"
+"1195",388,"Hartings, M R","471"
+"1196",388,"Knapp, M A","638"
+"1197",389,"Knight, A C","640"
+"1198",391,"Amaral, Chelsea Morgan","31"
+"1199",391,"Lamb, A P","665"
+"1200",391,"Dumond, G.","309"
+"1201",392,"Coyan, J A","246"
+"1202",392,"Solano, Federico","1091"
+"1203",392,"Taylor, C.","1143"
+"1204",392,"Finn, C A","363"
+"1205",392,"Smith, S.","1087"
+"1206",393,"Lebit, Hermann","1658"
+"1207",393,"Brunner, Benjamin","1659"
+"1208",393,"Kharitonova, Natalya","1660"
+"1209",393,"Deemer, Eva","1661"
+"1210",394,"Yang, D C","1278"
+"1211",394,"Hou, T.","523"
+"1212",394,"Song, W.","1094"
+"1213",394,"Qin, J.","962"
+"1214",394,"Luo, D.","716"
+"1215",394,"Wang, M.","1214"
+"1216",396,"Naibert, Travis J.","859"
+"1217",396,"Wypych, Alicja","1267"
+"1218",396,"Twelker, Evan","1178"
+"1219",398,"Langenheim, V.","666"
+"1220",398,"Graymer, R.","436"
+"1221",398,"Powell, R.","950"
+"1222",398,"Schmidt, K.","1036"
+"1223",398,"Sweetkind, D S","1133"
+"1224",399,"Timbie, J.","1159"
+"1225",399,"Deutch, J.","287"
+"1226",399,"Ewing, R.","346"
+"1227",399,"Ellis, J O Jr","593"
+"1228",399,"Ram, R.","973"
+"1229",399,"Park, Sulgiye","914"
+"1230",400,"Anderson, P J","38"
+"1231",400,"Tillery, A C","1158"
+"1232",402,"Yang, Yanshen","1281"
+"1233",402,"Pan, X.","904"
+"1234",402,"Liu, B.","691"
+"1235",402,"Dong, J.","298"
+"1236",403,"Brennan, D T","152"
+"1237",403,"Box, S E","141"
+"1238",403,"Eyster, A.","347"
+"1239",404,"Whittle, D.","1240"
+"1240",404,"Yellishetty, M.","1288"
+"1241",404,"Walsh, S.","1208"
+"1242",404,"Mudd, G M","842"
+"1243",406,"Pratt, T. L.","954"
+"1244",406,"Chapman, M C","193"
+"1245",406,"Wu, Q.","1262"
+"1246",407,"Oktavianus, Ignasius Dwi","1662"
+"1247",407,"Aswar, Muhammad","1663"
+"1248",407,"Saleh, Muhammad Hairul","1664"
+"1249",407,"Ahmadi, Zahra","1665"
+"1250",409,"Hedrick, G.","485"
+"1251",410,"Bowman, R L","139"
+"1252",411,"Belcher, B R","94"
+"1253",413,"Luckie, T W","712"
+"1254",413,"Porritt, R W","949"
+"1255",414,"Nielsen, M G","870"
+"1256",414,"Martin, S L","747"
+"1257",415,"Stahl, Leigha M.","1666"
+"1258",415,"Snead, Anthony A.","1667"
+"1259",415,"Olson, Julie B.","1668"
+"1260",416,"Canfield, D E","183"
+"1261",416,"Naemi, A.","857"
+"1262",417,"Kemper, J T","618"
+"1263",417,"Knox, R.","642"
+"1264",417,"Raffae, M.","968"
+"1265",417,"Schulz, E Y","1039"
+"1266",418,"Bailey, R T","70"
+"1267",418,"Abbas, S.","1"
+"1268",418,"Arnold, J G","52"
+"1269",418,"White, Michael J. ","1494"
+"1270",419,"Morris, A B","828"
+"1271",419,"Visger, C J","1198"
+"1272",419,"Fox, S J","378"
+"1273",419,"Scalf, C.","1030"
+"1274",419,"Fleming, S.","369"
+"1275",420,"Bern, C R","107"
+"1276",420,"Ruckhaus, M H","1015"
+"1277",420,"Hennessy, E.","490"
+"1278",422,"Snyder, S D","1090"
+"1279",422,"Sutton, W B","1131"
+"1280",422,"Steen, D A","1108"
+"1281",423,"Stearman, Loren W.","1104"
+"1282",424,"Jess, S.","571"
+"1283",424,"Enkelmann, E.","329"
+"1284",424,"Matthews, W A","760"
+"1285",425,"Blake, Johanna M.","578"
+"1286",425,"Ferguson, Christina L.","223"
+"1287",425,"Brown, Jeb E.","572"
+"1288",425,"Bixby, Rebecca J.","881"
+"1289",426,"Shaughnessy, A.","1058"
+"1290",427,"Rosera, Joshua M.","1008"
+"1291",427,"Coleman, Drew S.","225"
+"1292",428,"Merriman, C W","786"
+"1293",429,"Geyin, M.","410"
+"1294",429,"Maurer, B W","763"
+"1295",430,"Cheng, Y.","199"
+"1296",431,"Board, D I","130"
+"1297",431,"Dilts, T E","295"
+"1298",431,"Weisberg, P J","1226"
+"1299",432,"Yu, Q.","1298"
+"1300",433,"Coons, Aaron L.","232"
+"1301",434,"Zhang, Z.","1312"
+"1302",434,"Tian, Y.","1157"
+"1303",434,"Wang, C.","1211"
+"1304",434,"Wang, Xin","1215"
+"1305",437,"Fisher, R N","365"
+"1306",437,"Fisher, S R","366"
+"1307",438,"John S. Placyk, Jr","584"
+"1308",438,"Laszlo, Ava","671"
+"1309",438,"Broadbent, Ashley","159"
+"1310",438,"Hertweck, Kate L.","492"
+"1311",438,"Williams, Lance R.","1244"
+"1312",438,"Williams, Marsha B.","1245"
+"1313",438,"Banta, Joshua A.","76"
+"1314",439,"Takahashi, Yuhei","1669"
+"1315",443,"Coube-Sisqueille, S.","240"
+"1316",444,"Rumman, R.","1017"
+"1317",444,"Alam, M S","16"
+"1318",445,"Hamedani, Saleheh A. Nabavi","1670"
+"1319",445,"Amjad-Iranagh, Sepideh","1671"
+"1320",445,"Dehghani, Kamran","1672"
+"1321",446,"Liimatainen, T.","684"
+"1322",447,"She, A.","1064"
+"1323",448,"Villar, J E","1196"
+"1324",448,"Corral, F J G","237"
+"1325",450,"Simões, V H P","1076"
+"1326",453,"Breasley, C M","151"
+"1327",453,"Barker, I R","77"
+"1328",453,"Linnen, R L","687"
+"1329",454,"Fewell, J S","360"
+"1330",456,"Mercer, Celestine N","785"
+"1331",456,"Roberge, J.","995"
+"1332",456,"Khoury, R M","624"
+"1333",457,"Barton, Isabel","1673"
+"1334",458,"Davarpanah, A.","264"
+"1335",458,"Babaie, H A","68"
+"1336",458,"Elliott, W C","324"
+"1337",459,"Stafford, K T","1102"
+"1338",460,"Vikre, P.","1195"
+"1339",460,"John, D A","586"
+"1340",460,"Wintzer, N E","1255"
+"1341",460,"Koutz, F.","648"
+"1342",460,"Graybeal, F.","435"
+"1343",463,"Chellman, K.","198"
+"1344",465,"Moshrefzadeh, J.","833"
+"1345",473,"Whitenburg, Luke","1236"
+"1346",474,"Ertons, Melanie L.","337"
+"1347",476,"Song, S.","1093"
+"1348",476,"Morelli, L.","823"
+"1349",476,"Wu, X.","1264"
+"1350",476,"Qin, R.","963"
+"1351",476,"Albanwan, H.","17"
+"1352",476,"Remondino, F.","989"
+"1353",477,"Morin-Ka, S.","825"
+"1354",477,"Gonzalez-Alvarez, I.","427"
+"1355",477,"Duuring, P.","314"
+"1356",478,"Dae-yong, Kim","1674"
+"1357",478,"Seung-yeol, Lee","1675"
+"1358",479,"Niri, A. Jannesar","876"
+"1359",479,"Poelzer, G A","943"
+"1360",479,"Pettersson, M.","931"
+"1361",479,"Rosenkranz, J.","1007"
+"1362",480,"Runganga, Desire","1676"
+"1363",480,"Ashworth, Peta","1677"
+"1364",480,"Bharadwaj, Bishal","1678"
+"1365",482,"Kablan, O A B K","601"
+"1366",482,"Wang, B.","1210"
+"1367",482,"Shi, Y.","1068"
+"1368",482,"Shah, S Y A","1053"
+"1369",483,"Crowley, C W","252"
+"1370",483,"Stern, R J","1111"
+"1371",484,"Hornuf, L.","515"
+"1372",484,"Klerner, J.","636"
+"1373",484,"Schweizer, D.","1043"
+"1374",484,"Vrankar, D.","1202"
+"1375",485,"Park, Junhyeok","1634"
+"1376",485,"Park, Junhyeok","1634"
+"1377",485,"Cho, Seong-Jun","1635"
+"1378",485,"Bang, Minkyu","1679"
+"1379",485,"Jin, Taeyoung","1680"
+"1380",485,"Park, Junhyeok","1634"
+"1381",485,"Park, Junhyeok","1634"
+"1382",486,"Gaschnig, R.","399"
+"1383",486,"Lewis, R S","682"
+"1384",486,"Buddington, A.","172"
+"1385",486,"Mato, K.","758"
+"1386",487,"Brennan, D T","152"
+"1387",487,"Box, S E","141"
+"1388",487,"Eyster, A.","347"
+"1389",488,"Araujo, I P","49"
+"1390",489,"Lozano, Cristian David Gomez","710"
+"1391",489,"Pfennig, Andreas","934"
+"1392",489,"Gaydardzhiev, Stoyan","403"
+"1393",490,"Torrez, L F A","1167"
+"1394",496,"Bang, Minkyu","1679"
+"1395",496,"Cho, Seong-Jun","1635"
+"1396",496,"Jin, Taeyoung","1680"
+"1397",496,"Park, Junhyeok","1634"
+"1398",498,"Murchland, M A","847"
+"1399",499,"Davies, R S","268"
+"1400",499,"Trott, M L","1175"
+"1401",499,"Georgi, J.","407"
+"1402",499,"Farrar, A.","350"
+"1403",500,"ADIGÜZEL, Duygu","9"
+"1404",504,"Bilham, R.","118"
+"1405",504,"Hough, S E","519"
+"1406",505,"Theilen-Willige, Prof.Dr.habil. Barbara","1148"
+"1407",506,"Fikru, M G","362"
+"1408",506,"Nguyen, N.","867"
+"1409",506,"Awuah-Offei, K.","62"
+"1410",507,"Getch, J.","409"
+"1411",508,"Puente, P.","958"
+"1412",510,"Zhao, Rui","1686"
+"1413",510,"Wang, Haihua","1687"
+"1414",510,"Fang, Daren","1688"
+"1415",510,"Hu, Xinqi","1689"
+"1416",511,"Suhey, J M","1124"
+"1417",512,"Magnin, B P","731"
+"1418",512,"Brake, S S","147"
+"1419",512,"Kuiper, Y D","657"
+"1420",513,"Weisberg, P J","1226"
+"1421",513,"Arienzo, Monica M.","1690"
+"1422",513,"NA","1691"
+"1423",513,"Sexstone, Graham A.","1692"
+"1424",513,"Gustin, Mae Sexauer","1693"
+"1425",513,"Schwan, Melissa R.","1694"
+"1426",513,"Melissa R.","1695"
+"1427",513,"Choma, Nicole","1696"
+"1428",513,"Dunham-Cheatham, Sarrah M.","1697"
+"1429",513,"McConnell, Joseph R.","1698"
+"1430",513,"Csank, Adam","1699"
+"1431",514,"Oráč, D.","896"
+"1432",514,"Laubertová, M.","672"
+"1433",514,"Molnár, F.","815"
+"1434",514,"Klimko, J.","637"
+"1435",514,"Marcinov, V.","737"
+"1436",514,"Piroskova, Jana","1700"
+"1437",515,"Brennan, D T","152"
+"1438",515,"Box, S E","141"
+"1439",515,"Eyster, A.","347"
+"1440",516,"Cicek, Z.","217"
+"1441",517,"May, P.","766"
+"1442",520,"Westerhof, A B Phil","1233"
+"1443",520,"Beunk, Frank F.","109"
+"1444",524,"Song, Yuqi","1701"
+"1445",524,"Hu, Xie","1702"
+"1446",524,"Shi, Xuguo","1703"
+"1447",524,"Cui, Yifei","1704"
+"1448",524,"Zhou, Chao","1705"
+"1449",524,"Xu, Yueren","1706"
+"1450",525,"Allport, H A","27"
+"1451",525,"Davies, N S","267"
+"1452",526,"Brickey, T A","155"
+"1453",526,"Umhoefer, P J","1181"
+"1454",526,"Bennett, S E K","100"
+"1455",527,"Hartzell, S.","473"
+"1456",527,"Martinetti, L B","742"
+"1457",529,"Qasemipour, E.","961"
+"1458",529,"Kitlasten, W.","635"
+"1459",529,"White, J T","1237"
+"1460",530,"Meszaros, Nicholas F.","788"
+"1461",530,"Gardner, James E.","395"
+"1462",531,"Mattheus, C R","759"
+"1463",533,"Stearman, Loren W.","1104"
+"1464",534,"Fanelli, Rosemary M.","1707"
+"1465",534,"Morency, Michelle","1708"
+"1466",534,"Fleming, Brandon J.","1709"
+"1467",534,"Moore, Joel","1710"
+"1468",534,"Hardesty, Deanna","1711"
+"1469",534,"Shoda, Megan","1712"
+"1470",535,"Mixon, R.","802"
+"1471",535,"Blake, Johanna M.","578"
+"1472",536,"Winikoff, S G","1253"
+"1473",536,"Paukert, C.","916"
+"1474",536,"Sievert, N.","1072"
+"1475",536,"Rogosch, J.","1004"
+"1476",537,"Favero, A.","353"
+"1477",537,"Realff, M.","980"
+"1478",537,"Lucas, M.","711"
+"1479",537,"Giarrusso, A.","415"
+"1480",538,"Liu, Z.","696"
+"1481",538,"Li, Y.","703"
+"1482",539,"Mohriak, W.","810"
+"1483",540,"Johnstone, S.","585"
+"1484",540,"Colgan, J.","226"
+"1485",540,"Roe, W.","1003"
+"1486",541,"Xu, C.","1270"
+"1487",542,"Andrews, James V.","42"
+"1488",542,"Shirley, Ethana","1066"
+"1489",542,"Figueroa, Rodrigo T.","361"
+"1490",543,"Cox, I A","244"
+"1491",544,"Nicholas, Joseph R.","869"
+"1492",545,"Molloy, J.","814"
+"1493",546,"Ettensohn, F R","342"
+"1494",546,"Seckinger, D C","1047"
+"1495",546,"Moecher, D P","807"
+"1496",546,"Eble, Cortland","318"
+"1497",547,"Mukherjee, A.","844"
+"1498",548,"Hardman, Alice","467"
+"1499",549,"Hillman, A.","497"
+"1500",549,"Nielsen, Scott E.","871"
+"1501",550,"Becker, Naomi Ann","89"
+"1502",551,"Fleischer, N A","368"
+"1503",551,"Thomas, R D","1152"
+"1504",552,"Reijm, C R","987"
+"1505",553,"Fleming, Brandon J.","1709"
+"1506",553,"Goodling, Phillip J.","1713"
+"1507",553,"Solder, John","1714"
+"1508",553,"Soroka, Alexander M.","1715"
+"1509",553,"Raffensperger, Jeff P.","1716"
+"1510",554,"Ghere, C.","411"
+"1511",555,"Pensky, J.","923"
+"1512",556,"Schulz, E Y","1039"
+"1513",557,"McLaughlin, P I","774"
+"1514",557,"Stigall","1113"
+"1515",558,"Riddell, Jill L.","993"
+"1516",558,"Rau, Benjamin","976"
+"1517",558,"Russoniello, Christopher","1019"
+"1518",559,"Macias, S G","726"
+"1519",560,"Collar, Natalie M.","227"
+"1520",561,"Ajaz, A.","14"
+"1521",564,"Canham, H A","184"
+"1522",565,"Kirby, Cindie","634"
+"1523",565,"Briscoe, Seattle","157"
+"1524",565,"Acosta, Natalie","7"
+"1525",565,"Leak, Alan","676"
+"1526",566,"Blankenship, L N","124"
+"1527",567,"Moidu, H.","812"
+"1528",568,"Hale, K E","452"
+"1529",569,"Bajo-Walker, B.","73"
+"1530",570,"Yang, Zhan","1282"
+"1531",571,"Athar, M F","57"
+"1532",572,"Tripathi, P.","1172"
+"1533",572,"Garg, R D","397"
+"1534",573,"Sporleder, B A","1099"
+"1535",573,"Fisher, B N","364"
+"1536",573,"Keto, D S","622"
+"1537",573,"Kappel, W M","608"
+"1538",573,"Reddy, J E","981"
+"1539",573,"DeMott, L M","283"
+"1540",574,"Wilson, S.","1250"
+"1541",575,"Comans, C M","228"
+"1542",576,"Kamoske, A G","603"
+"1543",577,"Stokes, Maya F.","1117"
+"1544",582,"Kendall, Katharine P.","620"
+"1545",582,"Kendall, Jerome J.","619"
+"1546",583,"Steenstra, Philip James","1107"
+"1547",584,"Gentilcore, D M","406"
+"1548",590,"Andrews, A J","41"
+"1549",590,"Celebi, Hasan F.","1717"
+"1550",590,"Pothos, Ioannis","1718"
+"1551",590,"Schoneich, Antonio G.","1719"
+"1552",590,"Bellefeuille, Nathan A.","1720"
+"1553",590,"Olson, Bernard A.","1721"
+"1554",590,"Laurence, Stuart J.","1722"
+"1555",590,"Schwartzentruber, Thomas E.","1723"
+"1556",590,"Hogan, Christopher J.","1724"
+"1557",591,"Maity, Joydeep","1725"
+"1558",591,"Hazra, Biplab","1726"
+"1559",591,"Mallick, Mousumi","1727"
+"1560",591,"Das, Aman Kumar Lal","1728"
+"1561",591,"Show, Bijay Kumar","1729"
+"1562",592,"Wang, J.","1213"
+"1563",592,"Zhang, F.","1305"
+"1564",592,"Yu, Y.","1299"
+"1565",592,"Yu, Zhifeng","1300"
+"1566",593,"Hegeman, P.","486"
+"1567",593,"Zhou, L.","1314"
+"1568",594,"Campanaro, João Felipe","179"
+"1569",594,"Gonçalves, A N","425"
+"1570",594,"Hung, Rita Elena Fereira","536"
+"1571",594,"Ferrer, Mateus Meneghetti","358"
+"1572",595,"Yang, D C","1278"
+"1573",596,"Das, S.","262"
+"1574",596,"Ghosh, S.","414"
+"1575",596,"Gantait, A.","392"
+"1576",596,"Yadav, B.","1274"
+"1577",600,"Precker, C E","955"
+"1578",602,"Moye, C D","837"
+"1579",604,"Favaro, F.","352"
+"1580",605,"Hou, C Y","521"
+"1581",605,"Freed, D E","380"
+"1582",605,"Seleznev, N.","1048"
+"1583",605,"Homan, D M","511"
+"1584",606,"Deacon, B.","273"
+"1585",607,"Couëslan, C G","242"
+"1586",608,"Hocquard, C.","502"
+"1587",608,"Jebrak, M.","567"
+"1588",611,"Villar, J E","1196"
+"1589",611,"Corral, F J G","237"
+"1590",615,"Dietrich, V E","293"
+"1591",616,"Anderson, Jacob","36"
+"1592",616,"Glen, Jonathan M G","421"
+"1593",616,"Schermerhorn, William","1034"
+"1594",616,"Earney, Tait E.","315"
+"1595",616,"Morbeck, Benjamin","821"
+"1596",618,"Walton, Zachary O.","1209"
+"1597",626,"Ramos, E J","971"
+"1598",627,"Barnes, A M","79"
+"1599",628,"Guo, Qing","1730"
+"1600",628,"Lin, Kunqi","1731"
+"1601",630,"Musoma, B M","853"
+"1602",630,"Nyanda, S S","884"
+"1603",630,"Muhanga, M I","843"
+"1604",630,"Massawe, F A","750"
+"1605",631,"Hawksley, C.","477"
+"1606",631,"Brouillon, J.","160"
+"1607",632,"Okonkwo, Emenike George","888"
+"1608",633,"Chase, Brandon Franklin Werner","195"
+"1609",634,"Xie, Zhenan","1268"
+"1610",636,"Adiwokor, S.","10"
+"1611",636,"Gyawu, E.","447"
+"1612",636,"Johnson, K.","582"
+"1613",637,"Graf, Roberta","431"
+"1614",643,"Diallo, M C","290"
+"1615",644,"Pan, Y.","905"
+"1616",644,"Zhang, Wencai","1310"
+"1617",645,"Wen, Y.","1229"
+"1618",645,"Yang, X.","1280"
+"1619",645,"Jiang, R.","573"
+"1620",645,"Wang, Z.","1217"
+"1621",646,"Cherrat, A.","201"
+"1622",646,"Ennaciri, Y.","330"
+"1623",646,"Azifa, A.","65"
+"1624",646,"Erradi, E M","336"
+"1625",650,"Hettler, J F","493"
+"1626",651,"Weihermann, J D","1224"
+"1627",651,"Li, Y.","703"
+"1628",651,"McCafferty, Anne E.","770"
+"1629",652,"Shbita, Basel","1059"
+"1630",652,"Sharma, Namrata","1055"
+"1631",652,"Vu, Binh","1205"
+"1632",652,"Lin, Fandel","688"
+"1633",652,"Knoblock, Craig A.","641"
+"1634",653,"Short, S R","1070"
+"1635",655,"Taylor, Ryan","1144"
+"1636",655,"Hofstra, A H","505"
+"1637",656,"Borchardt, J S","134"
+"1638",657,"Rao, S.","975"
+"1639",657,"Mlinar, M A","804"
+"1640",657,"Hudak, G J","531"
+"1641",657,"Kangas, K W","607"
+"1642",660,"Hudak, G J","531"
+"1643",660,"Nixon, K.","877"
+"1644",660,"Thakurta, J.","1146"
+"1645",660,"Bartsch, W.","86"
+"1646",663,"Carey, Nathan J.","186"
+"1647",663,"Richardson, Carson A.","992"
+"1648",374,"Adeboboye, Oluwaseyifunmi E.","8"
+"1649",374,"Neves, Miguel","863"
+"1650",374,"Peng, Zhigang","922"
+"1651",374,"Frost, Dan","382"
+"1652",374,"Jaumé, Steven C.","564"
+"1653",374,"Chuang, Lindsay Y.","1359"
+"1654",461,"Walsh, Gregory J.","1207"
+"1655",461,"Thomas, M A","1151"
+"1656",461,"Marvinney, R G","748"
+"1657",461,"Mabee, S B","723"
+"1658",461,"Chormann, F H","210"
+"1659",461,"Kozlowski, A.","652"
+"1660",461,"Gale, M H","389"
+"1661",461,"Kim, J.","630"
+"1662",461,"Savage, Brian","1360"
+"1663",472,"Waterman, Michell L.","1220"
+"1664",661,"Peterson, Dean M.","928"
+"1665",139,"Forte, A M","374"
+"1666",139,"Whipple, K X","1234"
+"1667",146,"Talan, D.","1137"
+"1668",146,"Huang, Q.","526"
+"1669",150,"McMahon, P B","777"
+"1670",150,"Brown, C J","162"
+"1671",150,"Johnson, T D","583"
+"1672",150,"Belitz, K.","95"
+"1673",150,"Lindsey, Bruce D.","1390"
+"1674",152,"Ilankoon, I.","552"
+"1675",152,"Dushyantha, N P","313"
+"1676",152,"Mancheri, N.","734"
+"1677",152,"Edirisinghe, P. M.","1391"
+"1678",152,"Neethling, S. J.","1392"
+"1679",152,"Ratnayake, N. P.","1393"
+"1680",152,"Rohitha, L. P. S.","1394"
+"1681",152,"Dissanayake, D. M. D. O. K.","1395"
+"1682",152,"Premasiri, H. M. R.","1396"
+"1683",152,"Abeysinghe, A. M. K. B.","1397"
+"1684",152,"Dharmaratne, P. G. R.","1398"
+"1685",152,"Batapola, N. M.","1399"
+"1686",154,"Sheikh, T M","1060"
+"1687",154,"Anwar, M P","47"
+"1688",154,"Muthoosamy, K.","855"
+"1689",154,"Jaganathan, Jayaprakash","1400"
+"1690",154,"Chan, Andy","1401"
+"1691",154,"Mohamed, Abdullahi Ali","1402"
+"1692",156,"Manjong, N B","735"
+"1693",156,"Burheim, O S","173"
+"1694",156,"Strømman, A H","1121"
+"1695",156,"Usai, Lorenzo","1403"
+"1696",157,"Sayahpour, B.","1029"
+"1697",157,"Hirsh, H.","500"
+"1698",157,"Parab, S.","908"
+"1699",157,"Nguyen, L H B","866"
+"1700",157,"Zhang, M.","1308"
+"1701",157,"Meng, Ying Shirley","1572"
+"1702",173,"Fortier, Steven M.","375"
+"1703",173,"Kelley, K.","614"
+"1704",173,"Nassar, Nedal T.","1327"
+"1705",173,"Lederer, Graham W.","678"
+"1706",173,"Mauk, Jeffrey L.","761"
+"1707",173,"Hammarstrom, Jane M.","458"
+"1708",173,"Day, Warren C.","270"
+"1709",173,"Seal, Robert R. II","996"
+"1710",175,"Davey, S C","265"
+"1711",175,"Bleeker, W.","126"
+"1712",175,"Kamo, S L","604"
+"1713",175,"Vuollo, J.","1204"
+"1714",175,"Ernst, R E","335"
+"1715",175,"Cousens, B. L.","1405"
+"1716",176,"Abbas, S.","1"
+"1717",176,"Bailey, R T","70"
+"1718",176,"White, J T","1237"
+"1719",176,"Arnold, J G","52"
+"1720",176,"White, Michael J. ","1494"
+"1721",176,"Čerkasova, Natalja","334"
+"1722",176,"Gao, Jungang","1407"
+"1723",181,"Karabelli, D.","609"
+"1724",181,"Kiemel, S.","625"
+"1725",181,"Singh, S.","1080"
+"1726",181,"Koller, J.","645"
+"1727",181,"Ehrenberger, Simone","1408"
+"1728",181,"Miehe, Robert","1409"
+"1729",181,"Weeber, Max","1410"
+"1730",181,"Birke, Kai Peter","1411"
+"1731",189,"Miller, Kaleisha D.","797"
+"1732",189,"Bentley, Matthew J.","102"
+"1733",189,"Ryan, Joseph N.","1020"
+"1734",189,"Linden, Karl G.","685"
+"1735",189,"Larison, Caleb","668"
+"1736",189,"Kienzle, Benjamin A.","626"
+"1737",189,"Katz, Lynn E.","611"
+"1738",189,"Wilson, Alana M.","1248"
+"1739",189,"Cox, Jordan T.","245"
+"1740",189,"Kurup, Parthiv","661"
+"1741",189,"Allsburg, Kurt M. Van","28"
+"1742",189,"McCall, James","771"
+"1743",189,"Macknick, Jordan E.","727"
+"1744",189,"Talmadge, Michael S.","1138"
+"1745",189,"Miara, Ariel","793"
+"1746",189,"Sitterley, Kurban A.","1081"
+"1747",189,"Evans, Anna","344"
+"1748",189,"Thirumaran, Kiran","1149"
+"1749",189,"Malhotra, Mini","732"
+"1750",189,"Stokes-Draut, Jennifer R.","1116"
+"1751",189,"Chellam, Shankararaman","197"
+"1752",189,"Gonzalez, Susana Garcia","1412"
+"1753",192,"Soulié, J P","1097"
+"1754",192,"Troeye, B. Van","1174"
+"1755",192,"Sankaran, Kiroubanand","1413"
+"1756",192,"Lesniewska, Alicja","1414"
+"1757",192,"Pedreira, Olalla Varela","1415"
+"1758",192,"Oprins, Herman","1416"
+"1759",192,"Delie, Gilles","1417"
+"1760",192,"Fleischmann, Claudia","1418"
+"1761",192,"Boakes, Lizzie","1419"
+"1762",192,"Rolin, Cedric","1420"
+"1763",192,"Ragnarsson, Lars-Ake","1421"
+"1764",192,"Croes, Kristof","1422"
+"1765",192,"Park, Seongho","1423"
+"1766",192,"Swerts, Johan","1424"
+"1767",192,"Pourtois, Geoffrey","1425"
+"1768",192,"Tokei, Zsolt","1426"
+"1769",192,"Adelmann, Christoph","1427"
+"1770",193,"Steenstra, Philip James","1107"
+"1771",193,"Strigul, N.","1120"
+"1772",193,"Harrison, J.","470"
+"1773",204,"Ireland, Robert","556"
+"1774",204,"Scott, Sara","1428"
+"1775",205,"Penaloza, I.","921"
+"1776",205,"Tita, A.","1160"
+"1777",205,"McNew, E.","779"
+"1778",205,"Chu, P.","215"
+"1779",209,"Geyin, M.","410"
+"1780",209,"Maurer, B W","763"
+"1781",209,"Christofferson, K.","212"
+"1782",218,"Fitzgerald, Paul G.","367"
+"1783",218,"Shorten, Chilisa M.","1429"
+"1784",219,"Pompeani, D P","946"
+"1785",219,"McLauchlan, K K","773"
+"1786",219,"Chileen, B V","204"
+"1787",219,"Calder, W. John","1430"
+"1788",219,"Shuman, Bryan N.","1431"
+"1789",219,"Higuera, Philip E.","1432"
+"1790",222,"Bai, Y.","71"
+"1791",222,"Li, M.","699"
+"1792",222,"Jafta, C J","560"
+"1793",222,"Dai, Q.","260"
+"1794",222,"Essehli, R.","339"
+"1795",222,"Polzin, B J","945"
+"1796",222,"Belharouak, Ilias","1433"
+"1797",224,"Hotchkiss, E.","518"
+"1798",224,"Urdaneta, M P","1184"
+"1799",224,"Bazilian, M D","88"
+"1800",226,"Burpee, B T","175"
+"1801",226,"Saros, J E","1028"
+"1802",226,"Nanus, L.","860"
+"1803",226,"Baron, J.","81"
+"1804",226,"Brahney, J.","146"
+"1805",226,"Christianson, Kyle R.","1434"
+"1806",226,"Ganz, Taylor","1435"
+"1807",226,"Heard, Andi","1436"
+"1808",226,"Hundey, Beth","1437"
+"1809",226,"Koinig, Karin A.","1438"
+"1810",226,"Kopacek, Jiri","1439"
+"1811",226,"Moser, Katrina","1440"
+"1812",226,"Nydick, Koren","1441"
+"1813",226,"Oleksy, Isabella","1442"
+"1814",226,"Sadro, Steven","1443"
+"1815",226,"Sommaruga, Ruben","1444"
+"1816",226,"Vinebrooke, Rolf","1445"
+"1817",226,"Williams, Jason","1446"
+"1818",227,"Gustafson, J O","444"
+"1819",227,"Tester, J W","1145"
+"1820",227,"Beyers, S.","111"
+"1821",227,"Jordan, Teresa E.","1732"
+"1822",227,"Fulton, Patrick M.","1733"
+"1823",227,"Hawkins, Adam J.","1734"
+"1824",227,"Smith, Jared D.","1735"
+"1825",227,"Aswad, Jood Al","1736"
+"1826",227,"Beckers, Koenraad F.","1737"
+"1827",227,"Allmendinger, Rick","1738"
+"1828",227,"Brown, Larry","1739"
+"1829",227,"Horowitz, Frank","1740"
+"1830",227,"May, Daniel","1741"
+"1831",227,"Khan, Tasnuva Ming","1742"
+"1832",227,"Pritchard, Matt","1743"
+"1833",228,"Shi, Z.","1069"
+"1834",228,"Jin, Y.","575"
+"1835",228,"Han, T.","465"
+"1836",228,"Yang, H.","1279"
+"1837",228,"Gond, R.","426"
+"1838",228,"Subasi, Y.","1122"
+"1839",228,"Asfaw, Habtom Desta","1447"
+"1840",228,"Younesi, Reza","1448"
+"1841",228,"Jonsson, Par G.","1449"
+"1842",228,"Yang, Weihong","1450"
+"1843",230,"Zhu, Yichuan","1317"
+"1844",230,"Dortch, J M","300"
+"1845",230,"Massey, M A","751"
+"1846",230,"Haneberg, W C","460"
+"1847",230,"Curl, Douglas C.","254"
+"1848",236,"Pusarapu, V.","960"
+"1849",236,"Sarma, R. Narayana","1027"
+"1850",236,"Ochonma, P.","887"
+"1851",236,"Gadikota, Greeshma","1451"
+"1852",240,"Creason, C G","250"
+"1853",240,"Justman, D M","598"
+"1854",240,"Montross, S N","819"
+"1855",240,"Rose, K.","1452"
+"1856",240,"Bean, A.","1453"
+"1857",240,"Mark-Moser, M.","1454"
+"1858",240,"Wingo, P.","1455"
+"1859",240,"Sabbatino, M.","1456"
+"1860",240,"Thomas, R. B.","1457"
+"1861",241,"Mauk, Jeffrey L.","761"
+"1862",241,"Crafford, T.","248"
+"1863",241,"Horton, J. W. Jr","595"
+"1864",241,"Robinson, G.R., Jr","999"
+"1865",241,"San Juan, C. A.","1326"
+"1866",251,"Johnson, K.","582"
+"1867",251,"Christensen, J N","211"
+"1868",251,"Gardner, W P","396"
+"1869",251,"Li, Li","1372"
+"1870",251,"Carroll, R W H","188"
+"1871",251,"Sprenger, Matthias","1458"
+"1872",251,"Williams, Kenneth H.","1459"
+"1873",251,"Thiros, Nicholas","1460"
+"1874",251,"Brown, Wendy","1461"
+"1875",251,"Beutler, Curtis","1462"
+"1876",251,"Newman, Alexander","1463"
+"1877",251,"Sullivan, Pamela L.","1464"
+"1878",253,"Stergiou, C L","1110"
+"1879",253,"Melfos, V.","784"
+"1880",253,"Voudouris, P.","1201"
+"1881",253,"Papadopoulou, L.","906"
+"1882",253,"Sakellaris, Grigorios-Aarne","1465"
+"1883",253,"Kantiranis, Nikolaos","1466"
+"1884",253,"Skoupras, Evaggelos","1467"
+"1885",256,"Chatterjee, S.","196"
+"1886",256,"Karacan, CÖ","610"
+"1887",256,"Mastalerz, M.","752"
+"1888",257,"Boxleiter, A.","140"
+"1889",257,"Wen, Y.","1229"
+"1890",257,"Tang, Y.","1140"
+"1891",257,"Elliott, W C","324"
+"1892",261,"Gelman, S E","405"
+"1893",261,"Hearon, J S","481"
+"1894",261,"Ellis, G S","325"
+"1895",262,"Hamisi, J.","456"
+"1896",262,"Etschmann, B.","341"
+"1897",262,"Tomkins, A.","1166"
+"1898",262,"Pitcairn, I.","942"
+"1899",262,"Pinter, Zsanett","1468"
+"1900",262,"Wlodek, Adam","1469"
+"1901",262,"Morrissey, Laura","1470"
+"1902",262,"Micklethwaite, Steven","1471"
+"1903",262,"Trcera, Nicolas","1472"
+"1904",262,"Mills, Stuart","1473"
+"1905",262,"Brugger, Joel","1474"
+"1906",263,"Abd-Elssamd, A.","4"
+"1907",263,"Ma, Z J","768"
+"1908",263,"Hou, H.","522"
+"1909",263,"Pape, Y. Le","907"
+"1910",264,"Reich, Martin","1475"
+"1911",264,"Simon, Adam C.","1476"
+"1912",269,"Mayyas, A.","765"
+"1913",269,"Alhseinat, E.","23"
+"1914",269,"Karuppasamy, K.","1477"
+"1915",269,"Hassan-Beck, Haitem","1478"
+"1916",269,"Alfantazi, Akram","1479"
+"1917",270,"Rozelle, P L","1012"
+"1918",270,"Tarka, T J","1142"
+"1919",270,"Mamula, N.","733"
+"1920",274,"Suhrhoff, T J","1125"
+"1921",274,"Reershemius, T.","984"
+"1922",274,"Wang, J.","1213"
+"1923",274,"Jordan, J S","589"
+"1924",274,"Reinhard, Christopher T.","1480"
+"1925",274,"Planavsky, Noah J.","1481"
+"1926",276,"Ikejiri, T.","551"
+"1927",276,"Lu, Y H","719"
+"1928",276,"Zhang, B.","1303"
+"1929",285,"Davey, S C","265"
+"1930",286,"Müller, D.","805"
+"1931",286,"Groves, D I","441"
+"1932",286,"Yang, C X","1277"
+"1933",286,"Santosh, M.","1482"
+"1934",289,"Sarker, S K","1026"
+"1935",289,"Pownceby, M.","951"
+"1936",289,"Yadav, S.","1275"
+"1937",289,"Bruckard, W.","167"
+"1938",289,"Haque, Nawshad","1483"
+"1939",289,"Singh, Nahar","1484"
+"1940",289,"Pramanik, Biplob Kumar","1485"
+"1941",290,"Burnett, M.","174"
+"1942",290,"Zhang, Steven E","1309"
+"1943",290,"Ghorbani, Y.","413"
+"1944",290,"Bourdeau, J E","135"
+"1945",290,"Nwaila, G T","883"
+"1946",290,"Steiner, Benedikt M.","1486"
+"1947",290,"Barnet, James S.K.","1487"
+"1948",291,"Nibourel, L.","868"
+"1949",291,"Morgenthaler, J.","824"
+"1950",291,"Grazioli, S.","437"
+"1951",291,"Schumacher, Isabel","1488"
+"1952",291,"Schlafli, Salome","1489"
+"1953",291,"Galfetti, Thomas","1490"
+"1954",291,"Heuberger, Stefan","1491"
+"1955",292,"Mohamed, G A","809"
+"1956",292,"Saleh, Gehad M.","1492"
+"1957",292,"Tohamy, Amira M. El","1493"
+"1958",295,"Almahawis, M K","29"
+"1959",295,"Bailey, R T","70"
+"1960",295,"Arnold, J G","52"
+"1961",295,"Abbas, S.","1"
+"1962",295,"White, Michael J. ","1494"
+"1963",295,"White, Michael J. ","1494"
+"1964",300,"McCafferty, Anne E.","770"
+"1965",300,"Lawley, C J M","674"
+"1966",300,"Graham, Garth E.","432"
+"1967",300,"San Juan, C. A.","1326"
+"1968",300,"Gadd, M G","388"
+"1969",300,"Huston, D L","543"
+"1970",300,"Kelley, K.","614"
+"1971",300,"Paradis, S.","909"
+"1972",300,"Peter, J.","930"
+"1973",300,"Czarnota, K.","257"
+"1974",301,"Babaei, F.","67"
+"1975",301,"Boozarjomehry, R B","133"
+"1976",301,"Ravandi, Z K","977"
+"1977",301,"Pishvaie, S.M.R.","1495"
+"1978",303,"Taylor, Ryan","1144"
+"1979",303,"Graham, Garth E.","432"
+"1980",303,"Lowers, H A","709"
+"1981",307,"Gupta, Tushar","1496"
+"1982",310,"Albaugh, Timothy J.","18"
+"1983",310,"Carter, David R.","189"
+"1984",310,"Cook, Rachel L.","231"
+"1985",310,"Campoe, Otávio C.","181"
+"1986",310,"Rubilar, Rafael A.","1014"
+"1987",310,"Creighton, Jerre L.","1497"
+"1988",311,"Zhou, S.","1315"
+"1989",311,"Li, N.","700"
+"1990",311,"Margenot, A J","738"
+"1991",315,"Alonso, E.","30"
+"1992",315,"Pineault, David George","941"
+"1993",315,"Nassar, Nedal T.","1327"
+"1994",316,"Kim, H.","629"
+"1995",316,"Shin, D.","1065"
+"1996",316,"Im, H.","553"
+"1997",316,"Yu, B.","1296"
+"1998",316,"Choi, S K","209"
+"1999",319,"Huang, J.","525"
+"2000",319,"Yang, X.","1280"
+"2001",321,"Slack, J F","1083"
+"2002",321,"Beck, F M","91"
+"2003",321,"Bradley, D C","145"
+"2004",321,"Felch, M M","354"
+"2005",321,"Marvinney, R G","748"
+"2006",321,"Whittaker, Amber T. H.","1329"
+"2007",332,"Tuladhar, A.","1177"
+"2008",332,"Bailey, R T","70"
+"2009",332,"Abbas, S.","1"
+"2010",332,"Arnold, J G","52"
+"2011",332,"White, Michael J. ","1494"
+"2012",332,"Shanmugam, Mohana Sundaram","1498"
+"2013",340,"Prabhu, A.","952"
+"2014",340,"Morrison, S M","827"
+"2015",340,"Hazen, R M","479"
+"2016",350,"Lundine, M.","714"
+"2017",350,"Trembanis, A.","1171"
+"2018",351,"Bailey, R T","70"
+"2019",351,"Abbas, S.","1"
+"2020",351,"Arnold, J G","52"
+"2021",351,"White, Michael J. ","1494"
+"2022",352,"Pfau, J C","933"
+"2023",352,"McLaurin, B.","775"
+"2024",352,"Buck, B J","171"
+"2025",352,"Miller, F W","796"
+"2026",353,"Mouser, J B","835"
+"2027",353,"Brewer, S K","154"
+"2028",353,"Niemiller, M L","874"
+"2029",353,"Mollenhauer, R.","813"
+"2030",353,"Bussche, Ronald A. Van Den","1499"
+"2031",358,"Thapa, S.","1147"
+"2032",358,"Girault, F.","419"
+"2033",358,"Deldicque, D.","281"
+"2034",358,"Losno, R.","708"
+"2035",358,"France-Lanord, Christian","1500"
+"2036",358,"Groppo, Chiara","1501"
+"2037",358,"Rolfo, Franco","1502"
+"2038",358,"Tamang, Shashi","1503"
+"2039",358,"Rigaudier, Thomas","1504"
+"2040",358,"Debret, Baptiste","1505"
+"2041",358,"Paudyal, Kabi Raj","1506"
+"2042",358,"Adhikari, Lok Bijaya","1507"
+"2043",358,"Perrier, Frederic","1508"
+"2044",359,"Dong, J.","298"
+"2045",359,"Bode, A.","131"
+"2046",359,"Jaroenchai, N.","563"
+"2047",359,"Saxton, Aaron","1509"
+"2048",359,"Kooper, Rob","1510"
+"2049",359,"Zhu, Xiyue","1511"
+"2050",359,"Kwark, Dou Hoon","1512"
+"2051",359,"Kramer, William","1513"
+"2052",359,"Kindratenko, Volodymyr","1514"
+"2053",359,"Luo, Shirui","1515"
+"2054",364,"Swezey, C S","1134"
+"2055",364,"Blome, C D","127"
+"2056",364,"Lundstrom, S C","715"
+"2057",364,"Stone, B D","1118"
+"2058",364,"Sweetkind, D S","1133"
+"2059",364,"Berg, R C","104"
+"2060",364,"Brown, S E","166"
+"2061",364,"Yellich, J A","1287"
+"2062",364,"Kincare, Kevin A.","1516"
+"2063",366,"Simpson, B.","1078"
+"2064",366,"Ubide, T.","1179"
+"2065",366,"Spandler, C.","1098"
+"2066",371,"Azmi, Ulul","66"
+"2067",371,"Murtiana, Sri","850"
+"2068",371,"Anda, Martin","34"
+"2069",371,"Sasongko, Nugroho Adi","1517"
+"2070",373,"Ibrahim, Mohammad","1518"
+"2071",373,"Aune, Ragnhild","1519"
+"2072",379,"Bailey, R T","70"
+"2073",379,"Arnold, J G","52"
+"2074",379,"White, Michael J. ","1494"
+"2075",379,"Abbas, S.","1"
+"2076",379,"Mirchi, Ali","1520"
+"2077",390,"Ajaz, A.","14"
+"2078",390,"Taghvaeian, S.","1136"
+"2079",390,"Lollato, R.","706"
+"2080",390,"Alderman, P D","20"
+"2081",390,"Gowda, Prasanna H.","1521"
+"2082",395,"Malikova, O. I.","1522"
+"2083",395,"Maksimova, A. M.","1523"
+"2084",401,"Malinconico, MaryAnn Love","1524"
+"2085",408,"Hui, J.","535"
+"2086",408,"Cheng, Y.","199"
+"2087",412,"Monte, Nunzia","1525"
+"2088",412,"Bucci, Francesco","1526"
+"2089",412,"Mevoli, Federica Angela","1527"
+"2090",412,"Santangelo, Michele","1528"
+"2091",412,"Reichenbach, Paola","1529"
+"2092",412,"Matteo, Lucio Di","1530"
+"2093",412,"Marchesini, Ivan","1531"
+"2094",421,"Salomon, Eric","1532"
+"2095",435,"Kendall, Katharine P.","620"
+"2096",435,"Roesch, Ariane","1002"
+"2097",435,"Stearns, Andrew","1105"
+"2098",435,"Ramon-Duenas, Carolina","969"
+"2099",435,"Kendall, Jerome J.","619"
+"2100",435,"Phillips, Jan-Claire","938"
+"2101",435,"Meyer, S.","792"
+"2102",436,"Wu, Connor Y. H.","1261"
+"2103",436,"Bennett, Michael","99"
+"2104",436,"Fox, Katherine","377"
+"2105",436,"Parkhurst, Laura","911"
+"2106",436,"Sherrod, Rebecca","1062"
+"2107",436,"Gohlke, Julia M.","423"
+"2108",436,"Hubbard, Aaron","1533"
+"2109",436,"Holguin, Sarah","1534"
+"2110",436,"Marmagas, Susan W.","1535"
+"2111",440,"Young, M L","1291"
+"2112",440,"Jenkins, J A","569"
+"2113",441,"Copler, C.","234"
+"2114",441,"Holtkamp, C.","510"
+"2115",441,"Myles, C C","856"
+"2116",442,"Coube-Sisqueille, S.","240"
+"2117",442,"Liquet, B.","689"
+"2118",449,"Gomes, Jailane De Sousa","1536"
+"2119",449,"Silva, Francisco Da","1537"
+"2120",449,"Salomao, Marcelo dos santos","1538"
+"2121",452,"Dusel-Bacon, C.","312"
+"2122",452,"Mortensen, J K","831"
+"2123",455,"Koyamparambath, A.","650"
+"2124",455,"Sonnemann, G.","1095"
+"2125",455,"Young, S B","1292"
+"2126",470,"Case, George N. D.","191"
+"2127",470,"Graham, Garth E.","432"
+"2128",470,"Lawley, C J M","674"
+"2129",470,"Bastrakov, E.","87"
+"2130",470,"Huston, D L","543"
+"2131",470,"Hofstra, A H","505"
+"2132",470,"Lisitsin, V.","690"
+"2133",470,"Wang, B.","1210"
+"2134",470,"Hawkins, Steph","1354"
+"2135",481,"Steurs, Gert","1112"
+"2136",481,"Arčon, Iztok","50"
+"2137",481,"Riaño, Sofía","991"
+"2138",481,"Gerven, Tom Van","408"
+"2139",481,"Binnemans, Koen","119"
+"2140",481,"Cool, Vincent","1539"
+"2141",491,"Garcia, Jordan Sleyter Santa Cruz","1540"
+"2142",492,"Chen, Liyang","1541"
+"2143",492,"Yang, Yuyao","1542"
+"2144",492,"WANG, Peng","1543"
+"2145",492,"Guo, Yongmei","1544"
+"2146",492,"Zhao, Shen","1545"
+"2147",492,"Chen, Lihua","1546"
+"2148",492,"Chen, Weiqiang","1547"
+"2149",493,"Niri, A. Jannesar","876"
+"2150",493,"Poelzer, G A","943"
+"2151",493,"Pettersson, M.","931"
+"2152",493,"Rosenkranz, J.","1007"
+"2153",494,"Niri, A. Jannesar","876"
+"2154",495,"Whittle, D.","1240"
+"2155",495,"Yellishetty, M.","1288"
+"2156",497,"Díaz-Gutiérrez, E.","271"
+"2157",497,"Calvo, J A M","178"
+"2158",497,"Hernandez-Saz, J.","1548"
+"2159",497,"Gallardo, J.M.","1549"
+"2160",497,"Paul, A.","1550"
+"2161",501,"Pokharel, A.","944"
+"2162",501,"Jayasekera, K S","565"
+"2163",501,"Sabolsky, E M","1024"
+"2164",501,"Musho, T.","852"
+"2165",509,"Monroe, A.","817"
+"2166",509,"Alexander, J.","22"
+"2167",509,"Anderson, E.","35"
+"2168",509,"Anderson, P J","38"
+"2169",509,"Andrews, William M. Jr","596"
+"2170",509,"Driscoll, J.","306"
+"2171",509,"Frus, R.","384"
+"2172",509,"Hevesi, J.","494"
+"2173",509,"Jones, D.","587"
+"2174",509,"Thomas, K.","1150"
+"2175",509,"Tillery, A C","1158"
+"2176",509,"Dahm, K.","259"
+"2177",509,"Torregrosa, A.","1334"
+"2178",528,"Williams, S R","1246"
+"2179",528,"Steed, J E","1106"
+"2180",528,"Morrone, J.","830"
+"2181",528,"Goeking, Sara A","1552"
+"2182",528,"Lavin, Matt","1553"
+"2183",528,"Dodson, Erich Kyle","1554"
+"2184",528,"Simons, Rachel E","1555"
+"2185",532,"Abbas, S.","1"
+"2186",532,"White, J T","1237"
+"2187",532,"Almahawis, M K","29"
+"2188",532,"Bailey, R T","70"
+"2189",562,"Workman, J B","1258"
+"2190",562,"Colgan, J.","226"
+"2191",562,"Gilmer, A K","417"
+"2192",562,"Berry, M E","108"
+"2193",562,"Johnstone, S.","585"
+"2194",562,"Warrell, K F","1219"
+"2195",562,"Dechesne, M.","276"
+"2196",562,"VanSistine, D P","1189"
+"2197",562,"Thompson, R A","1155"
+"2198",562,"Hudson, A M","532"
+"2199",562,"Zellman, K L","1302"
+"2200",562,"Sweetkind, D S","1133"
+"2201",562,"Ruleman, C A","1016"
+"2202",562,"Turner, Kenzie J.","1556"
+"2203",581,"Kendall, Katharine P.","620"
+"2204",581,"Roesch, Ariane","1002"
+"2205",581,"Stearns, Andrew","1105"
+"2206",581,"Ramon-Duenas, Carolina","969"
+"2207",581,"Kendall, Jerome J.","619"
+"2208",581,"Phillips, Jan-Claire","938"
+"2209",581,"Meyer, S.","792"
+"2210",585,"Bailey, R T","70"
+"2211",585,"Abbas, S.","1"
+"2212",585,"Čerkasova, Natalja","334"
+"2213",585,"Arnold, J G","52"
+"2214",585,"White, Michael J. ","1494"
+"2215",585,"Majumdar, Sayantan","1557"
+"2216",585,"Smith, Ryan","1558"
+"2217",586,"Shapiro, A M","1054"
+"2218",586,"Belitz, K.","95"
+"2219",586,"Reddy, J E","981"
+"2220",586,"Stackelberg, P E","1101"
+"2221",587,"Tomaszewski, E J","1164"
+"2222",587,"Sun, Z.","1130"
+"2223",587,"Bednar, A J","92"
+"2224",588,"Shell, R.","1061"
+"2225",588,"Ciampaglio, C.","216"
+"2226",588,"Peterman, D.","925"
+"2227",588,"Ivanov, A.","557"
+"2228",588,"Armstrong, Adam","1559"
+"2229",588,"Fuelling, Lauren J.","1560"
+"2230",588,"Jacquemin, Stephen J.","1561"
+"2231",589,"Kunath, M.","660"
+"2232",589,"Phillips, G.","937"
+"2233",589,"Clary, R M","219"
+"2234",598,"Rytkonen, Sauli Johannes","1562"
+"2235",610,"Palosaari, Jenny","1563"
+"2236",612,"Bassan, Lucas","1353"
+"2237",613,"Ivanova, Natalia","1358"
+"2238",614,"Matos, D R","757"
+"2239",614,"Abreu, P M","5"
+"2240",614,"Toscani, R.","1168"
+"2241",614,"Gomes, Diego Guilherme Costa","1564"
+"2242",624,"Faruk, M U","351"
+"2243",624,"Yusuf, S N","1295"
+"2244",624,"Daspan, Raymond Ishaya","1565"
+"2245",625,"Müller, D.","805"
+"2246",625,"Groves, D I","441"
+"2247",625,"Santosh, M.","1482"
+"2248",629,"Aizaki, H.","13"
+"2249",629,"Sato, Kazuo","1357"
+"2250",635,"Anugrah, Donni Fajar","46"
+"2251",635,"Rishanty, Arnita","994"
+"2252",635,"Aryani, Ade Dwi","54"
+"2253",635,"Sambodo, Maxensius Tri","1566"
+"2254",638,"Zafra, J L Torres","1301"
+"2255",638,"Díaz, Xiomara Cazanas","272"
+"2256",639,"Ryter, J.","1022"
+"2257",639,"Bhuwalka, K.","115"
+"2258",639,"Roth, R.","1009"
+"2259",639,"Olivetti, E.","891"
+"2260",639,"Alonso, E.","30"
+"2261",639,"Nassar, Nedal T.","1327"
+"2262",639,"Buarque-Andrade, Laura","1567"
+"2263",639,"Frenzel, Max","1568"
+"2264",639,"Shojaeddini, Ensieh","1569"
+"2265",640,"Zhou, D.","1313"
+"2266",640,"Li, S.","702"
+"2267",640,"Yao, H.","1283"
+"2268",641,"Hamed, Y.","455"
+"2269",641,"Jallouli, H.","561"
+"2270",641,"Elaloui, E.","321"
+"2271",648,"Gao, Jinghan","393"
+"2272",648,"Liu, W.","694"
+"2273",648,"Sui, J.","1126"
+"2274",648,"Zhang, Z.","1312"
+"2275",648,"Dong, Y.","299"
+"2276",648,"Wang, D.","1212"
+"2277",648,"Pan, F.","903"
+"2278",648,"Wang, Xudong","1570"
+"2279",649,"Kumar, A.","658"
+"2280",649,"Sahu, R.","1025"
+"2281",649,"Tripathy, S K","1173"
+"2282",654,"Mercer, Celestine N","785"
+"2283",654,"Babel, H R","69"
+"2284",654,"Hofstra, A H","505"
+"2285",654,"Mercer, Cameron M.","1571"
+"2286",659,"Sayahpour, B.","1029"
+"2287",659,"Parab, S.","908"
+"2288",659,"Hirsh, H.","500"
+"2289",659,"Nguyen, L H B","866"
+"2290",659,"Zhang, M.","1308"
+"2291",659,"Meng, Ying Shirley","1572"
+"2292",664,"Stafford, K T","1102"
+"2293",664,"McLemore, Virginia T.","776"
+"2294",664,"Martin, L.","745"
+"2295",664,"Kelley, Shari","616"
+"2296",664,"Grigg, J.","439"
+"2297",664,"Broadhead, Ron","1355"
+"2298",665,"Ingebritsen, S E","554"
+"2299",665,"Weis, P.","1227"
+"2300",665,"Bodnar, R J","132"
+"2301",665,"Boutt, D F","137"
+"2302",665,"Munk, L. A.","1573"
+"2303",666,"Zafra, J L Torres","1301"
+"2304",666,"Díaz, Xiomara Cazanas","272"
+"2305",244,"Drenth, Benjamin J.","305"
+"2306",244,"Cannon, W F","185"
+"2307",244,"Schulz, K J","1040"
+"2308",244,"Ayuso, R A","63"
+"2309",304,"Kreiner, Douglas C.","655"
+"2310",304,"Jones, James V. III","550"
+"2311",304,"Case, George N. D.","191"
+"2312",158,"Mercer, Celestine N","785"
+"2313",158,"Watts, Kathryn E.","1361"
+"2314",158,"Gross, Juliane","1362"
+"2315",179,"Lawley, C J M","674"
+"2316",179,"Gadd, M G","388"
+"2317",179,"Lederer, Graham W.","678"
+"2318",179,"Graham, Garth E.","432"
+"2319",179,"Parsa, Mohammad","1363"
+"2320",179,"Ford, Arianne","1364"
+"2321",180,"Zhang, Shangqing","1365"
+"2322",180,"Liu, Xuefei","1366"
+"2323",180,"Zhao, Fenghua","1367"
+"2324",180,"Liu, Dongna","1368"
+"2325",180,"Zou, Yu","1369"
+"2326",180,"Zhang, Wenxu","1370"
+"2327",180,"Liu, Xile","1371"
+"2328",180,"Li, Li","1372"
+"2329",180,"Zhao, Lihua","1373"
+"2330",220,"Case, George N. D.","191"
+"2331",220,"Regan, Sean P.","986"
+"2332",220,"Holm-Denoma, C S","508"
+"2333",220,"Karl, Susan M.","1374"
+"2334",220,"Johnson, Craig A.","1375"
+"2335",220,"Ellison, Eric T.","1376"
+"2336",220,"Caine, Jonathan Saul","1377"
+"2337",220,"Pianowski, Laura S.","1378"
+"2338",220,"Marsh, Jeffrey H.","1379"
+"2339",277,"Patlolla, Shashank Reddy","1380"
+"2340",277,"Sharafian, Amir","1381"
+"2341",277,"Merida, Walter","1382"
+"2342",288,"Jia, Nanfei","1383"
+"2343",288,"An, Haizhong","1384"
+"2344",288,"Gao, Xiangyun","1385"
+"2345",288,"Liu, Donghui","1386"
+"2346",288,"Chang, Hao","1387"
+"2347",296,"Cox, I A","244"
+"2348",296,"Pashin, Jack C.","1388"
+"2349",354,"Karaman, Muhittin","1389"
+"2350",462,"Evans, B R","345"
+"2351",462,"Kumar, J.","659"
+"2352",462,"Popovs, I.","948"
+"2353",462,"Moyer, B A","836"
+"2354",462,"Paranthaman, M. Parans","1574"
+"2355",467,"Twelker, Evan","1178"
+"2356",467,"Newberry, Rainer J.","864"
+"2357",467,"Naibert, Travis J.","859"
+"2358",467,"Wypych, Alicja","1267"
+"2359",467,"Gavel, Michelle M.","402"
+"2360",467,"Barrera, Michael L.","83"
+"2361",467,"Szumigala, David J.","1135"
+"2362",467,"Truskowski, Conner M.","1176"
+"2363",467,"Muller, Izzy P.","845"
+"2364",467,"Fessenden, Serena N.","359"
+"2365",467,"Blackwell, Noel J S","122"
+"2366",467,"Harvey, David A.","474"
+"2367",467,"Wildland, Alec D.","1241"
+"2368",471,"Peter, J.","930"
+"2369",471,"Gadd, M G","388"
+"2370",471,"Lawley, C J M","674"
+"2371",471,"Corriveau, L.","238"
+"2372",471,"Houlé, M.","520"
+"2373",471,"Pilote, J.","940"
+"2374",471,"Plouffe, Alain","1575"
+"2375",471,"Potter, Eric","1576"
+"2376",471,"Sappin, Anne-Aurelie","1577"
+"2377",471,"Marquis, Genevieve","1578"
+"2378",471,"Lebel, Daniel","1579"
+"2379",475,"Beyer, Rebecca","112"
+"2380",475,"NA","935"
+"2381",475,"Faulkner, Mindy","1580"
+"2382",518,"Wortzel, Larry M.","1259"
+"2383",518,"Selley, Kate","1049"
+"2384",519,"Fenyves, Veronika","356"
+"2385",519,"Erdey, László","332"
+"2386",519,"Márkus, Ádám","838"
+"2387",519,"Tőkés, Tibor","1162"
+"2388",578,"Ningen, Sara Van","1584"
+"2389",579,"Buffalo Bayou Hurricane Hike","1585"
+"2390",580,"Ningen, Sara Van","1584"
+"2391",597,"Ding, S.","296"
+"2392",599,"Heptinstall, E A","491"
+"2393",601,"Currie, D.","255"
+"2394",601,"Mitchell, C J","801"
+"2395",603,"Jowitt, Simon M.","590"
+"2396",609,"Yalcin, Cihan","1586"
+"2397",619,"Downs, C.","303"
+"2398",619,"Winn, C.","1254"
+"2399",619,"Kraal, K.","653"
+"2400",619,"Folsom, M.","373"
+"2401",619,"Schwering, P.","1044"
+"2402",619,"Hinz, Nick","1587"
+"2403",619,"Zimmerman, Jade","1588"
+"2404",619,"Sewell, Steven","1589"
+"2405",619,"Cumming, William B","1590"
+"2406",619,"Milton, Alex","1591"
+"2407",619,"Sabin, Andrew","1592"
+"2408",619,"Lopeman, Janice","1593"
+"2409",647,"Hurley, W.","539"
+"2410",647,"Simmonds, J.","1077"
+"2411",647,"Hofer, R.","504"
+"2412",662,"Scarberry, Kaleb","1031"
+"2413",662,"Eastman, K A","316"
+"2414",667,"Naibert, Travis J.","859"
+"2415",469,"Davarpanah, A.","264"
+"2416",469,"Elliott, W C","324"
+"2417",469,"Babaie, H A","68"
+"2418",521,"Vredenburgh, L M","1203"
+"2419",521,"Wilkerson, G.","1242"
+"2420",522,"Fenyves, Veronika","356"
+"2421",522,"Erdey, László","332"
+"2422",522,"Márkus, Ádám","838"
+"2423",522,"Tőkés, Tibor","1162"
+"2424",563,"Adeboboye, Oluwaseyifunmi E.","8"
+"2425",563,"Neves, Miguel","863"
+"2426",563,"Peng, Zhigang","922"
+"2427",563,"Frost, Dan","382"
+"2428",563,"Jaumé, Steven C.","564"
+"2429",563,"Chuang, Lindsay Y.","1359"
+"2430",642,"Musoma, B M","853"
+"2431",642,"Nyanda, S S","884"
+"2432",642,"Muhanga, M I","843"
+"2433",642,"Massawe, F A","750"

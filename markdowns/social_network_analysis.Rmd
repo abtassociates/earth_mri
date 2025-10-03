@@ -58,17 +58,140 @@ source(here("scripts","clean_child_publications.r")) # creates child_authors.csv
 
 ```{r}
 # join authors
-authors <- authors_parent %>% select(-Notes) %>% full_join(authors_child) %>% select(-Notes)
+authors <- authors_parent %>% select(-Notes) %>% full_join(authors_child) %>% select(-Notes,-replacement)
 # dup_auth_id <- authors$author_id[which(duplicated(authors$author_id))]
-write.csv(authors, here("data", "tables", "authors.csv"))
-# join pub_authors
+# write.csv(authors, here("data", "tables", "manual_review", "authors_final.csv"))
+authors <- read.csv(here("data", "tables", "manual_review", "authors_final.csv"))
+
+replacements <- authors %>% filter(!is.na(replacement))
 parent_pub_authors <- parent_pub_authors %>% filter(!is.na(Author_IDs)) %>% 
   rename(author_id = Author_IDs)
-pub_authors <- parent_pub_authors %>% full_join(child_pub_authors)
-write.csv(pub_authors, here("data", "tables", "pub_authors.csv"))
+
+for (i in 1:nrow(replacements)){
+  # update the pub_author tables
+child_pub_authors <- child_pub_authors %>%
+  mutate(author_id = ifelse(author_id == replacements$author_id[i],
+                            replacements$replacement[i], author_id)) %>% select(-Authors) %>%
+  left_join(authors %>% select(author_id, author_name))
+parent_pub_authors <- parent_pub_authors %>%
+  mutate(author_id = ifelse(author_id == replacements$author_id[i],
+                            replacements$replacement[i], author_id)) %>% select(-Authors) %>%
+  left_join(authors %>% select(author_id, author_name))
+
+}
+
+# filter the authors and save again
+authors <- authors %>% filter(is.na(replacement)) %>% select(-replacement)
+write.csv(authors, here("data", "tables", "authors.csv"))
+
 # join publications
 pubs <- parent_pubs %>% full_join(child_pubs)
+# join into pub_authors & make replacements
+pub_authors <- parent_pub_authors %>% full_join(child_pub_authors)  
+
+pub_authors <- pub_authors %>% group_by(pub_id) %>%
+  summarise(Authors = paste0(author_name, collapse = "; "),
+            Author_IDs = paste0(author_id, collapse = "; "))
+
+pubs <- pubs %>% select(-Authors, - Author_IDs) %>%
+  left_join(pub_authors, by = "pub_id")
+rm(replacements, i)
+
+```
+
+# De-duplicate publications in parents & children
+```{r}
+library(readxl)
+
+parent_child_dups <- read_xlsx(here("data","tables","manual_review","Parent-Child_Duplicate_Matches.xlsx"))
+
+all(parent_child_dups$child_pub_id %in% child_pubs$pub_id)
+
+dups <- pubs %>% filter(pub_id %in% c(parent_child_dups$parent_pub_id,
+                                        parent_child_dups$child_pub_id))
+the_rest <- pubs %>% filter(!pub_id %in% c(parent_child_dups$parent_pub_id,
+                                        parent_child_dups$child_pub_id))
+
+dups <- dups %>%
+  left_join(parent_child_dups %>% 
+              rename(parent_replacement = parent_pub_id, 
+                     pub_id = child_pub_id) %>% select(parent_replacement, pub_id)) %>%
+  mutate(parent_replacement = ifelse(is.na(parent_replacement), pub_id, parent_replacement))
+
+unique_narm <- function(v){
+  # get unique values of vector, but remove NA strings
+  u <- unique(v)
+  u <- u[!is.na(u) & !u %in% c("NA",""," ")]
+  return(u)
+}
+# now use parent_replacment to group and dedup
+dups <- dups %>% group_by(parent_replacement) %>% 
+  summarise(
+    "pub_id" = paste0(unique_narm(pub_id), collapse = "; "),                         
+    "Year" = paste0(unique_narm(Year), collapse = "; "),                        
+    "Publisher" = paste0(unique_narm(Publisher), collapse = "; "),
+    "Title" = paste0(unique_narm(Title), collapse = "; "),                     
+    "Authors" = unique_narm(Authors), # keep duplicate authors lists on different rows
+    "Author_IDs" = unique_narm(Author_IDs), # keep duplicate authors lists on different rows
+    "Date" = paste0(unique_narm(Date), collapse = "; "),                   
+    "Publication_Link" = paste0(unique_narm(Publication_Link), collapse = "; "), 
+    "Publication_DOI" = paste0(unique_narm(Publication_DOI), collapse = "; "), 
+    "Alt_Links" = paste0(unique_narm(Alt_Links), collapse = "; "),              
+    "Publication_Type" = paste0(unique_narm(Publication_Type), collapse = "; "),            
+    "Cited_By" = paste0(unique_narm(Cited_By), collapse = "; "), 
+    "Cited_By_Link" = paste0(unique_narm(Cited_By_Link), collapse = "; "), 
+    "On_Earth_MRI_Publication_Page?" = paste0(unique_narm(`On_Earth_MRI_Publication_Page?`), collapse = "; "), 
+    "X_LLM_Title" = paste0(unique_narm(X_LLM_Title), collapse = "; "), 
+    "X_LLM_Journal" = paste0(unique_narm(X_LLM_Journal), collapse = "; "),                  
+    "X_LLM_Affiliations" = paste0(unique_narm(X_LLM_Affiliations), collapse = "; "),           
+    "X_LLM_Abstract" = paste0(unique_narm(X_LLM_Abstract), collapse = "; "),   
+    "X_LLM_Keywords" = paste0(unique_narm(X_LLM_Keywords), collapse = "; "),                  
+    "X_LLM_Funders" = paste0(unique_narm(X_LLM_Funders), collapse = "; "),                   
+    "X_LLM_Study_Area" = paste0(unique_narm(X_LLM_Study_Area), collapse = "; "),   
+    "X_LLM_Methods" = paste0(unique_narm(X_LLM_Methods), collapse = "; "),   
+    "X_LLM_Datasets" = paste0(unique_narm(X_LLM_Datasets), collapse = "; "),   
+    "X_LLM_Publisher" = paste0(unique_narm(X_LLM_Publisher), collapse = "; "),   
+    "X_LLM_Year" = paste0(unique_narm(X_LLM_Year), collapse = "; "),                       
+    "X_LLM_Authors" = paste0(unique_narm(X_LLM_Authors), collapse = "; "),                
+    "child_authors_and_venue" = paste0(unique_narm(child_authors_and_venue), collapse = "; "),         
+    "child_snippet" = paste0(unique_narm(child_snippet), collapse = "; "),             
+    "child_pdf_link" = paste0(unique_narm(child_pdf_link), collapse = "; "),               
+    "child_position" = paste0(unique_narm(child_position), collapse = "; "),                  
+    "X_LLM_SourceUsed" = paste0(unique_narm(X_LLM_SourceUsed), collapse = "; "),                
+    "X_LLM_DOI" = paste0(unique_narm(X_LLM_DOI), collapse = "; "),                       
+    "X_LLM_Authors_Clean" = paste0(unique_narm(X_LLM_Authors_Clean), collapse = "; "),            
+    "parent_pub_id" = paste0(unique_narm(parent_pub_id), collapse = "; "),    
+  ) %>% unique
+
+#write.csv(dups, here("data","tables","manual_review","parent_child_dups.csv"))
+
+dups <- read.csv(here("data","tables","manual_review","parent_child_dups.csv")) %>% 
+  filter(is.na(drop)) %>% select(-pub_id,-drop,-Notes) %>% 
+  rename(pub_id = parent_replacement) %>%
+  mutate(Year = as.numeric(Year))
+
+pubs <- dups %>% full_join(the_rest)
+rm(dups, the_rest)
 write.csv(pubs, here("data", "tables", "publications.csv"))
+
+pub_authors <- pubs %>% select(pub_id, Authors, Author_IDs)  %>%
+  separate_longer_delim(c(Authors, Author_IDs), delim = "; ") %>%
+  rename(author_name = Authors,
+         author_id = Author_IDs) %>% filter(!is.na(author_id))
+write.csv(pub_authors, here("data", "tables", "pub_authors.csv"))
+
+parent_pub_authors <- pub_authors %>% filter(pub_id %in% 1:138)
+write.csv(parent_pub_authors, here("data", "tables", "parent_pub_authors.csv"))
+
+child_pub_authors <- pub_authors %>% filter(!pub_id %in% 1:138)
+write.csv(child_pub_authors, here("data", "tables", "child_pub_authors.csv"))
+
+parent_pubs <- pubs %>% filter(pub_id %in% 1:138)
+write.csv(parent_pubs, here("data", "tables", "parent_publications.csv"))
+
+child_pubs <- pubs %>% filter(!pub_id %in% 1:138)
+write.csv(child_pubs, here("data", "tables", "child_publications.csv"))
+
 ```
 
 
@@ -97,6 +220,7 @@ parent_co_authorship <- parent_co_authorship %>% pivot_wider(names_from = author
   select(author_name, author_id, everything())
 
 write.csv(parent_co_authorship, here("data", "tables", "parent_pub_co_authorship.csv"))
+
 ```
 
 ## Create Co-authorship Table
